@@ -4,7 +4,7 @@ A small Python prototype that screens public procurement data for firms that may
 
 It is inspired by Villamil and Kertész (2026), who applied a network method to 200,065 contracts from district engineering offices of the Philippine Department of Public Works and Highways. This repository does not reproduce their method or their results. See [How this relates to the paper](#how-this-relates-to-the-paper).
 
-> **All data in this repository is synthetic.** Firm names, people, addresses, offices, amounts and dates were generated at random by `generate_data.py`. They do not describe any real firm, person or contract. Every data file name starts with `synthetic_`. No results on real data are claimed.
+> **All data in this repository is synthetic.** Firm names, people, addresses, offices, amounts and dates were generated at random by `generate_data.py`. They do not describe any real firm, person or contract. Every data file name starts with `proto_`. No results on real data are claimed.
 
 ## What it does
 
@@ -113,8 +113,8 @@ python generate_data.py --seed 42 --out data
 
 # 2. Run the pipeline
 python -m bidring.pipeline \
-    --bids data/synthetic_tenders_ocds.json \
-    --registry data/synthetic_registry.csv \
+    --bids data/proto_tenders_ocds.json \
+    --registry data/proto_registry.csv \
     --out output \
     --sqlite output/bids.sqlite
 

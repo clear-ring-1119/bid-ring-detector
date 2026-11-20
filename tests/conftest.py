@@ -60,10 +60,10 @@ def small_synthetic(tmp_path_factory):
     out = tmp_path_factory.mktemp("synth")
     d = generate_data.generate(seed=3, n_tenders=1500, n_firms=150, n_offices=12)
     import json
-    (out / "synthetic_tenders_ocds.json").write_text(json.dumps({"releases": d["releases"]}))
-    generate_data.write_csv(out / "synthetic_bids.csv", d["bids"])
-    generate_data.write_csv(out / "synthetic_registry.csv", d["registry"])
-    generate_data.write_csv(out / "synthetic_ground_truth_rings.csv", d["truth"])
-    generate_data.write_csv(out / "synthetic_ground_truth_names.csv", d["name_truth"])
-    generate_data.write_csv(out / "synthetic_ground_truth_offices.csv", d["ring_offices"])
+    (out / "proto_tenders_ocds.json").write_text(json.dumps({"releases": d["releases"]}))
+    generate_data.write_csv(out / "proto_bids.csv", d["bids"])
+    generate_data.write_csv(out / "proto_registry.csv", d["registry"])
+    generate_data.write_csv(out / "proto_ground_truth_rings.csv", d["truth"])
+    generate_data.write_csv(out / "proto_ground_truth_names.csv", d["name_truth"])
+    generate_data.write_csv(out / "proto_ground_truth_offices.csv", d["ring_offices"])
     return out

@@ -2,8 +2,8 @@
 
 Usage::
 
-    python -m bidring.pipeline --bids data/synthetic_tenders_ocds.json \\
-        --registry data/synthetic_registry.csv --out output [--config my.json]
+    python -m bidring.pipeline --bids data/proto_tenders_ocds.json \\
+        --registry data/proto_registry.csv --out output [--config my.json]
 """
 
 from __future__ import annotations

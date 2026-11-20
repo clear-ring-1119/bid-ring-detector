@@ -30,8 +30,8 @@ def test_planted_rings_recovered(small_synthetic):
 
 def test_cli_writes_report(small_synthetic, tmp_path):
     out = tmp_path / "out"
-    res = pipeline.main(["--bids", str(small_synthetic / "synthetic_bids.csv"),
-                         "--registry", str(small_synthetic / "synthetic_registry.csv"),
+    res = pipeline.main(["--bids", str(small_synthetic / "proto_bids.csv"),
+                         "--registry", str(small_synthetic / "proto_registry.csv"),
                          "--out", str(out), "--sqlite", str(tmp_path / "b.sqlite")])
     assert (out / "report.html").exists()
     assert "SYNTHETIC" in (out / "report.html").read_text()
@@ -42,8 +42,8 @@ def test_cli_writes_report(small_synthetic, tmp_path):
 def test_cli_with_config_file(small_synthetic, tmp_path):
     cfg = tmp_path / "c.json"
     cfg.write_text('{"flag_threshold": 0.99}')
-    res = pipeline.main(["--bids", str(small_synthetic / "synthetic_tenders_ocds.json"),
-                         "--registry", str(small_synthetic / "synthetic_registry.csv"),
+    res = pipeline.main(["--bids", str(small_synthetic / "proto_tenders_ocds.json"),
+                         "--registry", str(small_synthetic / "proto_registry.csv"),
                          "--out", str(tmp_path / "o"), "--config", str(cfg)])
     assert res["config"]["flag_threshold"] == 0.99
     assert res["summary"]["n_flagged"] == 0

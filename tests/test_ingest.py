@@ -26,8 +26,8 @@ def test_load_ocds_json_flattens_bids_and_winner(tmp_path):
 
 
 def test_csv_and_json_give_same_rows(small_synthetic):
-    a = ingest.load(small_synthetic / "synthetic_tenders_ocds.json")
-    b = ingest.load(small_synthetic / "synthetic_bids.csv")
+    a = ingest.load(small_synthetic / "proto_tenders_ocds.json")
+    b = ingest.load(small_synthetic / "proto_bids.csv")
     assert len(a) == len(b)
     assert a["is_winner"].sum() == b["is_winner"].sum()
 

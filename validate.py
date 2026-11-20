@@ -114,11 +114,11 @@ def recurrent_check(rel: pd.DataFrame, truth: pd.DataFrame) -> dict:
 def validate(data_dir: str | Path = "data", cfg: Config | None = None) -> dict:
     """Run the pipeline on the synthetic data and score it."""
     d = Path(data_dir)
-    bids = ingest.load(d / "synthetic_tenders_ocds.json")
-    registry = ingest.load_registry(d / "synthetic_registry.csv")
-    truth = pd.read_csv(d / "synthetic_ground_truth_rings.csv", dtype=str)
-    names = pd.read_csv(d / "synthetic_ground_truth_names.csv", dtype=str)
-    ring_offices = pd.read_csv(d / "synthetic_ground_truth_offices.csv", dtype=str)
+    bids = ingest.load(d / "proto_tenders_ocds.json")
+    registry = ingest.load_registry(d / "proto_registry.csv")
+    truth = pd.read_csv(d / "proto_ground_truth_rings.csv", dtype=str)
+    names = pd.read_csv(d / "proto_ground_truth_names.csv", dtype=str)
+    ring_offices = pd.read_csv(d / "proto_ground_truth_offices.csv", dtype=str)
     res = run(bids, registry, cfg)
     return {"names": name_accuracy(res["name_map"], names),
             "pairs": pair_metrics(res["flagged"], true_pairs(truth)),

@@ -6,12 +6,12 @@ or contract.
 
 Outputs (in ``data/`` by default):
 
-* ``synthetic_tenders_ocds.json``   OCDS-style releases (tender, bids, award)
-* ``synthetic_bids.csv``            the same bids, flattened
-* ``synthetic_registry.csv``        a synthetic corporate registry
-* ``synthetic_ground_truth_rings.csv``  which firms belong to planted rings
-* ``synthetic_ground_truth_names.csv``  true firm behind each typed bidder name
-* ``synthetic_ground_truth_offices.csv``  offices where each ring operates
+* ``proto_tenders_ocds.json``   OCDS-style releases (tender, bids, award)
+* ``proto_bids.csv``            the same bids, flattened
+* ``proto_registry.csv``        a synthetic corporate registry
+* ``proto_ground_truth_rings.csv``  which firms belong to planted rings
+* ``proto_ground_truth_names.csv``  true firm behind each typed bidder name
+* ``proto_ground_truth_offices.csv``  offices where each ring operates
 
 Planted behaviour (the "ground truth"):
 
@@ -350,12 +350,12 @@ def main() -> None:
     d = generate(a.seed, a.tenders, a.firms, a.offices)
     pkg = {"_note": "SYNTHETIC DATA. Invented for testing. Not real contracts.",
            "releases": d["releases"]}
-    (out / "synthetic_tenders_ocds.json").write_text(json.dumps(pkg), encoding="utf-8")
-    write_csv(out / "synthetic_bids.csv", d["bids"])
-    write_csv(out / "synthetic_registry.csv", d["registry"])
-    write_csv(out / "synthetic_ground_truth_rings.csv", d["truth"])
-    write_csv(out / "synthetic_ground_truth_names.csv", d["name_truth"])
-    write_csv(out / "synthetic_ground_truth_offices.csv", d["ring_offices"])
+    (out / "proto_tenders_ocds.json").write_text(json.dumps(pkg), encoding="utf-8")
+    write_csv(out / "proto_bids.csv", d["bids"])
+    write_csv(out / "proto_registry.csv", d["registry"])
+    write_csv(out / "proto_ground_truth_rings.csv", d["truth"])
+    write_csv(out / "proto_ground_truth_names.csv", d["name_truth"])
+    write_csv(out / "proto_ground_truth_offices.csv", d["ring_offices"])
     print(f"Wrote {len(d['releases'])} synthetic tenders, {len(d['bids'])} bids, "
           f"{len(d['registry'])} firms to {out}/")
 

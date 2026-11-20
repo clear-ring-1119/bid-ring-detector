@@ -1,0 +1,144 @@
+ocid,office_id,office_name,tender_close,estimated_value,firm_id,bidder_name,bid_amount,pct_of_winning_bid,submitted_at,is_winner
+ocds-synthetic-00106,O008,Davao District Engineering Office,2022-01-25 10:00:00,19479000.0,F0189,Tagumpay Builders & Trading Corp.,18709079.32,100.0,2022-01-25 02:38:00,1
+ocds-synthetic-00106,O008,Davao District Engineering Office,2022-01-25 10:00:00,19479000.0,F0194,PRIME BUILDERS & TRADING INC.,19620884.14,104.9,2022-01-24 20:02:00,0
+ocds-synthetic-00106,O008,Davao District Engineering Office,2022-01-25 10:00:00,19479000.0,F0188,Valdez Engineering Services Corp.,20494438.89,109.5,2022-01-25 09:17:00,0
+ocds-synthetic-01114,O024,Digos District Engineering Office,2022-03-03 10:00:00,28131000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,27257465.09,100.0,2022-03-03 02:15:00,1
+ocds-synthetic-01114,O024,Digos District Engineering Office,2022-03-03 10:00:00,28131000.0,F0194,Prime Builders & Trading Inc.,29006433.44,106.4,2022-03-03 04:11:00,0
+ocds-synthetic-01114,O024,Digos District Engineering Office,2022-03-03 10:00:00,28131000.0,F0189,Taugmpay Builders & Trading Corp.,29033219.5,106.5,2022-03-03 06:49:00,0
+ocds-synthetic-01013,O008,Davao District Engineering Office,2022-03-23 10:00:00,4833000.0,F0188,Valdez Engineering Services Corp.,4794302.2,100.0,2022-03-23 08:41:00,1
+ocds-synthetic-01013,O008,Davao District Engineering Office,2022-03-23 10:00:00,4833000.0,F0189,Tagumpay Builders & Trading Corp.,5113001.08,106.6,2022-03-23 05:23:00,0
+ocds-synthetic-01013,O008,Davao District Engineering Office,2022-03-23 10:00:00,4833000.0,F0194,Prime Builders & Trading Inc.,5132381.67,107.1,2022-03-23 09:37:00,0
+ocds-synthetic-01547,O008,Davao District Engineering Office,2022-05-08 10:00:00,4950000.0,F0189,TAGUMPAY BUILDERS & TRADING CORP.,4782664.39,100.0,2022-05-08 01:10:00,1
+ocds-synthetic-01547,O008,Davao District Engineering Office,2022-05-08 10:00:00,4950000.0,F0194,Prime Builders & Trading Inc.,4988306.95,104.3,2022-05-08 07:46:00,0
+ocds-synthetic-01547,O008,Davao District Engineering Office,2022-05-08 10:00:00,4950000.0,F0188,Valdez Engineering Services Corp.,5016097.5,104.9,2022-05-08 08:12:00,0
+ocds-synthetic-01547,O008,Davao District Engineering Office,2022-05-08 10:00:00,4950000.0,F0117,Masagana Contractors Inc,5104324.54,106.7,2022-05-08 08:40:00,0
+ocds-synthetic-01178,O024,Digos District Engineering Office,2022-06-28 10:00:00,12925000.0,F0189,TAGUMPAY BUILDERS & TRADING CORP.,12610092.17,100.0,2022-06-28 06:46:00,1
+ocds-synthetic-01178,O024,Digos District Engineering Office,2022-06-28 10:00:00,12925000.0,F0188,Valdez Engineering Services Corp.,13055088.94,103.5,2022-06-28 05:36:00,0
+ocds-synthetic-01178,O024,Digos District Engineering Office,2022-06-28 10:00:00,12925000.0,F0194,Prime Builders & Trading Inc.,13448268.95,106.6,2022-06-28 05:34:00,0
+ocds-synthetic-03339,O032,Mati District Engineering Office,2022-09-26 10:00:00,19758000.0,F0189,Tagumpay Builders & Trading Corp.,19445107.36,100.0,2022-09-26 07:57:00,1
+ocds-synthetic-03339,O032,Mati District Engineering Office,2022-09-26 10:00:00,19758000.0,F0194,Prime Builders & Trading Inc.,21127849.46,108.7,2022-09-26 09:40:00,0
+ocds-synthetic-03339,O032,Mati District Engineering Office,2022-09-26 10:00:00,19758000.0,F0188,Valdez Engineering Services Corp.,21262979.47,109.3,2022-09-26 06:47:00,0
+ocds-synthetic-01905,O024,Digos District Engineering Office,2022-12-23 10:00:00,12439000.0,F0189,Tagumpay Builders & Trading Corp.,11295703.11,100.0,2022-12-23 08:21:00,1
+ocds-synthetic-01905,O024,Digos District Engineering Office,2022-12-23 10:00:00,12439000.0,F0188,Valdez Engineering Services Corp,11377850.65,100.7,2022-12-23 08:07:00,0
+ocds-synthetic-01905,O024,Digos District Engineering Office,2022-12-23 10:00:00,12439000.0,F0194,Prime Builders & Trading Incorporated,12283108.78,108.7,2022-12-23 08:11:00,0
+ocds-synthetic-01905,O024,Digos District Engineering Office,2022-12-23 10:00:00,12439000.0,F0089,Uy Contractors Co.,12376713.04,109.6,2022-12-23 08:28:00,0
+ocds-synthetic-01905,O024,Digos District Engineering Office,2022-12-23 10:00:00,12439000.0,F0399,Flores Infra Works Co.,12497417.27,110.6,2022-12-23 03:43:00,0
+ocds-synthetic-04930,O008,Davao District Engineering Office,2023-01-06 10:00:00,3855000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,3774972.52,100.0,2023-01-05 23:00:00,1
+ocds-synthetic-04930,O008,Davao District Engineering Office,2023-01-06 10:00:00,3855000.0,F0189,TAGUMPAY BUILDERS & TRADING CORP.,4056242.15,107.5,2023-01-06 07:50:00,0
+ocds-synthetic-04930,O008,Davao District Engineering Office,2023-01-06 10:00:00,3855000.0,F0194,Prime Builders & Trading Inc.,4070708.72,107.8,2023-01-06 03:48:00,0
+ocds-synthetic-01338,O024,Digos District Engineering Office,2023-01-09 10:00:00,1069000.0,F0188,Valdez Engineering Services Corp.,1056015.45,100.0,2023-01-09 04:52:00,1
+ocds-synthetic-01338,O024,Digos District Engineering Office,2023-01-09 10:00:00,1069000.0,F0194,Prime Builders & Trading Inc.,1111798.06,105.3,2023-01-09 05:48:00,0
+ocds-synthetic-01338,O024,Digos District Engineering Office,2023-01-09 10:00:00,1069000.0,F0189,Tagumpay Builders & Trading Corp.,1120914.59,106.1,2023-01-09 07:16:00,0
+ocds-synthetic-01055,O032,Mati District Engineering Office,2023-05-04 10:00:00,14970000.0,F0194,Prime Builders & Trading Inc.,14412767.98,100.0,2023-05-04 08:02:00,1
+ocds-synthetic-01055,O032,Mati District Engineering Office,2023-05-04 10:00:00,14970000.0,F0189,TAGUMPAY BUILDERS & TRADING CORP.,15148879.27,105.1,2023-05-04 09:58:00,0
+ocds-synthetic-01055,O032,Mati District Engineering Office,2023-05-04 10:00:00,14970000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,15327411.69,106.3,2023-05-04 06:38:00,0
+ocds-synthetic-04199,O032,Mati District Engineering Office,2023-05-10 10:00:00,37431000.0,F0189,Tagumpay Builders & Trading Corp.,36573918.82,100.0,2023-05-10 04:42:00,1
+ocds-synthetic-04199,O032,Mati District Engineering Office,2023-05-10 10:00:00,37431000.0,F0188,Valdez Engineering Services Corp,38105267.84,104.2,2023-05-10 03:43:00,0
+ocds-synthetic-04199,O032,Mati District Engineering Office,2023-05-10 10:00:00,37431000.0,F0194,Prime Builders & Trading Inc.,39659734.69,108.4,2023-05-10 04:12:00,0
+ocds-synthetic-04048,O032,Mati District Engineering Office,2023-08-02 10:00:00,3740000.0,F0188,Valdez Engineering Services Corp.,3681676.78,100.0,2023-08-02 07:15:00,1
+ocds-synthetic-04048,O032,Mati District Engineering Office,2023-08-02 10:00:00,3740000.0,F0194,Prime Builders & Trading Inc.,3860464.31,104.9,2023-08-02 08:08:00,0
+ocds-synthetic-04048,O032,Mati District Engineering Office,2023-08-02 10:00:00,3740000.0,F0189,Tagumpay Builders & Trading Corp.,3957208.66,107.5,2023-08-01 23:53:00,0
+ocds-synthetic-03437,O032,Mati District Engineering Office,2023-08-18 10:00:00,10818000.0,F0194,Prime Builders & Trading Inc,10676466.25,100.0,2023-08-18 07:14:00,1
+ocds-synthetic-03437,O032,Mati District Engineering Office,2023-08-18 10:00:00,10818000.0,F0189,Tagumpay Builders & Trading Corp.,11583560.81,108.5,2023-08-18 08:07:00,0
+ocds-synthetic-03437,O032,Mati District Engineering Office,2023-08-18 10:00:00,10818000.0,F0188,Valdez Engineering Services Corp.,11690647.8,109.5,2023-08-18 09:50:00,0
+ocds-synthetic-02271,O024,Digos District Engineering Office,2023-09-07 10:00:00,3142000.0,F0194,PRIME BUILDERS & TRADING INC.,3050592.85,100.0,2023-09-07 08:31:00,1
+ocds-synthetic-02271,O024,Digos District Engineering Office,2023-09-07 10:00:00,3142000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,3154220.07,103.4,2023-09-07 09:15:00,0
+ocds-synthetic-02271,O024,Digos District Engineering Office,2023-09-07 10:00:00,3142000.0,F0023,TCR CONSTRUCTION & SUPPLY INC.,3181016.17,104.3,2023-09-07 07:41:00,0
+ocds-synthetic-02271,O024,Digos District Engineering Office,2023-09-07 10:00:00,3142000.0,F0189,Tagumpay Builders & Trading Corp.,3294695.22,108.0,2023-09-07 09:27:00,0
+ocds-synthetic-02575,O032,Mati District Engineering Office,2023-09-29 10:00:00,4279000.0,F0188,Valdez Engineering Services Corp.,4150726.14,100.0,2023-09-29 05:51:00,1
+ocds-synthetic-02575,O032,Mati District Engineering Office,2023-09-29 10:00:00,4279000.0,F0189,Tagumpay Builders & Trading Corp.,4364121.32,105.1,2023-09-29 04:40:00,0
+ocds-synthetic-02575,O032,Mati District Engineering Office,2023-09-29 10:00:00,4279000.0,F0194,Prime Builders & Trading Inc.,4513646.49,108.7,2023-09-29 05:04:00,0
+ocds-synthetic-01756,O032,Mati District Engineering Office,2023-10-04 10:00:00,14747000.0,F0188,Valdez Engineering Services Corp.,14279679.79,100.0,2023-10-04 08:03:00,1
+ocds-synthetic-01756,O032,Mati District Engineering Office,2023-10-04 10:00:00,14747000.0,F0194,Prime Builders & Trading Inc.,14906214.39,104.4,2023-10-03 18:10:00,0
+ocds-synthetic-01756,O032,Mati District Engineering Office,2023-10-04 10:00:00,14747000.0,F0189,Tagumpay Builders & Trading Corp.,15696288.69,109.9,2023-10-04 04:07:00,0
+ocds-synthetic-03481,O008,Davao District Engineering Office,2023-12-01 10:00:00,19679000.0,F0188,Valdez Engineering Services Corp.,19541099.9,100.0,2023-12-01 09:40:00,1
+ocds-synthetic-03481,O008,Davao District Engineering Office,2023-12-01 10:00:00,19679000.0,F0194,Prime Builders and Trading Inc.,20323426.21,104.0,2023-12-01 08:50:00,0
+ocds-synthetic-03481,O008,Davao District Engineering Office,2023-12-01 10:00:00,19679000.0,F0189,Tagumpay Builders & Trading Corp.,20816688.89,106.5,2023-12-01 06:13:00,0
+ocds-synthetic-03797,O008,Davao District Engineering Office,2023-12-01 10:00:00,6156000.0,F0194,Prime Builders & Trading Incorporated,6016433.86,100.0,2023-12-01 06:42:00,1
+ocds-synthetic-03797,O008,Davao District Engineering Office,2023-12-01 10:00:00,6156000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,6299862.71,104.7,2023-12-01 07:33:00,0
+ocds-synthetic-03797,O008,Davao District Engineering Office,2023-12-01 10:00:00,6156000.0,F0189,Tagumpay Builders & Trading Corp,6593089.14,109.6,2023-12-01 06:16:00,0
+ocds-synthetic-04124,O032,Mati District Engineering Office,2023-12-05 10:00:00,99679000.0,F0194,Prime Builders & Trading Incorporated,97223496.72,100.0,2023-12-05 09:44:00,1
+ocds-synthetic-04124,O032,Mati District Engineering Office,2023-12-05 10:00:00,99679000.0,F0189,Tagumpay Builders & Trading Corp.,104237097.32,107.2,2023-12-05 02:55:00,0
+ocds-synthetic-04124,O032,Mati District Engineering Office,2023-12-05 10:00:00,99679000.0,F0188,Valdez Engineering Services Corp.,105989684.8,109.0,2023-12-05 04:03:00,0
+ocds-synthetic-02381,O032,Mati District Engineering Office,2024-02-26 10:00:00,11818000.0,F0194,Prime Builders & Trading Inc.,11696881.79,100.0,2024-02-26 06:16:00,1
+ocds-synthetic-02381,O032,Mati District Engineering Office,2024-02-26 10:00:00,11818000.0,F0189,Tagumpay Builders & Trading Corp.,12383609.91,105.9,2024-02-26 04:58:00,0
+ocds-synthetic-02381,O032,Mati District Engineering Office,2024-02-26 10:00:00,11818000.0,F0188,VALDEZ ENGINEERING SERVICES CORP.,12523629.2,107.1,2024-02-26 04:24:00,0
+ocds-synthetic-04045,O024,Digos District Engineering Office,2024-03-03 10:00:00,400000000.0,F0194,Prime Builders & Trading Incorporated,394852705.83,100.0,2024-03-03 01:26:00,1
+ocds-synthetic-04045,O024,Digos District Engineering Office,2024-03-03 10:00:00,400000000.0,F0188,Valdez Engineering Services Corp.,413362465.76,104.7,2024-03-03 03:12:00,0
+ocds-synthetic-04045,O024,Digos District Engineering Office,2024-03-03 10:00:00,400000000.0,F0189,Tagumpay Builders & Trading Corp.,423676020.59,107.3,2024-03-03 08:25:00,0
+ocds-synthetic-03929,O024,Digos District Engineering Office,2024-04-12 10:00:00,8022000.0,F0189,TAGUMPAY BUILDERS & TRADING CORP.,7706683.35,100.0,2024-04-12 09:16:00,1
+ocds-synthetic-03929,O024,Digos District Engineering Office,2024-04-12 10:00:00,8022000.0,F0188,Valdez Engineering Services Corp.,7964906.94,103.4,2024-04-12 08:29:00,0
+ocds-synthetic-03929,O024,Digos District Engineering Office,2024-04-12 10:00:00,8022000.0,F0194,PRIME BUILDERS & TRADING INC.,8125974.17,105.4,2024-04-11 16:13:00,0
+ocds-synthetic-04906,O024,Digos District Engineering Office,2024-05-25 10:00:00,8267000.0,F0194,Prime Builders & Trading Inc.,7992495.77,100.0,2024-05-25 08:44:00,1
+ocds-synthetic-04906,O024,Digos District Engineering Office,2024-05-25 10:00:00,8267000.0,F0188,Valdez Engineering Services Corp,8233745.67,103.0,2024-05-25 07:09:00,0
+ocds-synthetic-04906,O024,Digos District Engineering Office,2024-05-25 10:00:00,8267000.0,F0189,Tagumpay Builders & Trading Corp.,8788083.84,110.0,2024-05-25 06:42:00,0
+ocds-synthetic-04906,O024,Digos District Engineering Office,2024-05-25 10:00:00,8267000.0,F0251,Rivera Civil Works Corp.,8810464.92,110.2,2024-05-24 20:55:00,0
+ocds-synthetic-04102,O032,Mati District Engineering Office,2024-06-10 10:00:00,16951000.0,F0189,Tagumpay Builders & Trading Corp.,16427956.28,100.0,2024-06-10 07:55:00,1
+ocds-synthetic-04102,O032,Mati District Engineering Office,2024-06-10 10:00:00,16951000.0,F0194,Prime Builders & Trading Inc.,16932104.79,103.1,2024-06-10 03:47:00,0
+ocds-synthetic-04102,O032,Mati District Engineering Office,2024-06-10 10:00:00,16951000.0,F0188,Valdez Engineering Services Corp.,17205773.22,104.7,2024-06-10 08:17:00,0
+ocds-synthetic-03744,O032,Mati District Engineering Office,2024-11-04 10:00:00,7129000.0,F0189,Tagumpay Builders & Trading Corp.,6902608.68,100.0,2024-11-03 19:27:00,1
+ocds-synthetic-03744,O032,Mati District Engineering Office,2024-11-04 10:00:00,7129000.0,F0194,Prime Builders & Trading Inc.,7176915.46,104.0,2024-11-04 08:22:00,0
+ocds-synthetic-03744,O032,Mati District Engineering Office,2024-11-04 10:00:00,7129000.0,F0181,Cruz Civil Works Inc.,7376961.51,106.9,2024-11-04 03:08:00,0
+ocds-synthetic-03744,O032,Mati District Engineering Office,2024-11-04 10:00:00,7129000.0,F0188,Valdez Engineering Services Corp,7379740.22,106.9,2024-11-04 00:54:00,0
+ocds-synthetic-02881,O008,Davao District Engineering Office,2025-01-01 10:00:00,11707000.0,F0188,Valdez Engineering Services Corp.,11349014.31,100.0,2024-12-31 14:42:00,1
+ocds-synthetic-02881,O008,Davao District Engineering Office,2025-01-01 10:00:00,11707000.0,F0194,Prime Builders & Trading Incorporated,12060549.7,106.3,2024-12-31 20:17:00,0
+ocds-synthetic-02881,O008,Davao District Engineering Office,2025-01-01 10:00:00,11707000.0,F0189,Tagumpay Builders & Trading Corp.,12216222.62,107.6,2025-01-01 09:37:00,0
+ocds-synthetic-04131,O024,Digos District Engineering Office,2025-03-14 10:00:00,67300000.0,F0188,Valdez Engineering Services Corp.,65367401.08,100.0,2025-03-14 07:06:00,1
+ocds-synthetic-04131,O024,Digos District Engineering Office,2025-03-14 10:00:00,67300000.0,F0194,PRIME BUILDERS & TRADING INC.,68126101.79,104.2,2025-03-14 06:04:00,0
+ocds-synthetic-04131,O024,Digos District Engineering Office,2025-03-14 10:00:00,67300000.0,F0189,Tagumpay Builders & Trading Corporation,69346200.55,106.1,2025-03-14 09:16:00,0
+ocds-synthetic-04131,O024,Digos District Engineering Office,2025-03-14 10:00:00,67300000.0,F0026,Lacson Infra Works Corp.,69860120.58,106.9,2025-03-13 23:34:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0291,Bituin Civil Works Corp.,5414290.1,100.0,2025-05-03 01:52:00,1
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0188,Valdez Engineering Services Corp,5480623.12,101.2,2025-05-03 09:43:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0194,Prime Builders & Trading Inc.,5555294.16,102.6,2025-05-03 04:31:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0034,Soriano Engineering Services Co.,5939994.45,109.7,2025-05-03 01:25:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0127,GAA Construction & Supply Enterprises,5966895.68,110.2,2025-05-03 09:03:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0379,CCR Construction & Supply Inc.,6060826.97,111.9,2025-05-03 09:30:00,0
+ocds-synthetic-00401,O008,Davao District Engineering Office,2025-05-03 10:00:00,6335000.0,F0388,Apex Development Corp.,6387270.73,118.0,2025-05-02 20:12:00,0
+ocds-synthetic-00948,O032,Mati District Engineering Office,2025-05-19 10:00:00,16738000.0,F0189,Tagumpay Builders & Trading Corp.,16455995.15,100.0,2025-05-19 07:36:00,1
+ocds-synthetic-00948,O032,Mati District Engineering Office,2025-05-19 10:00:00,16738000.0,F0188,Valdez Engineering Services Corp.,17472864.67,106.2,2025-05-18 20:02:00,0
+ocds-synthetic-00948,O032,Mati District Engineering Office,2025-05-19 10:00:00,16738000.0,F0194,Prime Builders & Trading Inc.,17717206.82,107.7,2025-05-19 07:33:00,0
+ocds-synthetic-00234,O008,Davao District Engineering Office,2025-06-02 10:00:00,12442000.0,F0194,Prime Builders & Trading Inc.,12357537.09,100.0,2025-06-02 09:16:00,1
+ocds-synthetic-00234,O008,Davao District Engineering Office,2025-06-02 10:00:00,12442000.0,F0127,GAA Construction & Supply Enterprises,12516523.08,101.3,2025-06-02 03:50:00,0
+ocds-synthetic-00234,O008,Davao District Engineering Office,2025-06-02 10:00:00,12442000.0,F0189,Tagumpay Builders & Trading Corp.,13501376.86,109.3,2025-06-02 06:50:00,0
+ocds-synthetic-00234,O008,Davao District Engineering Office,2025-06-02 10:00:00,12442000.0,F0188,Valdez Engineering Services Corp.,13507615.55,109.3,2025-06-01 16:07:00,0
+ocds-synthetic-02619,O032,Mati District Engineering Office,2025-06-20 10:00:00,13077000.0,F0189,Tagumpay Builders & Trading Corporation,12794589.27,100.0,2025-06-20 07:03:00,1
+ocds-synthetic-02619,O032,Mati District Engineering Office,2025-06-20 10:00:00,13077000.0,F0194,Prime Builders & Trading Inc.,13225310.64,103.4,2025-06-20 03:07:00,0
+ocds-synthetic-02619,O032,Mati District Engineering Office,2025-06-20 10:00:00,13077000.0,F0188,Valdez Engineering Services Corp.,13617057.09,106.4,2025-06-20 08:05:00,0
+ocds-synthetic-01262,O032,Mati District Engineering Office,2025-07-02 10:00:00,19143000.0,F0194,Prime Builders & Trading Incorporated,18984656.48,100.0,2025-07-02 05:21:00,1
+ocds-synthetic-01262,O032,Mati District Engineering Office,2025-07-02 10:00:00,19143000.0,F0188,Valdez Engineering Services Corp.,19599653.45,103.2,2025-07-02 07:52:00,0
+ocds-synthetic-01262,O032,Mati District Engineering Office,2025-07-02 10:00:00,19143000.0,F0189,Tagumpay Builders and Trading Corp.,20283421.8,106.8,2025-07-02 04:35:00,0
+ocds-synthetic-02362,O032,Mati District Engineering Office,2025-07-02 10:00:00,47618000.0,F0189,Tagumpay Builders & Trading Corp.,46165701.81,100.0,2025-07-02 06:57:00,1
+ocds-synthetic-02362,O032,Mati District Engineering Office,2025-07-02 10:00:00,47618000.0,F0188,Valdez Engineering Services Corp.,49003860.55,106.1,2025-07-02 07:17:00,0
+ocds-synthetic-02362,O032,Mati District Engineering Office,2025-07-02 10:00:00,47618000.0,F0194,Prime Builders & Trading Incorporated,50137036.86,108.6,2025-07-02 00:35:00,0
+ocds-synthetic-02362,O032,Mati District Engineering Office,2025-07-02 10:00:00,47618000.0,F0159,Tan Builders & Tarding Co.,51131521.93,110.8,2025-07-01 01:47:00,0
+ocds-synthetic-02309,O024,Digos District Engineering Office,2025-07-12 10:00:00,57779000.0,F0188,Valdez Engineering Services Corp.,56154485.24,100.0,2025-07-12 09:38:00,1
+ocds-synthetic-02309,O024,Digos District Engineering Office,2025-07-12 10:00:00,57779000.0,F0194,Prime Builders & Trading Inc.,59110612.36,105.3,2025-07-12 05:13:00,0
+ocds-synthetic-02309,O024,Digos District Engineering Office,2025-07-12 10:00:00,57779000.0,F0189,Tagumpay Builders & Trading Corporation,61589642.11,109.7,2025-07-12 06:09:00,0
+ocds-synthetic-00560,O008,Davao District Engineering Office,2025-08-18 10:00:00,18016000.0,F0188,Vladez Engineering Services Corp.,17450232.04,100.0,2025-08-18 06:07:00,1
+ocds-synthetic-00560,O008,Davao District Engineering Office,2025-08-18 10:00:00,18016000.0,F0189,Tagumpay Builders & Trading Corp.,18190724.96,104.2,2025-08-18 09:07:00,0
+ocds-synthetic-00560,O008,Davao District Engineering Office,2025-08-18 10:00:00,18016000.0,F0194,Prime Builders & Trading Inc.,18995358.91,108.9,2025-08-18 09:30:00,0
+ocds-synthetic-01027,O008,Davao District Engineering Office,2025-08-21 10:00:00,9895000.0,F0189,Tagumpay Builders & Trading Corp.,9591661.87,100.0,2025-08-20 20:00:00,1
+ocds-synthetic-01027,O008,Davao District Engineering Office,2025-08-21 10:00:00,9895000.0,F0194,Prime Builders & Trading Inc.,10225962.32,106.6,2025-08-21 05:29:00,0
+ocds-synthetic-01027,O008,Davao District Engineering Office,2025-08-21 10:00:00,9895000.0,F0251,Rivera Civil Works Corp.,10265456.21,107.0,2025-08-20 16:50:00,0
+ocds-synthetic-01027,O008,Davao District Engineering Office,2025-08-21 10:00:00,9895000.0,F0188,Valdez Engineering Services Corp.,10449725.69,108.9,2025-08-21 07:00:00,0
+ocds-synthetic-01812,O008,Davao District Engineering Office,2025-10-22 10:00:00,46410000.0,F0189,Tagumpay Builders & Trading Corp.,44789129.31,100.0,2025-10-22 04:58:00,1
+ocds-synthetic-01812,O008,Davao District Engineering Office,2025-10-22 10:00:00,46410000.0,F0249,Lim Construction & Supply Inc.,47537823.82,106.1,2025-10-22 07:48:00,0
+ocds-synthetic-01812,O008,Davao District Engineering Office,2025-10-22 10:00:00,46410000.0,F0188,Valdez Engineering Services Corp.,48370327.28,108.0,2025-10-22 04:19:00,0
+ocds-synthetic-01812,O008,Davao District Engineering Office,2025-10-22 10:00:00,46410000.0,F0194,Prime Builders & Trading Inc.,48635730.23,108.6,2025-10-22 08:22:00,0
+ocds-synthetic-00975,O024,Digos District Engineering Office,2025-11-02 10:00:00,98644000.0,F0194,Prime Builders  &Trading Inc.,96101576.94,100.0,2025-11-02 06:47:00,1
+ocds-synthetic-00975,O024,Digos District Engineering Office,2025-11-02 10:00:00,98644000.0,F0189,Tagumpay Builders & Trading Corp.,99609736.74,103.7,2025-11-02 04:05:00,0
+ocds-synthetic-00975,O024,Digos District Engineering Office,2025-11-02 10:00:00,98644000.0,F0399,Flores Infra Works Co.,103452965.41,107.6,2025-11-02 09:04:00,0
+ocds-synthetic-00975,O024,Digos District Engineering Office,2025-11-02 10:00:00,98644000.0,F0188,Valdez Engineering Services Corp.,104264703.46,108.5,2025-11-02 08:01:00,0
+ocds-synthetic-02850,O008,Davao District Engineering Office,2025-11-14 10:00:00,2445000.0,F0194,Prime Builders & Trading Inc.,2365205.89,100.0,2025-11-14 08:30:00,1
+ocds-synthetic-02850,O008,Davao District Engineering Office,2025-11-14 10:00:00,2445000.0,F0189,Tagumpay Builders & Trading Corporation,2511970.2,106.2,2025-11-14 05:41:00,0
+ocds-synthetic-02850,O008,Davao District Engineering Office,2025-11-14 10:00:00,2445000.0,F0188,Valdez Engineering Services Corp.,2539592.32,107.4,2025-11-13 23:36:00,0
+ocds-synthetic-01588,O032,Mati District Engineering Office,2025-12-11 10:00:00,19557000.0,F0194,PRIME BUILDERS & TRADING INC.,19366527.43,100.0,2025-12-11 06:46:00,1
+ocds-synthetic-01588,O032,Mati District Engineering Office,2025-12-11 10:00:00,19557000.0,F0235,Reyes Contractors Inc.,19676596.2,101.6,2025-12-10 20:00:00,0
+ocds-synthetic-01588,O032,Mati District Engineering Office,2025-12-11 10:00:00,19557000.0,F0189,Tagumpay Builders & Trading Corp.,20286440.52,104.8,2025-12-10 14:07:00,0
+ocds-synthetic-01588,O032,Mati District Engineering Office,2025-12-11 10:00:00,19557000.0,F0188,Valdez Engineering Services Corp.,20774984.48,107.3,2025-12-10 22:43:00,0
+ocds-synthetic-00021,O032,Mati District Engineering Office,2025-12-16 10:00:00,13745000.0,F0188,Valdez Engineering Services Corp,13366712.91,100.0,2025-12-16 06:40:00,1
+ocds-synthetic-00021,O032,Mati District Engineering Office,2025-12-16 10:00:00,13745000.0,F0189,Tagumpay Builders & Trading Corporation,14228988.85,106.5,2025-12-16 00:39:00,0
+ocds-synthetic-00021,O032,Mati District Engineering Office,2025-12-16 10:00:00,13745000.0,F0194,Prime Builders & Trading Inc.,14578827.17,109.1,2025-12-16 09:20:00,0
+ocds-synthetic-03817,O032,Mati District Engineering Office,2025-12-16 10:00:00,2289000.0,F0188,Valdez Engineering Services Corp.,2239256.19,100.0,2025-12-16 09:21:00,1
+ocds-synthetic-03817,O032,Mati District Engineering Office,2025-12-16 10:00:00,2289000.0,F0189,Tagumpay Builders & Trading Corp.,2338028.78,104.4,2025-12-16 06:52:00,0
+ocds-synthetic-03817,O032,Mati District Engineering Office,2025-12-16 10:00:00,2289000.0,F0194,Prime Builders & Trading Incorporated,2363937.03,105.6,2025-12-16 04:24:00,0

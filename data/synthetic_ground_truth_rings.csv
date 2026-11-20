@@ -1,0 +1,16 @@
+ring_id,firm_id,mode
+R1,F0201,rotate
+R1,F0093,rotate
+R1,F0322,rotate
+R1,F0296,rotate
+R2,F0317,cover
+R2,F0361,cover
+R2,F0131,cover
+R3,F0302,rotate
+R3,F0214,rotate
+R3,F0143,rotate
+R3,F0072,rotate
+R3,F0081,rotate
+R4,F0188,rotate
+R4,F0189,rotate
+R4,F0194,rotate

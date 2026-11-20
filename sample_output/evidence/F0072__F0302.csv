@@ -1,0 +1,390 @@
+ocid,office_id,office_name,tender_close,estimated_value,firm_id,bidder_name,bid_amount,pct_of_winning_bid,submitted_at,is_winner
+ocds-synthetic-01499,O011,Angeles District Engineering Office,2022-01-14 10:00:00,40796000.0,F0104,Torres Engineering Inc.,35916257.22,100.0,2022-01-14 07:41:00,1
+ocds-synthetic-01499,O011,Angeles District Engineering Office,2022-01-14 10:00:00,40796000.0,F0205,Masagana Construction & Supply Corp.,36423071.97,101.4,2022-01-14 04:23:00,0
+ocds-synthetic-01499,O011,Angeles District Engineering Office,2022-01-14 10:00:00,40796000.0,F0302,MCA Engineering Co.,36469088.03,101.5,2022-01-14 08:39:00,0
+ocds-synthetic-01499,O011,Angeles District Engineering Office,2022-01-14 10:00:00,40796000.0,F0338,Pacific Consrtuction & Supply Co.,36791533.76,102.4,2022-01-14 04:58:00,0
+ocds-synthetic-01499,O011,Angeles District Engineering Office,2022-01-14 10:00:00,40796000.0,F0072,Fernandez Engineering Services Co.,37287238.12,103.8,2022-01-14 07:45:00,0
+ocds-synthetic-01122,O019,Malolos District Engineering Office,2022-01-18 10:00:00,108212000.0,F0143,Pag-asa Contractors Co.,104487035.01,100.0,2022-01-18 07:45:00,1
+ocds-synthetic-01122,O019,Malolos District Engineering Office,2022-01-18 10:00:00,108212000.0,F0081,Silangan Engineering Corp,109135800.03,104.4,2022-01-18 07:48:00,0
+ocds-synthetic-01122,O019,Malolos District Engineering Office,2022-01-18 10:00:00,108212000.0,F0302,MCA Engineering Co.,109216129.82,104.5,2022-01-18 07:43:00,0
+ocds-synthetic-01122,O019,Malolos District Engineering Office,2022-01-18 10:00:00,108212000.0,F0214,Ocampo Builders Corp.,113231477.7,108.4,2022-01-18 07:43:00,0
+ocds-synthetic-01122,O019,Malolos District Engineering Office,2022-01-18 10:00:00,108212000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,113947409.9,109.1,2022-01-18 07:50:00,0
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0081,Silangan Engineering Corp,8434473.86,100.0,2022-01-19 08:44:00,1
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0072,Fernandez Engineering Services Co.,8725999.97,103.5,2022-01-19 08:44:00,0
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0302,MCA Engineering Co.,8732826.92,103.5,2022-01-19 08:45:00,0
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0205,Masagana Construction & Supply Corp.,8858620.28,105.0,2022-01-19 06:14:00,0
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0143,Pag-asa Contractros Co.,9032735.66,107.1,2022-01-19 08:42:00,0
+ocds-synthetic-02127,O011,Angeles District Engineering Office,2022-01-19 10:00:00,8485000.0,F0214,Ocampo Builders Corp.,9112348.39,108.0,2022-01-19 08:48:00,0
+ocds-synthetic-04333,O011,Angeles District Engineering Office,2022-01-19 10:00:00,17019000.0,F0072,Fernandez Engineering Serivces Co.,16881380.19,100.0,2022-01-19 04:46:00,1
+ocds-synthetic-04333,O011,Angeles District Engineering Office,2022-01-19 10:00:00,17019000.0,F0281,Ocampo Engineering Corp.,17138579.38,101.5,2022-01-19 09:36:00,0
+ocds-synthetic-04333,O011,Angeles District Engineering Office,2022-01-19 10:00:00,17019000.0,F0214,Ocampo Builders Corp,17532860.84,103.9,2022-01-19 04:43:00,0
+ocds-synthetic-04333,O011,Angeles District Engineering Office,2022-01-19 10:00:00,17019000.0,F0143,Pag-asa Contractors Co.,17747666.89,105.1,2022-01-19 04:43:00,0
+ocds-synthetic-04333,O011,Angeles District Engineering Office,2022-01-19 10:00:00,17019000.0,F0302,MCA Engineering Co.,18541093.76,109.8,2022-01-19 04:47:00,0
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0214,Ocampo Builders Corporation,19920083.03,100.0,2022-01-25 05:27:00,1
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0302,MCA Engineering Co.,20610087.02,103.5,2022-01-25 05:20:00,0
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0072,Fernandez Engineering Services Co,20886139.36,104.8,2022-01-25 05:25:00,0
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0143,PAG-ASA CONTRACTORS CO.,21485482.52,107.9,2022-01-25 05:23:00,0
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0300,Mabuhay Engineering Enterprises,21642859.75,108.6,2022-01-25 09:40:00,0
+ocds-synthetic-02273,O019,Malolos District Engineering Office,2022-01-25 10:00:00,20348000.0,F0081,Silangan Engineering Corp,21774118.5,109.3,2022-01-25 05:23:00,0
+ocds-synthetic-00571,O011,Angeles District Engineering Office,2022-01-31 10:00:00,6768000.0,F0214,Ocampo Builders Corp.,6678904.82,100.0,2022-01-31 04:49:00,1
+ocds-synthetic-00571,O011,Angeles District Engineering Office,2022-01-31 10:00:00,6768000.0,F0072,Fernandez Engineering Services Co,6935373.85,103.8,2022-01-31 04:46:00,0
+ocds-synthetic-00571,O011,Angeles District Engineering Office,2022-01-31 10:00:00,6768000.0,F0143,PAG-ASA CONTRACTORS CO.,7130101.88,106.8,2022-01-31 04:46:00,0
+ocds-synthetic-00571,O011,Angeles District Engineering Office,2022-01-31 10:00:00,6768000.0,F0302,MCA Engineering Co.,7167130.62,107.3,2022-01-31 04:50:00,0
+ocds-synthetic-00571,O011,Angeles District Engineering Office,2022-01-31 10:00:00,6768000.0,F0081,Silangan Engineering Corp.,7207673.42,107.9,2022-01-31 04:52:00,0
+ocds-synthetic-03145,O019,Malolos District Engineering Office,2022-02-03 10:00:00,8664000.0,F0054,CEC Builders Corp.,7713367.33,100.0,2022-02-03 04:40:00,1
+ocds-synthetic-03145,O019,Malolos District Engineering Office,2022-02-03 10:00:00,8664000.0,F0302,MCA Engineering Co.,7820281.95,101.4,2022-02-03 09:03:00,0
+ocds-synthetic-03145,O019,Malolos District Engineering Office,2022-02-03 10:00:00,8664000.0,F0012,Ramos Engineering Enterprises,8318307.93,107.8,2022-02-03 08:09:00,0
+ocds-synthetic-03145,O019,Malolos District Engineering Office,2022-02-03 10:00:00,8664000.0,F0072,Fernandez Engineering Servicse Co.,8641658.27,112.0,2022-02-03 09:50:00,0
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0302,MCA Engineering Co.,86131005.63,100.0,2022-03-30 04:36:00,1
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0143,Pag-asa Contractors Co.,88917790.07,103.2,2022-03-30 04:38:00,0
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0214,OCAMPO BUILDERS CORP.,90375435.24,104.9,2022-03-30 04:39:00,0
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0081,Silangan Engineering Corp,90682766.76,105.3,2022-03-30 04:38:00,0
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0072,Fernandez Engineering Services Co.,93536206.38,108.6,2022-03-30 04:37:00,0
+ocds-synthetic-00809,O019,Malolos District Engineering Office,2022-03-30 10:00:00,89306000.0,F0264,Evergreen Contractors Enterprises,95095269.17,110.4,2022-03-30 00:19:00,0
+ocds-synthetic-00674,O035,Cabanatuan District Engineering Office,2022-04-25 10:00:00,9606000.0,F0143,Pag-asa Contractors Co.,9479275.78,100.0,2022-04-25 05:28:00,1
+ocds-synthetic-00674,O035,Cabanatuan District Engineering Office,2022-04-25 10:00:00,9606000.0,F0081,Silangan Engineering Corp.,9896669.97,104.4,2022-04-25 05:22:00,0
+ocds-synthetic-00674,O035,Cabanatuan District Engineering Office,2022-04-25 10:00:00,9606000.0,F0214,OCAMPO BUILDERS CORP.,9909442.27,104.5,2022-04-25 05:22:00,0
+ocds-synthetic-00674,O035,Cabanatuan District Engineering Office,2022-04-25 10:00:00,9606000.0,F0302,MCA Engineering Co.,10026037.47,105.8,2022-04-25 05:25:00,0
+ocds-synthetic-00674,O035,Cabanatuan District Engineering Office,2022-04-25 10:00:00,9606000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,10413622.04,109.9,2022-04-25 05:25:00,0
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0072,Fernandez Engineering Services Co.,10620135.71,100.0,2022-04-25 06:11:00,1
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0002,Chua Engineering Services Enterprises,10629699.71,100.1,2022-04-25 07:11:00,0
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0012,Ramos Engineering Enterprises,11095438.88,104.5,2022-04-25 01:38:00,0
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0302,MCA Engineering Co.,11671650.8,109.9,2022-04-25 09:48:00,0
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0199,EVERGREEN INFRA WORKS CO.,12095949.31,113.9,2022-04-24 18:50:00,0
+ocds-synthetic-01297,O019,Malolos District Engineering Office,2022-04-25 10:00:00,12491000.0,F0031,Bautista Engineering Services Enterprises,12393720.86,116.7,2022-04-25 03:43:00,0
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0244,Aguilar Development Inc.,15819899.45,96.0,2022-05-05 08:06:00,0
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0081,Silangan Engineeirng Corp.,16474718.07,100.0,2022-05-05 06:03:00,1
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0072,Fernandez Engineering Services Co.,16516592.99,100.3,2022-05-05 02:00:00,0
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0264,EVERGREEN CONTRACTORS ENTERPRISES,17367629.59,105.4,2022-05-05 05:26:00,0
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0302,MCA Engineering Co.,17889749.95,108.6,2022-05-05 04:21:00,0
+ocds-synthetic-01397,O011,Angeles District Engineering Office,2022-05-05 10:00:00,18497000.0,F0191,Northstar Engineering Services Corp.,18809024.28,114.2,2022-05-04 19:52:00,0
+ocds-synthetic-04207,O011,Angeles District Engineering Office,2022-05-21 10:00:00,9747000.0,F0302,MCA ENGINEERING CO.,9426567.85,100.0,2022-05-21 01:50:00,1
+ocds-synthetic-04207,O011,Angeles District Engineering Office,2022-05-21 10:00:00,9747000.0,F0081,Silangan Engineerin gCorp.,9941603.61,105.5,2022-05-21 01:52:00,0
+ocds-synthetic-04207,O011,Angeles District Engineering Office,2022-05-21 10:00:00,9747000.0,F0143,Pag-asa Contractors Co.,10093035.03,107.1,2022-05-21 01:51:00,0
+ocds-synthetic-04207,O011,Angeles District Engineering Office,2022-05-21 10:00:00,9747000.0,F0072,Fernandez Engineering Services Co.,10131512.65,107.5,2022-05-21 01:56:00,0
+ocds-synthetic-04207,O011,Angeles District Engineering Office,2022-05-21 10:00:00,9747000.0,F0214,Ocampo Builders Corp.,10349715.36,109.8,2022-05-21 01:57:00,0
+ocds-synthetic-01857,O019,Malolos District Engineering Office,2022-05-23 10:00:00,30380000.0,F0214,Ocampo Builders Corp.,29812257.99,100.0,2022-05-23 06:54:00,1
+ocds-synthetic-01857,O019,Malolos District Engineering Office,2022-05-23 10:00:00,30380000.0,F0143,Pag-asa Contractors Co,31028272.94,104.1,2022-05-23 06:55:00,0
+ocds-synthetic-01857,O019,Malolos District Engineering Office,2022-05-23 10:00:00,30380000.0,F0081,Silangan Engineering Corp.,31126765.73,104.4,2022-05-23 06:50:00,0
+ocds-synthetic-01857,O019,Malolos District Engineering Office,2022-05-23 10:00:00,30380000.0,F0072,Fernandez Engineering Services Co.,31904268.0,107.0,2022-05-23 06:51:00,0
+ocds-synthetic-01857,O019,Malolos District Engineering Office,2022-05-23 10:00:00,30380000.0,F0302,MCA Engineering Co.,32301933.62,108.4,2022-05-23 06:51:00,0
+ocds-synthetic-00786,O035,Cabanatuan District Engineering Office,2022-06-06 10:00:00,8835000.0,F0081,Silangan Engineering Corp.,8728115.27,100.0,2022-06-06 08:03:00,1
+ocds-synthetic-00786,O035,Cabanatuan District Engineering Office,2022-06-06 10:00:00,8835000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,9133203.11,104.6,2022-06-06 08:05:00,0
+ocds-synthetic-00786,O035,Cabanatuan District Engineering Office,2022-06-06 10:00:00,8835000.0,F0143,PAG-ASA CONTRACTORS CO.,9173503.96,105.1,2022-06-06 08:02:00,0
+ocds-synthetic-00786,O035,Cabanatuan District Engineering Office,2022-06-06 10:00:00,8835000.0,F0214,OCAMPO BUILDERS CORP.,9397189.12,107.7,2022-06-06 08:02:00,0
+ocds-synthetic-00786,O035,Cabanatuan District Engineering Office,2022-06-06 10:00:00,8835000.0,F0302,MCA Engineering Co.,9489384.89,108.7,2022-06-06 08:03:00,0
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,24102898.03,100.0,2022-06-16 06:34:00,1
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0143,PAG-ASA CONTRACTORS CO.,24846120.8,103.1,2022-06-16 06:30:00,0
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0205,Masagana Construction & Supply Corp.,25191074.26,104.5,2022-06-16 06:40:00,0
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0302,MCA Engineering Co.,25691903.41,106.6,2022-06-16 06:33:00,0
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0214,OCAMPO BUILDERS CORP.,26018050.66,107.9,2022-06-16 06:32:00,0
+ocds-synthetic-00775,O011,Angeles District Engineering Office,2022-06-16 10:00:00,25028000.0,F0081,Silangan Engineering Corp.,26280898.57,109.0,2022-06-16 06:31:00,0
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0214,OCAMPO BUILDERS CORP.,389460882.21,100.0,2022-08-07 00:31:00,1
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0072,Fernandez Engineering Services Co.,402674518.68,103.4,2022-08-07 00:26:00,0
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0115,RGG Infra Works Corp.,415098907.74,106.6,2022-08-06 23:21:00,0
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0081,Silangan Engineering Corp.,415808962.38,106.8,2022-08-07 00:26:00,0
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0143,Pag-asa Contractors Co.,417123511.91,107.1,2022-08-07 00:23:00,0
+ocds-synthetic-00220,O019,Malolos District Engineering Office,2022-08-07 10:00:00,400000000.0,F0302,MCA Engineering Co.,420405187.39,107.9,2022-08-07 00:25:00,0
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0143,PAG-ASA CONTRACTORS CO.,60020479.46,100.0,2022-08-08 02:50:00,1
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0081,Silangan Engineering Corp.,62189824.87,103.6,2022-08-08 02:52:00,0
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0244,Aguilar Development Inc.,64846113.25,108.0,2022-08-07 21:52:00,0
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0302,MCA Engineering Co.,65008285.06,108.3,2022-08-08 02:52:00,0
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0072,Fernandez Engineering Services Co.,65043821.51,108.4,2022-08-08 02:54:00,0
+ocds-synthetic-00840,O011,Angeles District Engineering Office,2022-08-08 10:00:00,62016000.0,F0214,Ocampo Builders Corp,65903063.31,109.8,2022-08-08 02:52:00,0
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0302,MCA ENGINEERING CO.,8375636.99,100.0,2022-08-22 04:27:00,1
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0385,Uy Contractors Corp,8603101.24,102.7,2022-08-22 09:03:00,0
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0264,Evergreen Contractors Enterprises,8644055.39,103.2,2022-08-21 19:30:00,0
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0308,Santos Infra Works Enterprises,8933628.63,106.7,2022-08-22 04:53:00,0
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0072,Fernandez Engineering Services Co.,9021220.83,107.7,2022-08-22 03:47:00,0
+ocds-synthetic-04198,O019,Malolos District Engineering Office,2022-08-22 10:00:00,9829000.0,F0012,Ramos Engineering Enterprises,9885591.81,118.0,2022-08-22 01:19:00,0
+ocds-synthetic-03110,O019,Malolos District Engineering Office,2022-09-23 10:00:00,141405000.0,F0302,MCA ENGINEERING CO.,137621053.78,100.0,2022-09-23 02:13:00,1
+ocds-synthetic-03110,O019,Malolos District Engineering Office,2022-09-23 10:00:00,141405000.0,F0072,Fernandez Engineering Services Co,142693744.99,103.7,2022-09-23 02:07:00,0
+ocds-synthetic-03110,O019,Malolos District Engineering Office,2022-09-23 10:00:00,141405000.0,F0081,Silangan Engineering Corp.,143591033.25,104.3,2022-09-23 02:08:00,0
+ocds-synthetic-03110,O019,Malolos District Engineering Office,2022-09-23 10:00:00,141405000.0,F0143,Pag-asa Contractors Co.,149240174.71,108.4,2022-09-23 02:08:00,0
+ocds-synthetic-03110,O019,Malolos District Engineering Office,2022-09-23 10:00:00,141405000.0,F0214,Ocampo Builders Corp,149466980.45,108.6,2022-09-23 02:12:00,0
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0143,Pag-asa Contractors Co,4498494.49,100.0,2022-09-30 01:09:00,1
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,4636593.85,103.1,2022-09-30 01:07:00,0
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0302,MCA Engineering Co.,4666388.79,103.7,2022-09-30 01:09:00,0
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0155,Aguilar Engineering Service sInc.,4671400.76,103.8,2022-09-29 15:56:00,0
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0214,Ocampo Builders Corp.,4756733.65,105.7,2022-09-30 01:09:00,0
+ocds-synthetic-02357,O011,Angeles District Engineering Office,2022-09-30 10:00:00,4589000.0,F0081,SILANGAN ENGINEERING CORP.,4846301.16,107.7,2022-09-30 01:09:00,0
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0072,Fernandez Engineering Services Co.,10750901.74,100.0,2022-10-10 08:48:00,1
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0081,Silangan Engineering Corp.,11091774.14,103.2,2022-10-10 08:40:00,0
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0302,MCA Engineering Co,11301980.09,105.1,2022-10-10 08:48:00,0
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0214,Ocampo Builders Corp.,11647711.32,108.3,2022-10-10 08:47:00,0
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0143,Pag-asa Contractors Co.,11687199.8,108.7,2022-10-10 08:47:00,0
+ocds-synthetic-03937,O011,Angeles District Engineering Office,2022-10-10 10:00:00,11195000.0,F0338,Pacific Construction & Supply Co,11750603.27,109.3,2022-10-10 09:28:00,0
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,16277576.76,100.0,2022-11-10 04:11:00,1
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0081,SILANGAN ENGINEERING CORP.,17133015.0,105.3,2022-11-10 04:16:00,0
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0143,Pag-asa Contractors Co.,17133656.79,105.3,2022-11-10 04:17:00,0
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0214,Ocampo Builders Corp.,17413099.3,107.0,2022-11-10 04:11:00,0
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0086,Lim Construction & Supply Corp.,17733773.5,108.9,2022-11-10 09:12:00,0
+ocds-synthetic-02459,O035,Cabanatuan District Engineering Office,2022-11-10 10:00:00,16739000.0,F0302,MCA Engineering Co.,17762173.2,109.1,2022-11-10 04:11:00,0
+ocds-synthetic-03973,O019,Malolos District Engineering Office,2022-11-11 10:00:00,63928000.0,F0081,SILANGAN ENGINEERING CORP.,62028249.15,100.0,2022-11-11 06:05:00,1
+ocds-synthetic-03973,O019,Malolos District Engineering Office,2022-11-11 10:00:00,63928000.0,F0072,Fernandez Engineering Services Co.,64285587.04,103.6,2022-11-11 06:04:00,0
+ocds-synthetic-03973,O019,Malolos District Engineering Office,2022-11-11 10:00:00,63928000.0,F0143,PAG-ASA CONTRACTORS CO.,64465848.7,103.9,2022-11-11 06:03:00,0
+ocds-synthetic-03973,O019,Malolos District Engineering Office,2022-11-11 10:00:00,63928000.0,F0214,Ocampo Builders Corp.,67082066.84,108.1,2022-11-11 06:09:00,0
+ocds-synthetic-03973,O019,Malolos District Engineering Office,2022-11-11 10:00:00,63928000.0,F0302,MCA Engineering Co.,68192188.23,109.9,2022-11-11 06:03:00,0
+ocds-synthetic-02788,O019,Malolos District Engineering Office,2022-12-11 10:00:00,15805000.0,F0302,MCA Engineering Co.,15418333.95,100.0,2022-12-11 06:06:00,1
+ocds-synthetic-02788,O019,Malolos District Engineering Office,2022-12-11 10:00:00,15805000.0,F0143,Pag-asa Contractors Co.,16064112.9,104.2,2022-12-11 06:00:00,0
+ocds-synthetic-02788,O019,Malolos District Engineering Office,2022-12-11 10:00:00,15805000.0,F0072,Fernandez Engineering Services Co.,16192724.66,105.0,2022-12-11 06:00:00,0
+ocds-synthetic-02788,O019,Malolos District Engineering Office,2022-12-11 10:00:00,15805000.0,F0081,Silangan Engineering Corp.,16305815.49,105.8,2022-12-11 06:02:00,0
+ocds-synthetic-02788,O019,Malolos District Engineering Office,2022-12-11 10:00:00,15805000.0,F0214,OCAMPO BUILDERS CORP.,16618952.49,107.8,2022-12-11 06:01:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0302,MCA Engineering Co.,12318456.29,100.0,2022-12-14 23:35:00,1
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0264,EVERGREEN CONTRACTORS ENTERPRISES,12688099.48,103.0,2022-12-15 06:54:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0012,Ramos Engineering Enterprises,12921505.49,104.9,2022-12-15 04:42:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0295,LRA Civil Works Enterprises,13887832.54,112.7,2022-12-15 09:48:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0054,CEC Builders Corp.,14159108.75,114.9,2022-12-15 07:17:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0228,AAJ Contractors Enterprises,14238211.93,115.6,2022-12-15 04:30:00,0
+ocds-synthetic-00321,O019,Malolos District Engineering Office,2022-12-15 10:00:00,14324000.0,F0072,Fernandez Engineering Services Co,14441234.87,117.2,2022-12-15 02:05:00,0
+ocds-synthetic-00085,O019,Malolos District Engineering Office,2022-12-18 10:00:00,1316000.0,F0302,MCA Engineering Co.,1265486.42,100.0,2022-12-18 00:38:00,1
+ocds-synthetic-00085,O019,Malolos District Engineering Office,2022-12-18 10:00:00,1316000.0,F0143,Pag-asa Contractors Co.,1315839.94,104.0,2022-12-18 00:35:00,0
+ocds-synthetic-00085,O019,Malolos District Engineering Office,2022-12-18 10:00:00,1316000.0,F0214,OCAMPO BUILDERS CORP.,1329441.29,105.1,2022-12-18 00:35:00,0
+ocds-synthetic-00085,O019,Malolos District Engineering Office,2022-12-18 10:00:00,1316000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,1331172.15,105.2,2022-12-18 00:38:00,0
+ocds-synthetic-00085,O019,Malolos District Engineering Office,2022-12-18 10:00:00,1316000.0,F0081,SILANGAN ENGINEERING CORP.,1391751.34,110.0,2022-12-18 00:36:00,0
+ocds-synthetic-02553,O019,Malolos District Engineering Office,2023-01-10 10:00:00,18951000.0,F0081,Silangan Engineering Corp.,18364984.82,100.0,2023-01-10 06:44:00,1
+ocds-synthetic-02553,O019,Malolos District Engineering Office,2023-01-10 10:00:00,18951000.0,F0072,Fernandez Engineering Services Co.,19144315.06,104.2,2023-01-10 06:41:00,0
+ocds-synthetic-02553,O019,Malolos District Engineering Office,2023-01-10 10:00:00,18951000.0,F0143,PAG-ASA CONTRACTORS CO.,19278936.16,105.0,2023-01-10 06:41:00,0
+ocds-synthetic-02553,O019,Malolos District Engineering Office,2023-01-10 10:00:00,18951000.0,F0214,Ocampo Builders Corp.,19765629.87,107.6,2023-01-10 06:47:00,0
+ocds-synthetic-02553,O019,Malolos District Engineering Office,2023-01-10 10:00:00,18951000.0,F0302,MCA Engineering Co.,19980682.11,108.8,2023-01-10 06:40:00,0
+ocds-synthetic-04416,O011,Angeles District Engineering Office,2023-02-02 10:00:00,14429000.0,F0191,Northstar Engineering Services Corporation,12806552.5,100.0,2023-02-02 02:58:00,1
+ocds-synthetic-04416,O011,Angeles District Engineering Office,2023-02-02 10:00:00,14429000.0,F0358,Pinoy Civil Works Enterprises,12909870.75,100.8,2023-02-02 09:12:00,0
+ocds-synthetic-04416,O011,Angeles District Engineering Office,2023-02-02 10:00:00,14429000.0,F0072,Fernandez Engineering Services Co.,13543263.37,105.8,2023-02-02 09:22:00,0
+ocds-synthetic-04416,O011,Angeles District Engineering Office,2023-02-02 10:00:00,14429000.0,F0081,SILANGAN ENGINEERING CORP.,14684584.56,114.7,2023-02-02 06:54:00,0
+ocds-synthetic-04416,O011,Angeles District Engineering Office,2023-02-02 10:00:00,14429000.0,F0302,MCA Engineering Co.,14706380.57,114.8,2023-02-02 00:00:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0143,Pag-asa Contractors Co.,13679605.62,100.0,2023-02-24 04:36:00,1
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0224,Aguilar Construction Corp.,13758330.98,100.6,2023-02-24 04:08:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0104,TORRES ENGINEERING INC.,14005586.62,102.4,2023-02-24 08:43:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0072,Fernandez Engineering Services Co.,14357261.09,105.0,2023-02-24 05:15:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0124,Reyes Development Co.,14617899.78,106.9,2023-02-24 09:34:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0338,Pacific Construction & Supply Co.,14768122.18,108.0,2023-02-24 06:17:00,0
+ocds-synthetic-01885,O011,Angeles District Engineering Office,2023-02-24 10:00:00,14927000.0,F0302,MCA Engineering Co.,14935669.5,109.2,2023-02-24 08:28:00,0
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0143,Pag-asa Contractors Co.,5440819.11,100.0,2023-03-07 06:10:00,1
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0251,Rivera Civil Works Corp,5587610.29,102.7,2023-03-07 04:57:00,0
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0302,MCA Engineering Co.,5649585.68,103.8,2023-03-07 06:06:00,0
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0214,Ocampo Builders Corp,5803547.42,106.7,2023-03-07 06:12:00,0
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0081,Silangan Engineering Corp.,5869164.55,107.9,2023-03-07 06:10:00,0
+ocds-synthetic-03533,O035,Cabanatuan District Engineering Office,2023-03-07 10:00:00,5572000.0,F0072,FernandezE ngineering Services Co.,5888958.46,108.2,2023-03-07 06:08:00,0
+ocds-synthetic-00543,O011,Angeles District Engineering Office,2023-03-10 10:00:00,45817000.0,F0302,MCA Engineering Co.,44340528.79,100.0,2023-03-10 08:24:00,1
+ocds-synthetic-00543,O011,Angeles District Engineering Office,2023-03-10 10:00:00,45817000.0,F0143,Pag-asa Contractors Co,45743948.92,103.2,2023-03-10 08:22:00,0
+ocds-synthetic-00543,O011,Angeles District Engineering Office,2023-03-10 10:00:00,45817000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,46003280.21,103.7,2023-03-10 08:23:00,0
+ocds-synthetic-00543,O011,Angeles District Engineering Office,2023-03-10 10:00:00,45817000.0,F0214,Ocapmo Builders Corp.,46579656.56,105.0,2023-03-10 08:21:00,0
+ocds-synthetic-00543,O011,Angeles District Engineering Office,2023-03-10 10:00:00,45817000.0,F0081,Silangan Engnieering Corp.,48182893.85,108.7,2023-03-10 08:21:00,0
+ocds-synthetic-02982,O011,Angeles District Engineering Office,2023-03-15 10:00:00,10788000.0,F0072,Fernandez Engineering Services Co.,9234491.33,100.0,2023-03-15 08:03:00,1
+ocds-synthetic-02982,O011,Angeles District Engineering Office,2023-03-15 10:00:00,10788000.0,F0264,Evergreen Contractors Enterprises,9990756.19,108.2,2023-03-15 07:05:00,0
+ocds-synthetic-02982,O011,Angeles District Engineering Office,2023-03-15 10:00:00,10788000.0,F0134,Lim Infra Wroks Co.,10293971.65,111.5,2023-03-15 08:44:00,0
+ocds-synthetic-02982,O011,Angeles District Engineering Office,2023-03-15 10:00:00,10788000.0,F0205,Masagana Construction & Supply Corp.,10532752.21,114.1,2023-03-14 21:43:00,0
+ocds-synthetic-02982,O011,Angeles District Engineering Office,2023-03-15 10:00:00,10788000.0,F0302,MCA Engineering Co.,10939412.72,118.5,2023-03-15 09:25:00,0
+ocds-synthetic-02758,O019,Malolos District Engineering Office,2023-03-22 10:00:00,18525000.0,F0012,Ramos Engineering Enterprises,15978051.19,100.0,2023-03-22 08:51:00,1
+ocds-synthetic-02758,O019,Malolos District Engineering Office,2023-03-22 10:00:00,18525000.0,F0072,Fernandez Engineering Services Co.,18645025.43,116.7,2023-03-22 09:38:00,0
+ocds-synthetic-02758,O019,Malolos District Engineering Office,2023-03-22 10:00:00,18525000.0,F0302,MCA ENGINEERING CO.,18807377.69,117.7,2023-03-22 07:53:00,0
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0143,Pag-asa Contractors Co.,9918538.77,100.0,2023-04-08 05:23:00,1
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0302,MCA Engineering Co.,10392486.66,104.8,2023-04-08 05:26:00,0
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,10818031.58,109.1,2023-04-08 05:27:00,0
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0081,Silangan Engineering Corporation,10846319.83,109.4,2023-04-08 05:23:00,0
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0214,Ocampo Builders Corp.,10847833.79,109.4,2023-04-08 05:26:00,0
+ocds-synthetic-02005,O019,Malolos District Engineering Office,2023-04-08 10:00:00,10306000.0,F0054,CEC Builders Corp,10972736.22,110.6,2023-04-08 08:02:00,0
+ocds-synthetic-02501,O011,Angeles District Engineering Office,2023-04-24 10:00:00,18119000.0,F0302,MCA Engineering Co.,16121175.51,100.0,2023-04-24 08:18:00,1
+ocds-synthetic-02501,O011,Angeles District Engineering Office,2023-04-24 10:00:00,18119000.0,F0072,Fernandez Engineering Services Co.,17077310.12,105.9,2023-04-24 03:57:00,0
+ocds-synthetic-02501,O011,Angeles District Engineering Office,2023-04-24 10:00:00,18119000.0,F0224,AGUILAR CONSTRUCTION CORP.,17481513.24,108.4,2023-04-23 23:30:00,0
+ocds-synthetic-02501,O011,Angeles District Engineering Office,2023-04-24 10:00:00,18119000.0,F0358,Pinoy Civil Works Enterprises,17714188.82,109.9,2023-04-24 09:47:00,0
+ocds-synthetic-02501,O011,Angeles District Engineering Office,2023-04-24 10:00:00,18119000.0,F0395,Morales Builders & Trading Enterprises,18127124.53,112.4,2023-04-24 09:05:00,0
+ocds-synthetic-00071,O035,Cabanatuan District Engineering Office,2023-06-02 10:00:00,28319000.0,F0360,Villanueva Engineering Services Enterprises,24881860.03,100.0,2023-06-02 06:36:00,1
+ocds-synthetic-00071,O035,Cabanatuan District Engineering Office,2023-06-02 10:00:00,28319000.0,F0302,MCA Engineering Co.,25079854.21,100.8,2023-06-02 03:06:00,0
+ocds-synthetic-00071,O035,Cabanatuan District Engineering Office,2023-06-02 10:00:00,28319000.0,F0072,Fernandez Engineering Services Co.,26827834.4,107.8,2023-06-02 02:00:00,0
+ocds-synthetic-00071,O035,Cabanatuan District Engineering Office,2023-06-02 10:00:00,28319000.0,F0338,Pacific Construction & Supply Co.,27436340.08,110.3,2023-06-02 09:58:00,0
+ocds-synthetic-00071,O035,Cabanatuan District Engineering Office,2023-06-02 10:00:00,28319000.0,F0214,Ocampo Builders Corp.,27991030.97,112.5,2023-06-02 08:25:00,0
+ocds-synthetic-03872,O019,Malolos District Engineering Office,2023-07-10 10:00:00,5149000.0,F0302,MCA Engineering Co.,5118950.63,100.0,2023-07-10 02:14:00,1
+ocds-synthetic-03872,O019,Malolos District Engineering Office,2023-07-10 10:00:00,5149000.0,F0143,Pag-asa Contractors Co.,5276589.47,103.1,2023-07-10 02:14:00,0
+ocds-synthetic-03872,O019,Malolos District Engineering Office,2023-07-10 10:00:00,5149000.0,F0214,Ocampo Builders Corp.,5300513.8,103.5,2023-07-10 02:10:00,0
+ocds-synthetic-03872,O019,Malolos District Engineering Office,2023-07-10 10:00:00,5149000.0,F0081,Silangan Engineering Corp,5513290.96,107.7,2023-07-10 02:12:00,0
+ocds-synthetic-03872,O019,Malolos District Engineering Office,2023-07-10 10:00:00,5149000.0,F0072,Fernandez Engineering Services Co.,5559045.3,108.6,2023-07-10 02:07:00,0
+ocds-synthetic-04386,O011,Angeles District Engineering Office,2023-09-07 10:00:00,21925000.0,F0191,Northstar Engineering Services Corp.,19035899.72,99.9,2023-09-07 06:21:00,0
+ocds-synthetic-04386,O011,Angeles District Engineering Office,2023-09-07 10:00:00,21925000.0,F0081,Silangan Engineering Corp.,19061742.61,100.0,2023-09-07 05:30:00,1
+ocds-synthetic-04386,O011,Angeles District Engineering Office,2023-09-07 10:00:00,21925000.0,F0302,MCA Engineering Co.,20718087.16,108.7,2023-09-07 02:36:00,0
+ocds-synthetic-04386,O011,Angeles District Engineering Office,2023-09-07 10:00:00,21925000.0,F0338,Pacific Construction & Supply Co.,22312503.68,117.1,2023-09-07 07:09:00,0
+ocds-synthetic-04386,O011,Angeles District Engineering Office,2023-09-07 10:00:00,21925000.0,F0072,Fernandez Engineering Services Co.,22352023.15,117.3,2023-09-06 11:40:00,0
+ocds-synthetic-03889,O035,Cabanatuan District Engineering Office,2023-10-11 10:00:00,2712000.0,F0214,Ocampo Builders Corp.,2679292.04,100.0,2023-10-11 05:03:00,1
+ocds-synthetic-03889,O035,Cabanatuan District Engineering Office,2023-10-11 10:00:00,2712000.0,F0072,Fernandez Engineering Services Co.,2797430.6,104.4,2023-10-11 05:09:00,0
+ocds-synthetic-03889,O035,Cabanatuan District Engineering Office,2023-10-11 10:00:00,2712000.0,F0302,MCA Engineering Co.,2804507.83,104.7,2023-10-11 05:04:00,0
+ocds-synthetic-03889,O035,Cabanatuan District Engineering Office,2023-10-11 10:00:00,2712000.0,F0081,SILANGAN ENGINEERING CORP.,2860074.48,106.7,2023-10-11 05:10:00,0
+ocds-synthetic-03889,O035,Cabanatuan District Engineering Office,2023-10-11 10:00:00,2712000.0,F0143,Pag-asa Contractors Co,2937657.74,109.6,2023-10-11 05:05:00,0
+ocds-synthetic-04565,O011,Angeles District Engineering Office,2023-11-05 10:00:00,18636000.0,F0214,OCAMPO BUILDERS CORP.,17983144.1,100.0,2023-11-05 07:53:00,1
+ocds-synthetic-04565,O011,Angeles District Engineering Office,2023-11-05 10:00:00,18636000.0,F0143,Pag-asa Contractors Co,19082015.19,106.1,2023-11-05 07:57:00,0
+ocds-synthetic-04565,O011,Angeles District Engineering Office,2023-11-05 10:00:00,18636000.0,F0302,MCA Engineering Co.,19195994.74,106.7,2023-11-05 07:49:00,0
+ocds-synthetic-04565,O011,Angeles District Engineering Office,2023-11-05 10:00:00,18636000.0,F0081,Silangan Engineering oCrp.,19541014.12,108.7,2023-11-05 07:55:00,0
+ocds-synthetic-04565,O011,Angeles District Engineering Office,2023-11-05 10:00:00,18636000.0,F0072,Fernandez Engineering Services Co.,19560159.05,108.8,2023-11-05 07:56:00,0
+ocds-synthetic-03003,O011,Angeles District Engineering Office,2023-12-17 10:00:00,4703000.0,F0081,Silangan Engineering Corp.,4605461.32,100.0,2023-12-17 08:12:00,1
+ocds-synthetic-03003,O011,Angeles District Engineering Office,2023-12-17 10:00:00,4703000.0,F0214,Ocampo Builders Corp.,4896121.23,106.3,2023-12-17 08:09:00,0
+ocds-synthetic-03003,O011,Angeles District Engineering Office,2023-12-17 10:00:00,4703000.0,F0072,Fernandez Engineering Services Co,4976296.68,108.1,2023-12-17 08:14:00,0
+ocds-synthetic-03003,O011,Angeles District Engineering Office,2023-12-17 10:00:00,4703000.0,F0302,MCA Engineering Co.,5039028.68,109.4,2023-12-17 08:10:00,0
+ocds-synthetic-03003,O011,Angeles District Engineering Office,2023-12-17 10:00:00,4703000.0,F0143,PAG-ASA CONTRACTORS CO.,5058314.37,109.8,2023-12-17 08:14:00,0
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0302,MCA Engineering Co,8983711.04,100.0,2024-02-07 06:35:00,1
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0031,BAUTISTA ENGINEERING SERVICES ENTERPRISES,9346966.68,104.0,2024-02-07 07:57:00,0
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0264,EVERGREEN CONTRACTORS ENTERPRISES,9818175.53,109.3,2024-02-07 05:20:00,0
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0012,Ramos Engineering Enterprises,9874522.82,109.9,2024-02-07 09:38:00,0
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0072,Fernandez Engineering Services Co.,9995846.44,111.3,2024-02-07 05:34:00,0
+ocds-synthetic-04766,O019,Malolos District Engineering Office,2024-02-07 10:00:00,10190000.0,F0308,Santos Infra Works Enterprises,10276962.62,114.4,2024-02-07 06:00:00,0
+ocds-synthetic-04307,O035,Cabanatuan District Engineering Office,2024-04-01 10:00:00,22127000.0,F0143,Pag-asa Contractors Co,21721312.58,100.0,2024-04-01 01:52:00,1
+ocds-synthetic-04307,O035,Cabanatuan District Engineering Office,2024-04-01 10:00:00,22127000.0,F0081,Silangan Engineering Corp,23010991.74,105.9,2024-04-01 01:51:00,0
+ocds-synthetic-04307,O035,Cabanatuan District Engineering Office,2024-04-01 10:00:00,22127000.0,F0302,MCA Engineering Co.,23106936.65,106.4,2024-04-01 01:56:00,0
+ocds-synthetic-04307,O035,Cabanatuan District Engineering Office,2024-04-01 10:00:00,22127000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,23229405.63,106.9,2024-04-01 01:53:00,0
+ocds-synthetic-04307,O035,Cabanatuan District Engineering Office,2024-04-01 10:00:00,22127000.0,F0214,Ocampo Builders Corp.,23305994.22,107.3,2024-04-01 01:56:00,0
+ocds-synthetic-00486,O019,Malolos District Engineering Office,2024-04-02 10:00:00,97818000.0,F0081,Silangan Engineering Corporation,96384742.93,100.0,2024-04-02 07:39:00,1
+ocds-synthetic-00486,O019,Malolos District Engineering Office,2024-04-02 10:00:00,97818000.0,F0214,Ocampo Builders Corp.,100226991.07,104.0,2024-04-02 07:41:00,0
+ocds-synthetic-00486,O019,Malolos District Engineering Office,2024-04-02 10:00:00,97818000.0,F0072,Fernandez Engineering Services Co.,100580520.73,104.4,2024-04-02 07:33:00,0
+ocds-synthetic-00486,O019,Malolos District Engineering Office,2024-04-02 10:00:00,97818000.0,F0302,MCA Engineering Co.,103719166.95,107.6,2024-04-02 07:34:00,0
+ocds-synthetic-00486,O019,Malolos District Engineering Office,2024-04-02 10:00:00,97818000.0,F0143,PAG-ASA CONTRACTORS CO.,104732281.63,108.7,2024-04-02 07:35:00,0
+ocds-synthetic-01076,O011,Angeles District Engineering Office,2024-04-16 10:00:00,15850000.0,F0214,Ocampo Builders Corp.,15620288.78,100.0,2024-04-16 04:39:00,1
+ocds-synthetic-01076,O011,Angeles District Engineering Office,2024-04-16 10:00:00,15850000.0,F0302,MCA Engineering Co.,16455619.94,105.3,2024-04-16 04:34:00,0
+ocds-synthetic-01076,O011,Angeles District Engineering Office,2024-04-16 10:00:00,15850000.0,F0143,Pag-asa Contractors Co.,16555977.74,106.0,2024-04-16 04:37:00,0
+ocds-synthetic-01076,O011,Angeles District Engineering Office,2024-04-16 10:00:00,15850000.0,F0081,Silangan Engineering Corp.,16707298.12,107.0,2024-04-16 04:39:00,0
+ocds-synthetic-01076,O011,Angeles District Engineering Office,2024-04-16 10:00:00,15850000.0,F0072,Fernandez Engineering Services Co,16955713.87,108.5,2024-04-16 04:35:00,0
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0072,Fernandez Engineering Services Co.,47023705.39,100.0,2024-05-04 07:06:00,1
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0392,Ramos Builders & Trading Co.,49374564.76,105.0,2024-05-04 08:08:00,0
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0081,Silangan Engineering Corporation,50435234.11,107.3,2024-05-04 07:08:00,0
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0214,Ocampo Builders Corp.,50442596.34,107.3,2024-05-04 07:07:00,0
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0302,MCA Engineering Co,51408150.58,109.3,2024-05-04 07:14:00,0
+ocds-synthetic-03773,O019,Malolos District Engineering Office,2024-05-04 10:00:00,47626000.0,F0143,Pag-asa Contractors Co,51463448.51,109.4,2024-05-04 07:10:00,0
+ocds-synthetic-04401,O035,Cabanatuan District Engineering Office,2024-05-09 10:00:00,63466000.0,F0081,SILANGAN ENGINEERING CORP.,62254083.68,100.0,2024-05-09 00:31:00,1
+ocds-synthetic-04401,O035,Cabanatuan District Engineering Office,2024-05-09 10:00:00,63466000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,65773391.73,105.7,2024-05-09 00:31:00,0
+ocds-synthetic-04401,O035,Cabanatuan District Engineering Office,2024-05-09 10:00:00,63466000.0,F0302,MCA Engineering Co,65855374.17,105.8,2024-05-09 00:36:00,0
+ocds-synthetic-04401,O035,Cabanatuan District Engineering Office,2024-05-09 10:00:00,63466000.0,F0214,Ocampo Builders Corp,66786691.61,107.3,2024-05-09 00:32:00,0
+ocds-synthetic-04919,O035,Cabanatuan District Engineering Office,2024-06-19 10:00:00,36004000.0,F0081,Silangan Engineering Corp.,34674270.43,100.0,2024-06-19 06:30:00,1
+ocds-synthetic-04919,O035,Cabanatuan District Engineering Office,2024-06-19 10:00:00,36004000.0,F0143,Pag-asa Contractors Co.,36381066.23,104.9,2024-06-19 06:33:00,0
+ocds-synthetic-04919,O035,Cabanatuan District Engineering Office,2024-06-19 10:00:00,36004000.0,F0302,MCA Engineering Co.,37010643.9,106.7,2024-06-19 06:35:00,0
+ocds-synthetic-04919,O035,Cabanatuan District Engineering Office,2024-06-19 10:00:00,36004000.0,F0214,Ocampo Builders Corp.,37606751.03,108.5,2024-06-19 06:37:00,0
+ocds-synthetic-04919,O035,Cabanatuan District Engineering Office,2024-06-19 10:00:00,36004000.0,F0072,Fernandez Engineering Services Co.,38107879.92,109.9,2024-06-19 06:32:00,0
+ocds-synthetic-01193,O035,Cabanatuan District Engineering Office,2024-06-28 10:00:00,25803000.0,F0081,Silangan Engineering Corp.,25206272.77,100.0,2024-06-28 09:17:00,1
+ocds-synthetic-01193,O035,Cabanatuan District Engineering Office,2024-06-28 10:00:00,25803000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,26792298.5,106.3,2024-06-28 09:15:00,0
+ocds-synthetic-01193,O035,Cabanatuan District Engineering Office,2024-06-28 10:00:00,25803000.0,F0143,Pag-asa Contractors Co.,27019828.45,107.2,2024-06-28 09:14:00,0
+ocds-synthetic-01193,O035,Cabanatuan District Engineering Office,2024-06-28 10:00:00,25803000.0,F0302,MCA ENGINEERING CO.,27136899.49,107.7,2024-06-28 09:12:00,0
+ocds-synthetic-01193,O035,Cabanatuan District Engineering Office,2024-06-28 10:00:00,25803000.0,F0214,Ocampo Builders Corp.,27213200.15,108.0,2024-06-28 09:16:00,0
+ocds-synthetic-00400,O035,Cabanatuan District Engineering Office,2024-08-06 10:00:00,23965000.0,F0143,Pag-asa Contractors Co.,23473213.53,100.0,2024-08-06 06:52:00,1
+ocds-synthetic-00400,O035,Cabanatuan District Engineering Office,2024-08-06 10:00:00,23965000.0,F0072,Fernandez Engineering Services Co.,24258094.23,103.3,2024-08-06 06:54:00,0
+ocds-synthetic-00400,O035,Cabanatuan District Engineering Office,2024-08-06 10:00:00,23965000.0,F0214,Ocampo Builders Corp,24341027.0,103.7,2024-08-06 06:52:00,0
+ocds-synthetic-00400,O035,Cabanatuan District Engineering Office,2024-08-06 10:00:00,23965000.0,F0081,Silangan Engineering Corp.,24614767.28,104.9,2024-08-06 06:52:00,0
+ocds-synthetic-00400,O035,Cabanatuan District Engineering Office,2024-08-06 10:00:00,23965000.0,F0302,MCA Engineering Co.,24852548.96,105.9,2024-08-06 06:53:00,0
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0143,Pag-asa Contractors Co.,16014876.64,100.0,2024-08-08 09:52:00,1
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0191,Northstar Engineering Services Corp,16162539.46,100.9,2024-08-08 07:53:00,0
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0302,MCA ENGINEERING CO.,16192491.27,101.1,2024-08-08 07:20:00,0
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0214,Ocampo Builders Corp.,16369796.97,102.2,2024-08-08 03:01:00,0
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0072,Fernandez Engineering Services Co,16924942.09,105.7,2024-08-07 03:43:00,0
+ocds-synthetic-01144,O011,Angeles District Engineering Office,2024-08-08 10:00:00,16725000.0,F0205,Masagana Construction & Supply Corp.,17041236.85,106.4,2024-08-08 06:49:00,0
+ocds-synthetic-04455,O019,Malolos District Engineering Office,2024-09-25 10:00:00,10794000.0,F0302,MCA Engineering Co.,10652562.57,100.0,2024-09-25 06:13:00,1
+ocds-synthetic-04455,O019,Malolos District Engineering Office,2024-09-25 10:00:00,10794000.0,F0143,Pag-asa Contractors Co.,11060523.19,103.8,2024-09-25 06:11:00,0
+ocds-synthetic-04455,O019,Malolos District Engineering Office,2024-09-25 10:00:00,10794000.0,F0072,Fernandez Engineering Services Co.,11518540.03,108.1,2024-09-25 06:09:00,0
+ocds-synthetic-04455,O019,Malolos District Engineering Office,2024-09-25 10:00:00,10794000.0,F0214,Ocmapo Builders Corp.,11630961.99,109.2,2024-09-25 06:09:00,0
+ocds-synthetic-04455,O019,Malolos District Engineering Office,2024-09-25 10:00:00,10794000.0,F0081,Silangan Engineering Corp.,11708790.99,109.9,2024-09-25 06:11:00,0
+ocds-synthetic-00812,O019,Malolos District Engineering Office,2024-10-23 10:00:00,23101000.0,F0214,Ocampo Builders Corporation,22827214.12,100.0,2024-10-23 03:45:00,1
+ocds-synthetic-00812,O019,Malolos District Engineering Office,2024-10-23 10:00:00,23101000.0,F0081,Silangan Engineering Corp.,24165904.37,105.9,2024-10-23 03:47:00,0
+ocds-synthetic-00812,O019,Malolos District Engineering Office,2024-10-23 10:00:00,23101000.0,F0143,Pag-asa Contractors Co,24563096.51,107.6,2024-10-23 03:47:00,0
+ocds-synthetic-00812,O019,Malolos District Engineering Office,2024-10-23 10:00:00,23101000.0,F0302,MCA ENGINEERING CO.,24684313.87,108.1,2024-10-23 03:49:00,0
+ocds-synthetic-00812,O019,Malolos District Engineering Office,2024-10-23 10:00:00,23101000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,24931594.72,109.2,2024-10-23 03:48:00,0
+ocds-synthetic-03123,O011,Angeles District Engineering Office,2024-12-05 10:00:00,10877000.0,F0302,MCA Engineering Co.,10171946.04,100.0,2024-12-05 07:17:00,1
+ocds-synthetic-03123,O011,Angeles District Engineering Office,2024-12-05 10:00:00,10877000.0,F0072,Fernandez Engineering Services Co.,10574807.07,104.0,2024-12-05 07:33:00,0
+ocds-synthetic-03123,O011,Angeles District Engineering Office,2024-12-05 10:00:00,10877000.0,F0395,MORALES BUILDERS & TRADING ENTERPRISES,10606207.99,104.3,2024-12-05 09:59:00,0
+ocds-synthetic-03123,O011,Angeles District Engineering Office,2024-12-05 10:00:00,10877000.0,F0224,Aguilar Construction Corp.,10617433.09,104.4,2024-12-05 05:05:00,0
+ocds-synthetic-03123,O011,Angeles District Engineering Office,2024-12-05 10:00:00,10877000.0,F0116,Tan Builders Corp.,10870518.16,106.9,2024-12-05 00:54:00,0
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0214,OCAMPO BUILDERS CORP.,15877280.31,100.0,2025-01-13 00:57:00,1
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0086,Lim Construction & Supply Corp.,16463165.12,103.7,2025-01-13 04:02:00,0
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0302,MCA ENGINEERING CO.,16523789.59,104.1,2025-01-13 01:00:00,0
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0081,Silangan Engineering Corp.,16832399.67,106.0,2025-01-13 00:55:00,0
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0143,PAG-ASA CONTRACTORS CO.,17044585.72,107.4,2025-01-13 01:02:00,0
+ocds-synthetic-01336,O035,Cabanatuan District Engineering Office,2025-01-13 10:00:00,16220000.0,F0072,Fernandez Engineering Services Co.,17176944.39,108.2,2025-01-13 00:58:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0199,Evergreen Infra Works Co.,3977428.42,100.0,2025-01-18 18:31:00,1
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0054,CEC Builders Corp,4286624.22,107.8,2025-01-19 09:49:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0198,RCK BUILDERS & TRADING INC.,4331413.76,108.9,2025-01-19 08:35:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0302,MCA Engineering Co.,4460907.68,112.2,2025-01-19 08:30:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0392,RAMOS BUILDERS & TRADING CO.,4558024.61,114.6,2025-01-18 20:22:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0012,RAMOS ENGINEERING ENTERPRISES,4581614.42,115.2,2025-01-19 07:24:00,0
+ocds-synthetic-00647,O019,Malolos District Engineering Office,2025-01-19 10:00:00,4548000.0,F0072,Fernandez Engineering Services Co.,4611757.43,115.9,2025-01-18 23:33:00,0
+ocds-synthetic-01015,O011,Angeles District Engineering Office,2025-01-24 10:00:00,44079000.0,F0302,MCA ENGINEERING CO.,42712646.54,100.0,2025-01-24 07:00:00,1
+ocds-synthetic-01015,O011,Angeles District Engineering Office,2025-01-24 10:00:00,44079000.0,F0072,Fernandez Engineering Services Co.,44295471.02,103.7,2025-01-24 07:04:00,0
+ocds-synthetic-01015,O011,Angeles District Engineering Office,2025-01-24 10:00:00,44079000.0,F0143,Pag-asa Contractors Co.,45102637.43,105.6,2025-01-24 07:00:00,0
+ocds-synthetic-01015,O011,Angeles District Engineering Office,2025-01-24 10:00:00,44079000.0,F0214,Ocampo Builders Corp,46231215.24,108.2,2025-01-24 06:59:00,0
+ocds-synthetic-01015,O011,Angeles District Engineering Office,2025-01-24 10:00:00,44079000.0,F0081,Silangan Engineering Corp.,46459089.88,108.8,2025-01-24 07:03:00,0
+ocds-synthetic-02917,O019,Malolos District Engineering Office,2025-02-20 10:00:00,69119000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,66905532.16,100.0,2025-02-20 03:39:00,1
+ocds-synthetic-02917,O019,Malolos District Engineering Office,2025-02-20 10:00:00,69119000.0,F0302,MCA Engineering Co.,69708228.19,104.2,2025-02-20 03:31:00,0
+ocds-synthetic-02917,O019,Malolos District Engineering Office,2025-02-20 10:00:00,69119000.0,F0214,Ocampo Builders Corp.,70811827.74,105.8,2025-02-20 03:37:00,0
+ocds-synthetic-02917,O019,Malolos District Engineering Office,2025-02-20 10:00:00,69119000.0,F0143,Pag-asa Contractors Co.,72600915.87,108.5,2025-02-20 03:33:00,0
+ocds-synthetic-02917,O019,Malolos District Engineering Office,2025-02-20 10:00:00,69119000.0,F0081,Silangan Engineering Corp.,73561506.87,109.9,2025-02-20 03:31:00,0
+ocds-synthetic-04258,O019,Malolos District Engineering Office,2025-03-09 10:00:00,1190000.0,F0214,Ocampo Builders Corp.,1159838.4,100.0,2025-03-09 07:22:00,1
+ocds-synthetic-04258,O019,Malolos District Engineering Office,2025-03-09 10:00:00,1190000.0,F0081,Silangan Engineering Corp.,1206065.76,104.0,2025-03-09 07:17:00,0
+ocds-synthetic-04258,O019,Malolos District Engineering Office,2025-03-09 10:00:00,1190000.0,F0072,Fernandez Engineering Services Co.,1208849.61,104.2,2025-03-09 07:17:00,0
+ocds-synthetic-04258,O019,Malolos District Engineering Office,2025-03-09 10:00:00,1190000.0,F0143,Pag-asa Contractors Co.,1233078.19,106.3,2025-03-09 07:17:00,0
+ocds-synthetic-04258,O019,Malolos District Engineering Office,2025-03-09 10:00:00,1190000.0,F0302,MCA Engineering Co.,1238812.36,106.8,2025-03-09 07:18:00,0
+ocds-synthetic-01570,O019,Malolos District Engineering Office,2025-03-21 10:00:00,3619000.0,F0072,Fernandez Engineering Services Co,3490863.59,100.0,2025-03-21 02:24:00,1
+ocds-synthetic-01570,O019,Malolos District Engineering Office,2025-03-21 10:00:00,3619000.0,F0302,MCA Engineering Co,3608978.06,103.4,2025-03-21 02:19:00,0
+ocds-synthetic-01570,O019,Malolos District Engineering Office,2025-03-21 10:00:00,3619000.0,F0143,PAG-ASA CONTRACTORS CO.,3637698.36,104.2,2025-03-21 02:20:00,0
+ocds-synthetic-01570,O019,Malolos District Engineering Office,2025-03-21 10:00:00,3619000.0,F0081,SILANGAN ENGINEERING CORP.,3675429.89,105.3,2025-03-21 02:20:00,0
+ocds-synthetic-01570,O019,Malolos District Engineering Office,2025-03-21 10:00:00,3619000.0,F0214,Ocampo Builders Corp.,3779442.46,108.3,2025-03-21 02:22:00,0
+ocds-synthetic-02234,O011,Angeles District Engineering Office,2025-04-10 10:00:00,26354000.0,F0302,MCA ENGINEERING CO.,26194951.43,100.0,2025-04-10 00:11:00,1
+ocds-synthetic-02234,O011,Angeles District Engineering Office,2025-04-10 10:00:00,26354000.0,F0214,Ocampo Builders Corp.,27177102.0,103.7,2025-04-10 00:05:00,0
+ocds-synthetic-02234,O011,Angeles District Engineering Office,2025-04-10 10:00:00,26354000.0,F0081,SILANGAN ENGINEERING CORP.,27219961.19,103.9,2025-04-10 00:09:00,0
+ocds-synthetic-02234,O011,Angeles District Engineering Office,2025-04-10 10:00:00,26354000.0,F0072,Fernandez Engineering Services Co.,27528108.14,105.1,2025-04-10 00:06:00,0
+ocds-synthetic-02234,O011,Angeles District Engineering Office,2025-04-10 10:00:00,26354000.0,F0143,Pag-asa Contractors Co.,28604938.5,109.2,2025-04-10 00:05:00,0
+ocds-synthetic-03153,O011,Angeles District Engineering Office,2025-04-28 10:00:00,10727000.0,F0214,Ocampo Builders Corp.,10588362.49,100.0,2025-04-28 09:34:00,1
+ocds-synthetic-03153,O011,Angeles District Engineering Office,2025-04-28 10:00:00,10727000.0,F0072,Fernandez Engineering Services Co.,11043182.66,104.3,2025-04-28 09:33:00,0
+ocds-synthetic-03153,O011,Angeles District Engineering Office,2025-04-28 10:00:00,10727000.0,F0302,MCA Engineering Co.,11517605.07,108.8,2025-04-28 09:34:00,0
+ocds-synthetic-03153,O011,Angeles District Engineering Office,2025-04-28 10:00:00,10727000.0,F0081,Silangan Engineering Corp,11521410.87,108.8,2025-04-28 09:33:00,0
+ocds-synthetic-03153,O011,Angeles District Engineering Office,2025-04-28 10:00:00,10727000.0,F0143,Pag-asa Contractors Co.,11537006.67,109.0,2025-04-28 09:31:00,0
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0072,Fernandez Egnineering Services Co.,21797118.19,100.0,2025-05-10 08:41:00,1
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0338,Pacific Construction & Supply Co.,22239880.19,102.0,2025-05-10 07:38:00,0
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0302,MCA Engineering Co.,22606699.26,103.7,2025-05-10 08:37:00,0
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0081,Silangan Engineering Corp.,22728403.4,104.3,2025-05-10 08:36:00,0
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0143,Pag-asaC ontractors Co.,23592997.59,108.2,2025-05-10 08:38:00,0
+ocds-synthetic-00480,O035,Cabanatuan District Engineering Office,2025-05-10 10:00:00,21986000.0,F0214,Ocampo Builders Corp.,23832361.38,109.3,2025-05-10 08:44:00,0
+ocds-synthetic-02113,O035,Cabanatuan District Engineering Office,2025-05-12 10:00:00,7614000.0,F0072,Fernandez Engineering Services Co,7355314.5,100.0,2025-05-12 00:56:00,1
+ocds-synthetic-02113,O035,Cabanatuan District Engineering Office,2025-05-12 10:00:00,7614000.0,F0302,MCA Engineering Co,7618966.52,103.6,2025-05-12 00:56:00,0
+ocds-synthetic-02113,O035,Cabanatuan District Engineering Office,2025-05-12 10:00:00,7614000.0,F0143,Pag-asa Contractors Co.,7831677.95,106.5,2025-05-12 00:59:00,0
+ocds-synthetic-02113,O035,Cabanatuan District Engineering Office,2025-05-12 10:00:00,7614000.0,F0081,SILANGAN ENGINEERING CORP.,7900777.99,107.4,2025-05-12 00:53:00,0
+ocds-synthetic-02113,O035,Cabanatuan District Engineering Office,2025-05-12 10:00:00,7614000.0,F0214,OCAMPO BUILDERS CORP.,7943188.17,108.0,2025-05-12 00:54:00,0
+ocds-synthetic-01139,O035,Cabanatuan District Engineering Office,2025-05-27 10:00:00,299483000.0,F0072,Fernandez Engineering Services Co.,292093217.25,100.0,2025-05-27 09:23:00,1
+ocds-synthetic-01139,O035,Cabanatuan District Engineering Office,2025-05-27 10:00:00,299483000.0,F0143,Pag-asa Contractors Co.,301120576.85,103.1,2025-05-27 09:23:00,0
+ocds-synthetic-01139,O035,Cabanatuan District Engineering Office,2025-05-27 10:00:00,299483000.0,F0214,Ocampo Builders Corp.,304652925.91,104.3,2025-05-27 09:26:00,0
+ocds-synthetic-01139,O035,Cabanatuan District Engineering Office,2025-05-27 10:00:00,299483000.0,F0081,Silangan Engineering Corp,310850342.94,106.4,2025-05-27 09:24:00,0
+ocds-synthetic-01139,O035,Cabanatuan District Engineering Office,2025-05-27 10:00:00,299483000.0,F0302,MCA Engineering Co.,311150459.82,106.5,2025-05-27 09:26:00,0
+ocds-synthetic-04907,O035,Cabanatuan District Engineering Office,2025-06-01 10:00:00,26623000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,26297250.44,100.0,2025-06-01 01:01:00,1
+ocds-synthetic-04907,O035,Cabanatuan District Engineering Office,2025-06-01 10:00:00,26623000.0,F0251,Rivera Civil Works Corp.,27395759.89,104.2,2025-06-01 07:45:00,0
+ocds-synthetic-04907,O035,Cabanatuan District Engineering Office,2025-06-01 10:00:00,26623000.0,F0143,Pag-asa Contractors Co.,27975923.28,106.4,2025-06-01 00:56:00,0
+ocds-synthetic-04907,O035,Cabanatuan District Engineering Office,2025-06-01 10:00:00,26623000.0,F0214,Ocampo Builders Corp.,28297639.49,107.6,2025-06-01 00:57:00,0
+ocds-synthetic-04907,O035,Cabanatuan District Engineering Office,2025-06-01 10:00:00,26623000.0,F0302,MCA Engineering Co.,28808032.71,109.5,2025-06-01 00:57:00,0
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0072,Fernandez Engineering Services Co.,18709776.98,100.0,2025-06-03 06:53:00,1
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0129,Northstar Civil Works Corporation,19266562.46,103.0,2025-06-03 03:26:00,0
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0302,MCA ENGINEERING CO.,19658542.42,105.1,2025-06-03 06:49:00,0
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0081,Silangan Engineering Corp.,20273023.66,108.4,2025-06-03 06:55:00,0
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0214,Ocampo Biulders Corp.,20323835.23,108.6,2025-06-03 06:48:00,0
+ocds-synthetic-00880,O035,Cabanatuan District Engineering Office,2025-06-03 10:00:00,19227000.0,F0143,Pag-asa Contractors Co,20327766.95,108.6,2025-06-03 06:49:00,0
+ocds-synthetic-01720,O035,Cabanatuan District Engineering Office,2025-07-07 10:00:00,17511000.0,F0081,SILANGAN ENGINEERING CORP.,16946047.39,100.0,2025-07-07 04:06:00,1
+ocds-synthetic-01720,O035,Cabanatuan District Engineering Office,2025-07-07 10:00:00,17511000.0,F0214,OCAMPO BUILDERS CORP.,17479683.85,103.1,2025-07-07 04:04:00,0
+ocds-synthetic-01720,O035,Cabanatuan District Engineering Office,2025-07-07 10:00:00,17511000.0,F0143,Paga-sa Contractors Co.,17990118.16,106.2,2025-07-07 04:08:00,0
+ocds-synthetic-01720,O035,Cabanatuan District Engineering Office,2025-07-07 10:00:00,17511000.0,F0072,Fernandez Engineering Services Co,18320829.47,108.1,2025-07-07 04:05:00,0
+ocds-synthetic-01720,O035,Cabanatuan District Engineering Office,2025-07-07 10:00:00,17511000.0,F0302,MCA ENGINEERING CO.,18446576.59,108.9,2025-07-07 04:03:00,0
+ocds-synthetic-01335,O011,Angeles District Engineering Office,2025-08-03 10:00:00,46135000.0,F0302,MCA ENGINEERING CO.,44616956.06,100.0,2025-08-03 04:03:00,1
+ocds-synthetic-01335,O011,Angeles District Engineering Office,2025-08-03 10:00:00,46135000.0,F0072,Fernandez Engineering Services Co.,46107534.08,103.3,2025-08-03 03:58:00,0
+ocds-synthetic-01335,O011,Angeles District Engineering Office,2025-08-03 10:00:00,46135000.0,F0214,Ocampo Builders Corp.,47243493.73,105.9,2025-08-03 03:55:00,0
+ocds-synthetic-01335,O011,Angeles District Engineering Office,2025-08-03 10:00:00,46135000.0,F0081,SILANGAN ENGINEERING CORP.,47878996.99,107.3,2025-08-03 04:01:00,0
+ocds-synthetic-01335,O011,Angeles District Engineering Office,2025-08-03 10:00:00,46135000.0,F0143,Pag-asa Contractors Co.,48860297.32,109.5,2025-08-03 03:58:00,0
+ocds-synthetic-00444,O011,Angeles District Engineering Office,2025-08-18 10:00:00,92773000.0,F0072,Fernandez Engineering Services Co.,91248273.78,100.0,2025-08-18 06:18:00,1
+ocds-synthetic-00444,O011,Angeles District Engineering Office,2025-08-18 10:00:00,92773000.0,F0302,MCA Engineering Co.,93206838.09,102.1,2025-08-18 03:35:00,0
+ocds-synthetic-00972,O011,Angeles District Engineering Office,2025-10-24 10:00:00,10993000.0,F0081,Silangan Engineering Corp,10763479.99,100.0,2025-10-24 03:26:00,1
+ocds-synthetic-00972,O011,Angeles District Engineering Office,2025-10-24 10:00:00,10993000.0,F0302,MCA Engineering Co.,11104801.41,103.2,2025-10-24 03:25:00,0
+ocds-synthetic-00972,O011,Angeles District Engineering Office,2025-10-24 10:00:00,10993000.0,F0072,FERNANDEZ ENGINEERING SERVICES CO.,11156330.05,103.6,2025-10-24 03:28:00,0
+ocds-synthetic-00972,O011,Angeles District Engineering Office,2025-10-24 10:00:00,10993000.0,F0214,Ocampo Builders Corp.,11364068.92,105.6,2025-10-24 03:31:00,0
+ocds-synthetic-00972,O011,Angeles District Engineering Office,2025-10-24 10:00:00,10993000.0,F0143,Pag-asa Contractors Co.,11502185.76,106.9,2025-10-24 03:29:00,0
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0072,Fernandez Engineering Services Co,12711935.45,100.0,2025-11-12 06:55:00,1
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0300,MABUHAY ENGINEERING ENTERPRISES,13285996.99,104.5,2025-11-12 01:25:00,0
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0281,Ocampo Engineering Corp.,13582044.87,106.8,2025-11-12 04:22:00,0
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0012,Ramos Engineering Enterprises,13694918.29,107.7,2025-11-12 09:48:00,0
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0031,Bautista Engineering Services Enterprises,13734672.35,108.0,2025-11-12 07:17:00,0
+ocds-synthetic-01444,O019,Malolos District Engineering Office,2025-11-12 10:00:00,14197000.0,F0302,MCA Engineering Co.,14213952.29,111.8,2025-11-12 09:16:00,0
+ocds-synthetic-03480,O011,Angeles District Engineering Office,2025-11-13 10:00:00,6812000.0,F0072,Fernandez Engineering Services Co.,6285329.22,100.0,2025-11-13 04:49:00,1
+ocds-synthetic-03480,O011,Angeles District Engineering Office,2025-11-13 10:00:00,6812000.0,F0081,SILANGAN ENGINEERING CORP.,6548454.27,104.2,2025-11-13 03:51:00,0
+ocds-synthetic-03480,O011,Angeles District Engineering Office,2025-11-13 10:00:00,6812000.0,F0302,MCA Engineering Co.,6607352.46,105.1,2025-11-12 15:24:00,0
+ocds-synthetic-03480,O011,Angeles District Engineering Office,2025-11-13 10:00:00,6812000.0,F0191,Northstar Engineering Services Corporation,6927113.2,110.2,2025-11-13 07:25:00,0
+ocds-synthetic-01851,O019,Malolos District Engineering Office,2025-12-23 10:00:00,7211000.0,F0302,MCA Engineering Co.,7117722.31,100.0,2025-12-23 01:18:00,1
+ocds-synthetic-01851,O019,Malolos District Engineering Office,2025-12-23 10:00:00,7211000.0,F0143,Pag-asa Contractors Co.,7640983.58,107.4,2025-12-23 01:18:00,0
+ocds-synthetic-01851,O019,Malolos District Engineering Office,2025-12-23 10:00:00,7211000.0,F0214,Ocampo Builders Corporation,7647508.05,107.4,2025-12-23 01:12:00,0
+ocds-synthetic-01851,O019,Malolos District Engineering Office,2025-12-23 10:00:00,7211000.0,F0072,Fernandez Engineering Services Co.,7697594.16,108.1,2025-12-23 01:13:00,0
+ocds-synthetic-01851,O019,Malolos District Engineering Office,2025-12-23 10:00:00,7211000.0,F0308,Santos Infra Works Enterprises,7766875.55,109.1,2025-12-23 06:46:00,0

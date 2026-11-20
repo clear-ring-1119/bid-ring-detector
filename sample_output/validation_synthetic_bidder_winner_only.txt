@@ -1,0 +1,18 @@
+SYNTHETIC DATA VALIDATION (planted rings only; not evidence about real data)
+Name resolution: 1755/1755 correct (100.00%), 0 wrong firm, 0 unresolved
+Pairs: flagged 23, true 22, TP 22, FP 1
+Precision 0.957  Recall 1.000  F1 0.978
+Candidate rings: 5
+  R1 (size 4): best match C03, Jaccard 1.00
+  R2 (size 3): best match C01, Jaccard 1.00
+  R3 (size 5): best match C02, Jaccard 1.00
+  R4 (size 3): best match C05, Jaccard 1.00
+Offices: 11 of 12 planted ring offices in the top 12 of the ranking
+Recurrent loser->winner links: 2 (2 within planted rings; rings: R2)
+Threshold sweep (pairs):
+  >= 0.40: flagged 612  precision 0.036  recall 1.000
+  >= 0.45: flagged 375  precision 0.059  recall 1.000
+  >= 0.50: flagged 197  precision 0.112  recall 1.000
+  >= 0.55: flagged  90  precision 0.244  recall 1.000
+  >= 0.60: flagged  44  precision 0.500  recall 1.000
+  >= 0.70: flagged  23  precision 0.957  recall 1.000

@@ -1,0 +1,307 @@
+ocid,office_id,office_name,tender_close,estimated_value,firm_id,bidder_name,bid_amount,pct_of_winning_bid,submitted_at,is_winner
+ocds-synthetic-02490,O007,Cebu District Engineering Office,2022-01-05 10:00:00,23685000.0,F0322,Reyes Builders & Trading Co.,23255933.82,100.0,2022-01-05 05:57:00,1
+ocds-synthetic-02490,O007,Cebu District Engineering Office,2022-01-05 10:00:00,23685000.0,F0201,Mabuhay Builders & Trading Inc.,24043356.71,103.4,2022-01-05 05:54:00,0
+ocds-synthetic-02490,O007,Cebu District Engineering Office,2022-01-05 10:00:00,23685000.0,F0296,Masagana Engineering Services Corp.,24302952.33,104.5,2022-01-05 05:57:00,0
+ocds-synthetic-02490,O007,Cebu District Engineering Office,2022-01-05 10:00:00,23685000.0,F0093,JMJ Engineering Services Corp.,24885952.12,107.0,2022-01-05 05:53:00,0
+ocds-synthetic-04577,O015,Mandaue District Engineering Office,2022-01-18 10:00:00,17121000.0,F0201,Mabuhay Builders & Trading Inc.,16582435.47,100.0,2022-01-18 07:49:00,1
+ocds-synthetic-04577,O015,Mandaue District Engineering Office,2022-01-18 10:00:00,17121000.0,F0322,Reyes Builders & Trading Co,17201436.62,103.7,2022-01-18 07:51:00,0
+ocds-synthetic-04577,O015,Mandaue District Engineering Office,2022-01-18 10:00:00,17121000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,17721358.5,106.9,2022-01-18 07:48:00,0
+ocds-synthetic-04577,O015,Mandaue District Engineering Office,2022-01-18 10:00:00,17121000.0,F0093,JMJ Engineering Services Corp.,17855834.25,107.7,2022-01-18 07:53:00,0
+ocds-synthetic-01822,O039,Lapu-Lapu District Engineering Office,2022-01-24 10:00:00,69815000.0,F0296,Masagana Engineering Services Corp.,68914838.77,100.0,2022-01-24 03:58:00,1
+ocds-synthetic-01822,O039,Lapu-Lapu District Engineering Office,2022-01-24 10:00:00,69815000.0,F0322,Reyes Builders & Trading Co.,71879421.55,104.3,2022-01-24 04:01:00,0
+ocds-synthetic-01822,O039,Lapu-Lapu District Engineering Office,2022-01-24 10:00:00,69815000.0,F0201,Mabuhay Builders & Trading nIc.,72452496.4,105.1,2022-01-24 04:01:00,0
+ocds-synthetic-01822,O039,Lapu-Lapu District Engineering Office,2022-01-24 10:00:00,69815000.0,F0093,JMJ Engineering Services Corp.,74139478.93,107.6,2022-01-24 04:00:00,0
+ocds-synthetic-00349,O039,Lapu-Lapu District Engineering Office,2022-02-22 10:00:00,5502000.0,F0322,Reyes Builders & Trading Co,5426834.57,100.0,2022-02-22 07:12:00,1
+ocds-synthetic-00349,O039,Lapu-Lapu District Engineering Office,2022-02-22 10:00:00,5502000.0,F0201,Mabuhay Builders & Trading Inc.,5621944.64,103.6,2022-02-22 07:15:00,0
+ocds-synthetic-00349,O039,Lapu-Lapu District Engineering Office,2022-02-22 10:00:00,5502000.0,F0296,Masagana Engineering Services Corporation,5776212.79,106.4,2022-02-22 07:16:00,0
+ocds-synthetic-00349,O039,Lapu-Lapu District Engineering Office,2022-02-22 10:00:00,5502000.0,F0093,JMJ Engineering Services Corp.,5817698.97,107.2,2022-02-22 07:13:00,0
+ocds-synthetic-01502,O015,Mandaue District Engineering Office,2022-05-14 10:00:00,24728000.0,F0296,Masagana Engineering Services Corp.,23941875.66,100.0,2022-05-14 04:39:00,1
+ocds-synthetic-01502,O015,Mandaue District Engineering Office,2022-05-14 10:00:00,24728000.0,F0093,JMJ Engineering Services Corp.,24693738.58,103.1,2022-05-14 04:39:00,0
+ocds-synthetic-01502,O015,Mandaue District Engineering Office,2022-05-14 10:00:00,24728000.0,F0322,Reyes Builders & Trading Co.,25021296.08,104.5,2022-05-14 04:34:00,0
+ocds-synthetic-01502,O015,Mandaue District Engineering Office,2022-05-14 10:00:00,24728000.0,F0201,MABUHAY BUILDERS & TRADING INC.,25490130.07,106.5,2022-05-14 04:34:00,0
+ocds-synthetic-00884,O015,Mandaue District Engineering Office,2022-06-06 10:00:00,6136000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,6068032.58,100.0,2022-06-06 04:58:00,1
+ocds-synthetic-00884,O015,Mandaue District Engineering Office,2022-06-06 10:00:00,6136000.0,F0201,MABUHAY BUILDERS & TRADING INC.,6397360.92,105.4,2022-06-06 04:57:00,0
+ocds-synthetic-00884,O015,Mandaue District Engineering Office,2022-06-06 10:00:00,6136000.0,F0093,JMJ Engineering Services Corp,6402183.47,105.5,2022-06-06 04:59:00,0
+ocds-synthetic-00884,O015,Mandaue District Engineering Office,2022-06-06 10:00:00,6136000.0,F0322,Reyes Builders & Trading Co.,6445137.27,106.2,2022-06-06 04:54:00,0
+ocds-synthetic-02688,O039,Lapu-Lapu District Engineering Office,2022-06-08 10:00:00,18715000.0,F0201,Mabuhay Builders & Trading Inc.,18382270.53,100.0,2022-06-08 04:37:00,1
+ocds-synthetic-02688,O039,Lapu-Lapu District Engineering Office,2022-06-08 10:00:00,18715000.0,F0322,Reyes Builders & Trading Co.,19061026.78,103.7,2022-06-08 04:33:00,0
+ocds-synthetic-02688,O039,Lapu-Lapu District Engineering Office,2022-06-08 10:00:00,18715000.0,F0296,Masagana Engineering Services Corp.,19393795.04,105.5,2022-06-08 04:34:00,0
+ocds-synthetic-02688,O039,Lapu-Lapu District Engineering Office,2022-06-08 10:00:00,18715000.0,F0093,JMJ Engineering Services Corp.,19573070.88,106.5,2022-06-08 04:33:00,0
+ocds-synthetic-02797,O007,Cebu District Engineering Office,2022-06-23 10:00:00,15245000.0,F0280,Pascual Infra Works Corp.,13143487.44,100.0,2022-06-23 08:50:00,1
+ocds-synthetic-02797,O007,Cebu District Engineering Office,2022-06-23 10:00:00,15245000.0,F0322,REYES BUILDERS & TRADING CO.,14302914.88,108.8,2022-06-23 06:23:00,0
+ocds-synthetic-02797,O007,Cebu District Engineering Office,2022-06-23 10:00:00,15245000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,14303715.57,108.8,2022-06-22 20:17:00,0
+ocds-synthetic-02797,O007,Cebu District Engineering Office,2022-06-23 10:00:00,15245000.0,F0356,LJT Engineering Inc.,14320563.82,109.0,2022-06-23 01:11:00,0
+ocds-synthetic-02797,O007,Cebu District Engineering Office,2022-06-23 10:00:00,15245000.0,F0093,JMJ ENGINEERING SERVICES CORP.,15535614.66,118.2,2022-06-23 02:02:00,0
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0299,Tan Builders Co,21668594.39,100.0,2022-06-29 06:47:00,1
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0313,Northstar Builders & Trading Enterprises,21956403.03,101.3,2022-06-29 07:32:00,0
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0091,MERCADO BUILDERS & TRADING CORP.,22513977.87,103.9,2022-06-29 09:37:00,0
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0383,Bayanihan Builders Inc.,22541731.51,104.0,2022-06-29 03:47:00,0
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0296,Masagana Engineering Services Corp.,23007868.37,106.2,2022-06-29 07:54:00,0
+ocds-synthetic-01806,O007,Cebu District Engineering Office,2022-06-29 10:00:00,23755000.0,F0093,JMJ ENGINEERING SERVICES CORP.,23832476.86,110.0,2022-06-29 08:27:00,0
+ocds-synthetic-02519,O007,Cebu District Engineering Office,2022-07-05 10:00:00,5775000.0,F0201,Mabuhay Builders & Trading Inc.,5703873.95,100.0,2022-07-05 02:40:00,1
+ocds-synthetic-02519,O007,Cebu District Engineering Office,2022-07-05 10:00:00,5775000.0,F0296,Masagana Engineering Services Corp.,6058086.9,106.2,2022-07-05 02:37:00,0
+ocds-synthetic-02519,O007,Cebu District Engineering Office,2022-07-05 10:00:00,5775000.0,F0093,JMJ Engineering Services Corp.,6068378.71,106.4,2022-07-05 02:40:00,0
+ocds-synthetic-02519,O007,Cebu District Engineering Office,2022-07-05 10:00:00,5775000.0,F0322,Reyes Builders & Trading Co.,6211133.05,108.9,2022-07-05 02:36:00,0
+ocds-synthetic-02970,O039,Lapu-Lapu District Engineering Office,2022-07-11 10:00:00,104309000.0,F0093,JMJ Engineering Services Corp.,100249477.8,100.0,2022-07-11 08:35:00,1
+ocds-synthetic-02970,O039,Lapu-Lapu District Engineering Office,2022-07-11 10:00:00,104309000.0,F0201,Mabuhay Builders & Trading Inc.,104792218.63,104.5,2022-07-11 08:35:00,0
+ocds-synthetic-02970,O039,Lapu-Lapu District Engineering Office,2022-07-11 10:00:00,104309000.0,F0296,Masagana Engineering Services Corp.,107787529.65,107.5,2022-07-11 08:39:00,0
+ocds-synthetic-02970,O039,Lapu-Lapu District Engineering Office,2022-07-11 10:00:00,104309000.0,F0322,Reyes Builders and Trading Co.,109626196.63,109.4,2022-07-11 08:37:00,0
+ocds-synthetic-00269,O007,Cebu District Engineering Office,2022-08-08 10:00:00,8573000.0,F0201,Mabuhay Builders & Trading Inc.,8470561.2,100.0,2022-08-08 02:15:00,1
+ocds-synthetic-00269,O007,Cebu District Engineering Office,2022-08-08 10:00:00,8573000.0,F0093,JMJ Engineering Services Corp.,8730397.08,103.1,2022-08-08 02:08:00,0
+ocds-synthetic-00269,O007,Cebu District Engineering Office,2022-08-08 10:00:00,8573000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,9090794.72,107.3,2022-08-08 02:09:00,0
+ocds-synthetic-00269,O007,Cebu District Engineering Office,2022-08-08 10:00:00,8573000.0,F0322,REYES BUILDERS & TRADING CO.,9203171.88,108.6,2022-08-08 02:15:00,0
+ocds-synthetic-01018,O039,Lapu-Lapu District Engineering Office,2022-08-18 10:00:00,16511000.0,F0093,JMJ Engineering Services Corp.,15983507.89,100.0,2022-08-18 00:37:00,1
+ocds-synthetic-01018,O039,Lapu-Lapu District Engineering Office,2022-08-18 10:00:00,16511000.0,F0201,Mabuhay Builders & Trading Incorporated,16806730.8,105.2,2022-08-18 00:35:00,0
+ocds-synthetic-01018,O039,Lapu-Lapu District Engineering Office,2022-08-18 10:00:00,16511000.0,F0322,Reyes Builders & Trading Co.,17301170.91,108.2,2022-08-18 00:39:00,0
+ocds-synthetic-01018,O039,Lapu-Lapu District Engineering Office,2022-08-18 10:00:00,16511000.0,F0296,Masagana Engineering Services Corp,17530635.41,109.7,2022-08-18 00:33:00,0
+ocds-synthetic-03011,O039,Lapu-Lapu District Engineering Office,2022-08-28 10:00:00,3565000.0,F0296,Masagana Engineering Services Corp.,3444300.65,100.0,2022-08-28 06:42:00,1
+ocds-synthetic-03011,O039,Lapu-Lapu District Engineering Office,2022-08-28 10:00:00,3565000.0,F0093,JMJ Engineering Services Corp.,3671936.99,106.6,2022-08-28 06:42:00,0
+ocds-synthetic-03011,O039,Lapu-Lapu District Engineering Office,2022-08-28 10:00:00,3565000.0,F0322,Reyes Builders & Trading Co.,3706719.08,107.6,2022-08-28 06:43:00,0
+ocds-synthetic-03011,O039,Lapu-Lapu District Engineering Office,2022-08-28 10:00:00,3565000.0,F0201,Mabuhay Builders & Trading Inc.,3785323.17,109.9,2022-08-28 06:44:00,0
+ocds-synthetic-03573,O007,Cebu District Engineering Office,2022-09-25 10:00:00,6163000.0,F0201,Mabuhay Builders & Trading Inc.,6037400.62,100.0,2022-09-25 09:19:00,1
+ocds-synthetic-03573,O007,Cebu District Engineering Office,2022-09-25 10:00:00,6163000.0,F0296,Masagana Engineering Services Corp.,6415288.77,106.3,2022-09-25 09:14:00,0
+ocds-synthetic-03573,O007,Cebu District Engineering Office,2022-09-25 10:00:00,6163000.0,F0093,JMJ Engineering Services Corp,6426484.81,106.4,2022-09-25 09:17:00,0
+ocds-synthetic-03573,O007,Cebu District Engineering Office,2022-09-25 10:00:00,6163000.0,F0322,Reyes Builders & Trading Co.,6552774.48,108.5,2022-09-25 09:18:00,0
+ocds-synthetic-04286,O015,Mandaue District Engineering Office,2022-10-26 10:00:00,27307000.0,F0201,Mabuhay Builders & Trading Inc.,26433573.86,100.0,2022-10-26 07:05:00,1
+ocds-synthetic-04286,O015,Mandaue District Engineering Office,2022-10-26 10:00:00,27307000.0,F0296,Masagana Engineering Services Corp.,28027194.47,106.0,2022-10-26 07:06:00,0
+ocds-synthetic-04286,O015,Mandaue District Engineering Office,2022-10-26 10:00:00,27307000.0,F0093,JMJ Engineering Services Corp.,28134137.05,106.4,2022-10-26 07:07:00,0
+ocds-synthetic-04286,O015,Mandaue District Engineering Office,2022-10-26 10:00:00,27307000.0,F0322,Reyes Builders & Trading Co.,28953902.63,109.5,2022-10-26 07:07:00,0
+ocds-synthetic-01316,O015,Mandaue District Engineering Office,2022-10-30 10:00:00,37607000.0,F0322,Reyes Builders & Trading Co.,36953487.74,100.0,2022-10-30 02:20:00,1
+ocds-synthetic-01316,O015,Mandaue District Engineering Office,2022-10-30 10:00:00,37607000.0,F0201,MABUHAY BUILDERS & TRADING INC.,39132739.04,105.9,2022-10-30 02:18:00,0
+ocds-synthetic-01316,O015,Mandaue District Engineering Office,2022-10-30 10:00:00,37607000.0,F0093,JMJ Engineering Services Corp.,39177123.41,106.0,2022-10-30 02:23:00,0
+ocds-synthetic-01316,O015,Mandaue District Engineering Office,2022-10-30 10:00:00,37607000.0,F0296,Masagana Engineering Services Corp,40254013.69,108.9,2022-10-30 02:25:00,0
+ocds-synthetic-01316,O015,Mandaue District Engineering Office,2022-10-30 10:00:00,37607000.0,F0363,Aquino ConstructionC orp.,40280901.25,109.0,2022-10-30 04:25:00,0
+ocds-synthetic-02591,O039,Lapu-Lapu District Engineering Office,2022-11-09 10:00:00,19887000.0,F0322,Reyes Builders & Trading Co.,19093511.1,100.0,2022-11-09 04:14:00,1
+ocds-synthetic-02591,O039,Lapu-Lapu District Engineering Office,2022-11-09 10:00:00,19887000.0,F0201,Mabuhay Builders & Trading Inc.,20531410.33,107.5,2022-11-09 04:15:00,0
+ocds-synthetic-02591,O039,Lapu-Lapu District Engineering Office,2022-11-09 10:00:00,19887000.0,F0296,Masagana Engineering Services Corp.,20754565.69,108.7,2022-11-09 04:13:00,0
+ocds-synthetic-02591,O039,Lapu-Lapu District Engineering Office,2022-11-09 10:00:00,19887000.0,F0093,JMJ Engineering Services Corp.,20944751.55,109.7,2022-11-09 04:11:00,0
+ocds-synthetic-04737,O039,Lapu-Lapu District Engineering Office,2022-11-13 10:00:00,10017000.0,F0296,Masagana Engineering Services Corporation,9647197.71,100.0,2022-11-13 05:42:00,1
+ocds-synthetic-04737,O039,Lapu-Lapu District Engineering Office,2022-11-13 10:00:00,10017000.0,F0202,DAA Infra Works Co.,10274917.09,106.5,2022-11-13 02:22:00,0
+ocds-synthetic-04737,O039,Lapu-Lapu District Engineering Office,2022-11-13 10:00:00,10017000.0,F0093,JMJ Engineering Services Corp.,10285828.67,106.6,2022-11-13 05:41:00,0
+ocds-synthetic-04737,O039,Lapu-Lapu District Engineering Office,2022-11-13 10:00:00,10017000.0,F0322,Reyes Builders and Trading Co.,10481899.04,108.7,2022-11-13 05:46:00,0
+ocds-synthetic-04737,O039,Lapu-Lapu District Engineering Office,2022-11-13 10:00:00,10017000.0,F0201,Mabuhay Builders & Trading Inc.,10579482.27,109.7,2022-11-13 05:44:00,0
+ocds-synthetic-01198,O039,Lapu-Lapu District Engineering Office,2022-12-01 10:00:00,45183000.0,F0201,Mabuhay Builders & Trading Inc.,43996487.45,100.0,2022-12-01 05:18:00,1
+ocds-synthetic-01198,O039,Lapu-Lapu District Engineering Office,2022-12-01 10:00:00,45183000.0,F0296,Masagana Engineering Services Corp.,45430126.91,103.3,2022-12-01 05:13:00,0
+ocds-synthetic-01198,O039,Lapu-Lapu District Engineering Office,2022-12-01 10:00:00,45183000.0,F0093,JMJ Engineering Services oCrp.,46346988.26,105.3,2022-12-01 05:15:00,0
+ocds-synthetic-01198,O039,Lapu-Lapu District Engineering Office,2022-12-01 10:00:00,45183000.0,F0322,Reyes Builders & Trading Co.,47141827.31,107.1,2022-12-01 05:18:00,0
+ocds-synthetic-00630,O007,Cebu District Engineering Office,2022-12-23 10:00:00,1994000.0,F0093,JMJ ENGINEERING SERVICES CORP.,1955303.26,100.0,2022-12-23 09:20:00,1
+ocds-synthetic-00630,O007,Cebu District Engineering Office,2022-12-23 10:00:00,1994000.0,F0296,Masagana Engineering Services Corp.,2071581.86,105.9,2022-12-23 09:19:00,0
+ocds-synthetic-00630,O007,Cebu District Engineering Office,2022-12-23 10:00:00,1994000.0,F0322,Reyes Builders & Trading Co.,2071910.45,106.0,2022-12-23 09:18:00,0
+ocds-synthetic-00630,O007,Cebu District Engineering Office,2022-12-23 10:00:00,1994000.0,F0201,Mabuhay Builders and Trading Inc.,2137097.78,109.3,2022-12-23 09:18:00,0
+ocds-synthetic-02375,O015,Mandaue District Engineering Office,2023-01-26 10:00:00,20934000.0,F0296,Masagana Engineering Services Corp.,20470378.72,100.0,2023-01-26 06:58:00,1
+ocds-synthetic-02375,O015,Mandaue District Engineering Office,2023-01-26 10:00:00,20934000.0,F0322,Reyes Builders & Trading Co.,21216694.0,103.6,2023-01-26 07:01:00,0
+ocds-synthetic-02375,O015,Mandaue District Engineering Office,2023-01-26 10:00:00,20934000.0,F0093,JMJ Engineering Services Corp.,21401442.02,104.5,2023-01-26 07:03:00,0
+ocds-synthetic-02375,O015,Mandaue District Engineering Office,2023-01-26 10:00:00,20934000.0,F0201,Mabuhay Builders and Trading Inc.,22252559.44,108.7,2023-01-26 07:05:00,0
+ocds-synthetic-04062,O015,Mandaue District Engineering Office,2023-02-12 10:00:00,33763000.0,F0296,Masagana Engineering Services Corp.,33175149.06,100.0,2023-02-12 07:04:00,1
+ocds-synthetic-04062,O015,Mandaue District Engineering Office,2023-02-12 10:00:00,33763000.0,F0313,Northstar Builders & Trading Enterprises,33997111.79,102.5,2023-02-12 09:53:00,0
+ocds-synthetic-04062,O015,Mandaue District Engineering Office,2023-02-12 10:00:00,33763000.0,F0322,Reyes Builders & Trading Co,34178359.77,103.0,2023-02-12 07:01:00,0
+ocds-synthetic-04062,O015,Mandaue District Engineering Office,2023-02-12 10:00:00,33763000.0,F0093,JMJ Engineering Services Corp.,35728282.22,107.7,2023-02-12 07:03:00,0
+ocds-synthetic-00626,O007,Cebu District Engineering Office,2023-03-03 10:00:00,22268000.0,F0201,Mabuhay Builders & Trading Incorporated,21664316.9,100.0,2023-03-03 02:53:00,1
+ocds-synthetic-00626,O007,Cebu District Engineering Office,2023-03-03 10:00:00,22268000.0,F0093,JMJ Engineering Services Corp,22562463.56,104.1,2023-03-03 02:57:00,0
+ocds-synthetic-00626,O007,Cebu District Engineering Office,2023-03-03 10:00:00,22268000.0,F0322,Reyes Builders & Trading Co.,22657945.16,104.6,2023-03-03 02:53:00,0
+ocds-synthetic-00626,O007,Cebu District Engineering Office,2023-03-03 10:00:00,22268000.0,F0296,Masagana Engineering Services oCrp.,22884322.72,105.6,2023-03-03 02:58:00,0
+ocds-synthetic-00626,O007,Cebu District Engineering Office,2023-03-03 10:00:00,22268000.0,F0017,Rivera Construction Inc.,23247774.56,107.3,2023-03-03 05:04:00,0
+ocds-synthetic-04814,O007,Cebu District Engineering Office,2023-04-02 10:00:00,5837000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,5739110.15,100.0,2023-04-02 05:42:00,1
+ocds-synthetic-04814,O007,Cebu District Engineering Office,2023-04-02 10:00:00,5837000.0,F0150,DST Builders Corp.,5907122.57,102.9,2023-04-02 07:22:00,0
+ocds-synthetic-04814,O007,Cebu District Engineering Office,2023-04-02 10:00:00,5837000.0,F0201,MABUHAY BUILDERS & TRADING INC.,5940538.56,103.5,2023-04-02 05:40:00,0
+ocds-synthetic-04814,O007,Cebu District Engineering Office,2023-04-02 10:00:00,5837000.0,F0093,JMJ Engineering Services Corporation,6183789.25,107.7,2023-04-02 05:41:00,0
+ocds-synthetic-04814,O007,Cebu District Engineering Office,2023-04-02 10:00:00,5837000.0,F0322,Reyes Builders & Trading Co.,6282792.84,109.5,2023-04-02 05:37:00,0
+ocds-synthetic-04378,O015,Mandaue District Engineering Office,2023-04-29 10:00:00,7504000.0,F0093,JMJ Engineering Servcies Corp.,7299214.3,100.0,2023-04-29 06:13:00,1
+ocds-synthetic-04378,O015,Mandaue District Engineering Office,2023-04-29 10:00:00,7504000.0,F0322,Reyes Builders & Trading Co.,7693904.19,105.4,2023-04-29 06:17:00,0
+ocds-synthetic-04378,O015,Mandaue District Engineering Office,2023-04-29 10:00:00,7504000.0,F0296,Masagana Engineering Services Corporation,7822636.94,107.2,2023-04-29 06:14:00,0
+ocds-synthetic-04378,O015,Mandaue District Engineering Office,2023-04-29 10:00:00,7504000.0,F0201,Mabuhay Builders & Trading Inc.,8005913.18,109.7,2023-04-29 06:12:00,0
+ocds-synthetic-02964,O015,Mandaue District Engineering Office,2023-06-02 10:00:00,41746000.0,F0201,Mabuhay Builders & Trading Inc,40445410.35,100.0,2023-06-02 00:30:00,1
+ocds-synthetic-02964,O015,Mandaue District Engineering Office,2023-06-02 10:00:00,41746000.0,F0093,JMJ Engineering Services Corp,42112743.85,104.1,2023-06-02 00:32:00,0
+ocds-synthetic-02964,O015,Mandaue District Engineering Office,2023-06-02 10:00:00,41746000.0,F0027,Northstar Construction & Supply Co.,43469125.74,107.5,2023-06-02 09:58:00,0
+ocds-synthetic-02964,O015,Mandaue District Engineering Office,2023-06-02 10:00:00,41746000.0,F0296,Masagana Engineering Services Corp.,44050188.85,108.9,2023-06-02 00:33:00,0
+ocds-synthetic-02880,O039,Lapu-Lapu District Engineering Office,2023-06-17 10:00:00,12021000.0,F0093,JMJ Engineering Services Corp.,11887408.68,100.0,2023-06-17 01:34:00,1
+ocds-synthetic-02880,O039,Lapu-Lapu District Engineering Office,2023-06-17 10:00:00,12021000.0,F0296,Masagana Engineering Services Corp.,12558374.64,105.6,2023-06-17 01:35:00,0
+ocds-synthetic-02880,O039,Lapu-Lapu District Engineering Office,2023-06-17 10:00:00,12021000.0,F0365,Evergreen Civil Works Inc.,12592786.18,105.9,2023-06-17 07:31:00,0
+ocds-synthetic-02880,O039,Lapu-Lapu District Engineering Office,2023-06-17 10:00:00,12021000.0,F0201,MABUHAY BUILDERS & TRADING INC.,12639360.51,106.3,2023-06-17 01:35:00,0
+ocds-synthetic-02880,O039,Lapu-Lapu District Engineering Office,2023-06-17 10:00:00,12021000.0,F0322,Reyes Builders&  Trading Co.,12784682.49,107.5,2023-06-17 01:30:00,0
+ocds-synthetic-02959,O007,Cebu District Engineering Office,2023-09-08 10:00:00,21367000.0,F0296,Masagana Engineering Services Corp.,20722203.6,100.0,2023-09-08 08:52:00,1
+ocds-synthetic-02959,O007,Cebu District Engineering Office,2023-09-08 10:00:00,21367000.0,F0093,JMJ ENGINEERING SERVICES CORP.,21851804.14,105.5,2023-09-08 08:55:00,0
+ocds-synthetic-02959,O007,Cebu District Engineering Office,2023-09-08 10:00:00,21367000.0,F0356,LJT ENGINEERING INC.,22164413.76,107.0,2023-09-08 08:45:00,0
+ocds-synthetic-02959,O007,Cebu District Engineering Office,2023-09-08 10:00:00,21367000.0,F0322,REYES BUILDERS & TRADING CO.,22430917.87,108.2,2023-09-08 08:55:00,0
+ocds-synthetic-02959,O007,Cebu District Engineering Office,2023-09-08 10:00:00,21367000.0,F0201,Mabuhay Builders & Trading Inc.,22623899.62,109.2,2023-09-08 08:51:00,0
+ocds-synthetic-00143,O039,Lapu-Lapu District Engineering Office,2023-10-01 10:00:00,41355000.0,F0093,JMJ Engineering Services Corp.,40017474.63,100.0,2023-10-01 06:16:00,1
+ocds-synthetic-00143,O039,Lapu-Lapu District Engineering Office,2023-10-01 10:00:00,41355000.0,F0284,Uy Infra Works Corp.,41898227.12,104.7,2023-10-01 08:09:00,0
+ocds-synthetic-00143,O039,Lapu-Lapu District Engineering Office,2023-10-01 10:00:00,41355000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,43403011.98,108.5,2023-10-01 06:10:00,0
+ocds-synthetic-00143,O039,Lapu-Lapu District Engineering Office,2023-10-01 10:00:00,41355000.0,F0322,Reyes Builders & Trading Co.,43649065.06,109.1,2023-10-01 06:13:00,0
+ocds-synthetic-01411,O007,Cebu District Engineering Office,2023-12-01 10:00:00,104572000.0,F0093,JMJ Engineering Services Corporation,103292063.74,100.0,2023-12-01 04:02:00,1
+ocds-synthetic-01411,O007,Cebu District Engineering Office,2023-12-01 10:00:00,104572000.0,F0201,Mabuhay Builders & Trading Inc.,106730626.74,103.3,2023-12-01 04:04:00,0
+ocds-synthetic-01411,O007,Cebu District Engineering Office,2023-12-01 10:00:00,104572000.0,F0296,Masagana Engineering Services Corp,110591814.79,107.1,2023-12-01 04:05:00,0
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0201,Mabuhay Builders & Trading Incorporated,4512189.11,100.0,2023-12-02 08:26:00,1
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0322,Reyes Builders & Trading Co.,4543741.32,100.7,2023-12-02 09:40:00,0
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0296,Masagana Engineering Services Corp.,4731700.38,104.9,2023-12-02 04:50:00,0
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0109,Ramos Engineering Services Corp.,4833463.83,107.1,2023-12-02 06:54:00,0
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0093,JMJ ENGINEERING SERVICES CORP.,4843449.91,107.3,2023-12-02 09:45:00,0
+ocds-synthetic-02952,O015,Mandaue District Engineering Office,2023-12-02 10:00:00,4780000.0,F0032,DKM Builders Enterprises,4857727.61,107.7,2023-12-02 04:27:00,0
+ocds-synthetic-01514,O007,Cebu District Engineering Office,2023-12-31 10:00:00,7947000.0,F0201,Mabuhay Builders & rTading Inc.,7637906.47,100.0,2023-12-31 06:32:00,1
+ocds-synthetic-01514,O007,Cebu District Engineering Office,2023-12-31 10:00:00,7947000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,7920371.29,103.7,2023-12-31 06:34:00,0
+ocds-synthetic-01514,O007,Cebu District Engineering Office,2023-12-31 10:00:00,7947000.0,F0322,REYES BUILDERS & TRADING CO.,8226446.82,107.7,2023-12-31 06:33:00,0
+ocds-synthetic-01514,O007,Cebu District Engineering Office,2023-12-31 10:00:00,7947000.0,F0093,JMJ Engineering Services Corp.,8344293.16,109.2,2023-12-31 06:32:00,0
+ocds-synthetic-02556,O015,Mandaue District Engineering Office,2024-01-23 10:00:00,9963000.0,F0093,JMJ Engineering Services Corp.,9577930.12,100.0,2024-01-23 04:38:00,1
+ocds-synthetic-02556,O015,Mandaue District Engineering Office,2024-01-23 10:00:00,9963000.0,F0150,DST Builders Corp.,10102331.98,105.5,2024-01-23 04:48:00,0
+ocds-synthetic-02556,O015,Mandaue District Engineering Office,2024-01-23 10:00:00,9963000.0,F0296,Masagana Egnineering Services Corp.,10130793.85,105.8,2024-01-23 04:40:00,0
+ocds-synthetic-02556,O015,Mandaue District Engineering Office,2024-01-23 10:00:00,9963000.0,F0322,Reyes Builders & Trading Co.,10409278.34,108.7,2024-01-23 04:38:00,0
+ocds-synthetic-02556,O015,Mandaue District Engineering Office,2024-01-23 10:00:00,9963000.0,F0201,Mabuhay Builders & Trading Inc.,10515732.2,109.8,2024-01-23 04:43:00,0
+ocds-synthetic-03056,O007,Cebu District Engineering Office,2024-01-23 10:00:00,33233000.0,F0201,Mabuhay Builders & Trading Inc,32837535.05,100.0,2024-01-23 01:38:00,1
+ocds-synthetic-03056,O007,Cebu District Engineering Office,2024-01-23 10:00:00,33233000.0,F0296,Masagana Engineering Services Corp.,34576096.08,105.3,2024-01-23 01:37:00,0
+ocds-synthetic-03056,O007,Cebu District Engineering Office,2024-01-23 10:00:00,33233000.0,F0322,Reyes Builders & Trading Co.,35002328.36,106.6,2024-01-23 01:40:00,0
+ocds-synthetic-03056,O007,Cebu District Engineering Office,2024-01-23 10:00:00,33233000.0,F0093,JMJ Engineering Services Corp,35224849.41,107.3,2024-01-23 01:38:00,0
+ocds-synthetic-03058,O039,Lapu-Lapu District Engineering Office,2024-02-19 10:00:00,2681000.0,F0093,JMJ Engineering Services Corp.,2632936.62,100.0,2024-02-19 04:25:00,1
+ocds-synthetic-03058,O039,Lapu-Lapu District Engineering Office,2024-02-19 10:00:00,2681000.0,F0322,Reyes Builders & Trading Co.,2770936.44,105.2,2024-02-19 04:27:00,0
+ocds-synthetic-03058,O039,Lapu-Lapu District Engineering Office,2024-02-19 10:00:00,2681000.0,F0201,Mabuhay Builders & Trading Inc.,2777933.26,105.5,2024-02-19 04:27:00,0
+ocds-synthetic-03058,O039,Lapu-Lapu District Engineering Office,2024-02-19 10:00:00,2681000.0,F0296,Masagana Engineering Services Corp.,2827978.05,107.4,2024-02-19 04:23:00,0
+ocds-synthetic-04515,O039,Lapu-Lapu District Engineering Office,2024-02-20 10:00:00,11172000.0,F0322,Reyes Builders & Trading Co.,10981585.15,100.0,2024-02-20 02:10:00,1
+ocds-synthetic-04515,O039,Lapu-Lapu District Engineering Office,2024-02-20 10:00:00,11172000.0,F0365,Evergreen Civil Works Inc.,11769474.36,107.2,2024-02-20 04:46:00,0
+ocds-synthetic-04515,O039,Lapu-Lapu District Engineering Office,2024-02-20 10:00:00,11172000.0,F0201,Mabuhay Builders & Trading Inc.,11792716.97,107.4,2024-02-20 02:07:00,0
+ocds-synthetic-04515,O039,Lapu-Lapu District Engineering Office,2024-02-20 10:00:00,11172000.0,F0296,Masagana Engineering Services Corp.,11808840.64,107.5,2024-02-20 02:07:00,0
+ocds-synthetic-04515,O039,Lapu-Lapu District Engineering Office,2024-02-20 10:00:00,11172000.0,F0093,JMJ Engineering Services Corp.,12058282.72,109.8,2024-02-20 02:08:00,0
+ocds-synthetic-03475,O039,Lapu-Lapu District Engineering Office,2024-03-23 10:00:00,5808000.0,F0296,Masagana Engineering Services Corp.,5729473.44,100.0,2024-03-23 09:23:00,1
+ocds-synthetic-03475,O039,Lapu-Lapu District Engineering Office,2024-03-23 10:00:00,5808000.0,F0322,Reyes Builders & Trading Co.,5943916.35,103.7,2024-03-23 09:28:00,0
+ocds-synthetic-03475,O039,Lapu-Lapu District Engineering Office,2024-03-23 10:00:00,5808000.0,F0201,Mabuhay Builders & Trading Inc,6109046.08,106.6,2024-03-23 09:26:00,0
+ocds-synthetic-03475,O039,Lapu-Lapu District Engineering Office,2024-03-23 10:00:00,5808000.0,F0093,JMJ Engineering Services Corp.,6187048.94,108.0,2024-03-23 09:27:00,0
+ocds-synthetic-00036,O039,Lapu-Lapu District Engineering Office,2024-04-07 10:00:00,13044000.0,F0201,Mabuhay Builders & Trading Inc.,12804467.3,100.0,2024-04-07 05:26:00,1
+ocds-synthetic-00036,O039,Lapu-Lapu District Engineering Office,2024-04-07 10:00:00,13044000.0,F0296,Masagana Engineering Services Corp.,13264143.39,103.6,2024-04-07 05:27:00,0
+ocds-synthetic-00036,O039,Lapu-Lapu District Engineering Office,2024-04-07 10:00:00,13044000.0,F0322,Reyes Builders & Trading Co,13883602.5,108.4,2024-04-07 05:30:00,0
+ocds-synthetic-00036,O039,Lapu-Lapu District Engineering Office,2024-04-07 10:00:00,13044000.0,F0093,JMJ Engineering Services Corp.,13916255.84,108.7,2024-04-07 05:28:00,0
+ocds-synthetic-02390,O015,Mandaue District Engineering Office,2024-04-25 10:00:00,11080000.0,F0201,Mabuhay Builders & Trading Inc.,10664044.13,100.0,2024-04-25 04:06:00,1
+ocds-synthetic-02390,O015,Mandaue District Engineering Office,2024-04-25 10:00:00,11080000.0,F0322,Reyes Builders & Trading Co.,11135390.55,104.4,2024-04-25 04:10:00,0
+ocds-synthetic-02390,O015,Mandaue District Engineering Office,2024-04-25 10:00:00,11080000.0,F0093,JMJ Engineering Services Corp.,11511686.03,107.9,2024-04-25 04:05:00,0
+ocds-synthetic-02390,O015,Mandaue District Engineering Office,2024-04-25 10:00:00,11080000.0,F0296,Masagana Engineering Services Corp.,11570166.11,108.5,2024-04-25 04:11:00,0
+ocds-synthetic-02390,O015,Mandaue District Engineering Office,2024-04-25 10:00:00,11080000.0,F0139,Domingo Construction Inc.,11851231.12,111.1,2024-04-24 21:29:00,0
+ocds-synthetic-00637,O039,Lapu-Lapu District Engineering Office,2024-05-19 10:00:00,34228000.0,F0322,Reyes Builders & Trading Co.,33013089.97,100.0,2024-05-19 01:30:00,1
+ocds-synthetic-00637,O039,Lapu-Lapu District Engineering Office,2024-05-19 10:00:00,34228000.0,F0296,Masagana Engineering Services Corp.,34429128.55,104.3,2024-05-19 01:26:00,0
+ocds-synthetic-00637,O039,Lapu-Lapu District Engineering Office,2024-05-19 10:00:00,34228000.0,F0177,RRR Infra Works Co.,34610910.41,104.8,2024-05-19 09:51:00,0
+ocds-synthetic-00637,O039,Lapu-Lapu District Engineering Office,2024-05-19 10:00:00,34228000.0,F0201,Mabuhay Builders & Trading Inc.,34645629.34,104.9,2024-05-19 01:25:00,0
+ocds-synthetic-00637,O039,Lapu-Lapu District Engineering Office,2024-05-19 10:00:00,34228000.0,F0093,JMJ ENGINEERING SERVICES CORP.,34741857.67,105.2,2024-05-19 01:32:00,0
+ocds-synthetic-00547,O007,Cebu District Engineering Office,2024-07-29 10:00:00,23622000.0,F0296,Masagana Engineering Services Corp.,22951881.13,100.0,2024-07-29 02:15:00,1
+ocds-synthetic-00547,O007,Cebu District Engineering Office,2024-07-29 10:00:00,23622000.0,F0322,Reyes Builders & Trading Co.,23939169.02,104.3,2024-07-29 02:17:00,0
+ocds-synthetic-00547,O007,Cebu District Engineering Office,2024-07-29 10:00:00,23622000.0,F0201,MABUHAY BUILDERS & TRADING INC.,24274136.85,105.8,2024-07-29 02:17:00,0
+ocds-synthetic-00547,O007,Cebu District Engineering Office,2024-07-29 10:00:00,23622000.0,F0093,JMJ Engineering Services Corp.,25216969.27,109.9,2024-07-29 02:20:00,0
+ocds-synthetic-01865,O015,Mandaue District Engineering Office,2024-07-31 10:00:00,4969000.0,F0093,JMJ ENGINEERING SERVICES CORP.,4874685.98,100.0,2024-07-31 08:21:00,1
+ocds-synthetic-01865,O015,Mandaue District Engineering Office,2024-07-31 10:00:00,4969000.0,F0201,Mabuhay Builders & Trading Inc,5094804.16,104.5,2024-07-31 08:23:00,0
+ocds-synthetic-01865,O015,Mandaue District Engineering Office,2024-07-31 10:00:00,4969000.0,F0296,Masagana Engineering Services Corp.,5179811.58,106.3,2024-07-31 08:16:00,0
+ocds-synthetic-01865,O015,Mandaue District Engineering Office,2024-07-31 10:00:00,4969000.0,F0306,Archipelago Builders Co.,5239128.7,107.5,2024-07-31 04:48:00,0
+ocds-synthetic-01865,O015,Mandaue District Engineering Office,2024-07-31 10:00:00,4969000.0,F0322,Reyes Builders & Trading Co.,5278232.84,108.3,2024-07-31 08:23:00,0
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0177,RRR Infra Works Co.,10522887.59,100.0,2024-08-19 03:33:00,1
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0383,Bayanihan Builders Inc.,10942366.37,104.0,2024-08-19 03:44:00,0
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0212,JBM CIVIL WORKS CORP.,11008223.97,104.6,2024-08-19 09:29:00,0
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0313,Northstar Builders & Trading Enterprises,11182552.94,106.3,2024-08-19 07:21:00,0
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0093,JMJ Engineering Services Corporation,11274786.23,107.1,2024-08-19 08:10:00,0
+ocds-synthetic-03239,O007,Cebu District Engineering Office,2024-08-19 10:00:00,12066000.0,F0296,Masagana Engineering Services Corp,11457439.05,108.9,2024-08-19 01:29:00,0
+ocds-synthetic-01785,O007,Cebu District Engineering Office,2024-09-12 10:00:00,24673000.0,F0322,Reyes Builders & Trading Co.,23728586.79,100.0,2024-09-12 06:07:00,1
+ocds-synthetic-01785,O007,Cebu District Engineering Office,2024-09-12 10:00:00,24673000.0,F0093,JMJ ENGINEERING SERVICES CORP.,24462873.34,103.1,2024-09-12 06:03:00,0
+ocds-synthetic-01785,O007,Cebu District Engineering Office,2024-09-12 10:00:00,24673000.0,F0201,Mabuhay Builders and Trading Inc.,24984858.66,105.3,2024-09-12 06:02:00,0
+ocds-synthetic-01785,O007,Cebu District Engineering Office,2024-09-12 10:00:00,24673000.0,F0296,Masagana Engineering Services Corp.,25762932.12,108.6,2024-09-12 06:02:00,0
+ocds-synthetic-03337,O007,Cebu District Engineering Office,2024-09-16 10:00:00,4241000.0,F0322,Reyes Builders & Trading Co.,4099272.75,100.0,2024-09-16 04:09:00,1
+ocds-synthetic-03337,O007,Cebu District Engineering Office,2024-09-16 10:00:00,4241000.0,F0093,JMJ Engineering Services Corp.,4261218.46,104.0,2024-09-16 04:11:00,0
+ocds-synthetic-03337,O007,Cebu District Engineering Office,2024-09-16 10:00:00,4241000.0,F0296,Masagana Engineering Services Corp,4306992.65,105.1,2024-09-16 04:11:00,0
+ocds-synthetic-03337,O007,Cebu District Engineering Office,2024-09-16 10:00:00,4241000.0,F0201,Mabuhay Builders & Trading Inc.,4403990.48,107.4,2024-09-16 04:15:00,0
+ocds-synthetic-02971,O007,Cebu District Engineering Office,2024-10-01 10:00:00,400000000.0,F0322,Reyes Builders & Trading Co.,388017632.22,100.0,2024-10-01 04:40:00,1
+ocds-synthetic-02971,O007,Cebu District Engineering Office,2024-10-01 10:00:00,400000000.0,F0372,DLL Infra Works Corp.,400775173.09,103.3,2024-10-01 09:44:00,0
+ocds-synthetic-02971,O007,Cebu District Engineering Office,2024-10-01 10:00:00,400000000.0,F0093,JMJ Engineering Services Corp.,402517293.46,103.7,2024-10-01 04:41:00,0
+ocds-synthetic-02971,O007,Cebu District Engineering Office,2024-10-01 10:00:00,400000000.0,F0201,Mabuhay Builders & Trading Inc.,404412479.9,104.2,2024-10-01 04:39:00,0
+ocds-synthetic-02971,O007,Cebu District Engineering Office,2024-10-01 10:00:00,400000000.0,F0296,Masagana Engineering Services Corp.,408107626.37,105.2,2024-10-01 04:38:00,0
+ocds-synthetic-04538,O007,Cebu District Engineering Office,2024-10-06 10:00:00,11315000.0,F0296,Masagana Engineering Services Corp.,11115018.24,100.0,2024-10-06 05:47:00,1
+ocds-synthetic-04538,O007,Cebu District Engineering Office,2024-10-06 10:00:00,11315000.0,F0091,Mercado Builders & Trading Corp.,11588997.8,104.3,2024-10-05 11:46:00,0
+ocds-synthetic-04538,O007,Cebu District Engineering Office,2024-10-06 10:00:00,11315000.0,F0322,REYES BUILDERS & TRADING CO.,11892853.29,107.0,2024-10-06 05:41:00,0
+ocds-synthetic-04538,O007,Cebu District Engineering Office,2024-10-06 10:00:00,11315000.0,F0093,JMJ Engineering Services Corp.,12030600.13,108.2,2024-10-06 05:43:00,0
+ocds-synthetic-04538,O007,Cebu District Engineering Office,2024-10-06 10:00:00,11315000.0,F0201,Mabuha yBuilders & Trading Inc.,12188236.04,109.7,2024-10-06 05:45:00,0
+ocds-synthetic-04896,O015,Mandaue District Engineering Office,2024-10-23 10:00:00,6804000.0,F0093,JMJ ENGINEERING SERVICES CORP.,6603049.66,100.0,2024-10-23 03:14:00,1
+ocds-synthetic-04896,O015,Mandaue District Engineering Office,2024-10-23 10:00:00,6804000.0,F0322,Reyes Builders & Trading Co.,6842652.63,103.6,2024-10-23 03:17:00,0
+ocds-synthetic-04896,O015,Mandaue District Engineering Office,2024-10-23 10:00:00,6804000.0,F0201,Mabuhay Builders & Trading Inc.,6889997.19,104.3,2024-10-23 03:11:00,0
+ocds-synthetic-04896,O015,Mandaue District Engineering Office,2024-10-23 10:00:00,6804000.0,F0296,Masaagna Engineering Services Corp.,7101370.81,107.5,2024-10-23 03:16:00,0
+ocds-synthetic-04896,O015,Mandaue District Engineering Office,2024-10-23 10:00:00,6804000.0,F0112,Apex Infra Works Enterprises,7243511.5,109.7,2024-10-23 04:54:00,0
+ocds-synthetic-04860,O015,Mandaue District Engineering Office,2024-11-07 10:00:00,5360000.0,F0201,Mabuhay Builders & Trading Incorporated,5327229.29,100.0,2024-11-07 04:10:00,1
+ocds-synthetic-04860,O015,Mandaue District Engineering Office,2024-11-07 10:00:00,5360000.0,F0093,JMJ Engineering Services Corp.,5566216.43,104.5,2024-11-07 04:07:00,0
+ocds-synthetic-04860,O015,Mandaue District Engineering Office,2024-11-07 10:00:00,5360000.0,F0296,Masagana Engineering Services Corp.,5666437.44,106.4,2024-11-07 04:13:00,0
+ocds-synthetic-04860,O015,Mandaue District Engineering Office,2024-11-07 10:00:00,5360000.0,F0322,REYES BUILDERS & TRADING CO.,5729414.41,107.5,2024-11-07 04:13:00,0
+ocds-synthetic-04761,O007,Cebu District Engineering Office,2024-11-10 10:00:00,41282000.0,F0093,JMJ Engineering Services Corporation,39877882.48,100.0,2024-11-10 02:30:00,1
+ocds-synthetic-04761,O007,Cebu District Engineering Office,2024-11-10 10:00:00,41282000.0,F0296,Masagana Engineering Services Corp,42605943.66,106.8,2024-11-10 02:28:00,0
+ocds-synthetic-04761,O007,Cebu District Engineering Office,2024-11-10 10:00:00,41282000.0,F0201,Mabuhay Builders & Trading Incorporated,42705283.61,107.1,2024-11-10 02:27:00,0
+ocds-synthetic-04761,O007,Cebu District Engineering Office,2024-11-10 10:00:00,41282000.0,F0322,Reyes Builders & Trading Co.,43240043.33,108.4,2024-11-10 02:30:00,0
+ocds-synthetic-02886,O007,Cebu District Engineering Office,2024-11-14 10:00:00,5275000.0,F0322,Reyes Builders & Trading Co.,5155668.78,100.0,2024-11-14 05:16:00,1
+ocds-synthetic-02886,O007,Cebu District Engineering Office,2024-11-14 10:00:00,5275000.0,F0201,Mabuhay Builders & Trading Inc.,5322221.8,103.2,2024-11-14 05:12:00,0
+ocds-synthetic-02886,O007,Cebu District Engineering Office,2024-11-14 10:00:00,5275000.0,F0093,JMJ Engineering Services Corp.,5601864.27,108.7,2024-11-14 05:16:00,0
+ocds-synthetic-02886,O007,Cebu District Engineering Office,2024-11-14 10:00:00,5275000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,5642146.55,109.4,2024-11-14 05:10:00,0
+ocds-synthetic-02324,O015,Mandaue District Engineering Office,2024-11-20 10:00:00,4439000.0,F0322,Reyes Builders & Trading Co.,4374305.86,100.0,2024-11-20 03:11:00,1
+ocds-synthetic-02324,O015,Mandaue District Engineering Office,2024-11-20 10:00:00,4439000.0,F0093,JMJ Engineering Services Corp.,4507581.24,103.0,2024-11-20 03:13:00,0
+ocds-synthetic-02324,O015,Mandaue District Engineering Office,2024-11-20 10:00:00,4439000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,4678912.31,107.0,2024-11-20 03:19:00,0
+ocds-synthetic-02324,O015,Mandaue District Engineering Office,2024-11-20 10:00:00,4439000.0,F0201,Mabuhay Builders & Trading Incorporated,4692024.77,107.3,2024-11-20 03:15:00,0
+ocds-synthetic-04750,O015,Mandaue District Engineering Office,2025-02-20 10:00:00,14164000.0,F0201,Mabuhay Builders & Trading Inc.,13625705.98,100.0,2025-02-20 03:22:00,1
+ocds-synthetic-04750,O015,Mandaue District Engineering Office,2025-02-20 10:00:00,14164000.0,F0027,Northstar Construction & Supply Co.,14239888.83,104.5,2025-02-20 00:16:00,0
+ocds-synthetic-04750,O015,Mandaue District Engineering Office,2025-02-20 10:00:00,14164000.0,F0296,Masagana Engineering Services Corp.,14639076.39,107.4,2025-02-20 03:28:00,0
+ocds-synthetic-04750,O015,Mandaue District Engineering Office,2025-02-20 10:00:00,14164000.0,F0322,Reyes Builders & Trading Co.,14653177.3,107.5,2025-02-20 03:25:00,0
+ocds-synthetic-04750,O015,Mandaue District Engineering Office,2025-02-20 10:00:00,14164000.0,F0093,JMJ Engineering Services Corp.,14727107.24,108.1,2025-02-20 03:30:00,0
+ocds-synthetic-01370,O007,Cebu District Engineering Office,2025-02-25 10:00:00,38604000.0,F0296,Masagana Engineering Services Corp.,37920984.52,100.0,2025-02-25 05:11:00,1
+ocds-synthetic-01370,O007,Cebu District Engineering Office,2025-02-25 10:00:00,38604000.0,F0201,Mabuhay Builders & Trading Inc.,40125306.97,105.8,2025-02-25 05:12:00,0
+ocds-synthetic-01370,O007,Cebu District Engineering Office,2025-02-25 10:00:00,38604000.0,F0093,JMJ Engineering Services Corp.,40886562.59,107.8,2025-02-25 05:11:00,0
+ocds-synthetic-01370,O007,Cebu District Engineering Office,2025-02-25 10:00:00,38604000.0,F0322,REYES BUILDERS & TRADING CO.,41354904.52,109.1,2025-02-25 05:11:00,0
+ocds-synthetic-02496,O015,Mandaue District Engineering Office,2025-04-05 10:00:00,8537000.0,F0296,Masagana Engineering Services Corp.,8357514.44,100.0,2025-04-05 02:43:00,1
+ocds-synthetic-02496,O015,Mandaue District Engineering Office,2025-04-05 10:00:00,8537000.0,F0201,Mabuhay Builders & Trading Inc,8617701.82,103.1,2025-04-05 02:39:00,0
+ocds-synthetic-02496,O015,Mandaue District Engineering Office,2025-04-05 10:00:00,8537000.0,F0322,Reyes Builders & Trading Co.,8876152.52,106.2,2025-04-05 02:43:00,0
+ocds-synthetic-02496,O015,Mandaue District Engineering Office,2025-04-05 10:00:00,8537000.0,F0093,JMJ Engineering Services Corp,8979201.82,107.4,2025-04-05 02:37:00,0
+ocds-synthetic-00236,O015,Mandaue District Engineering Office,2025-04-14 10:00:00,10893000.0,F0296,Masagana Engineering Services Corp.,10655769.09,100.0,2025-04-14 04:42:00,1
+ocds-synthetic-00236,O015,Mandaue District Engineering Office,2025-04-14 10:00:00,10893000.0,F0139,Domingo Construction Inc.,10954351.76,102.8,2025-04-13 14:41:00,0
+ocds-synthetic-00236,O015,Mandaue District Engineering Office,2025-04-14 10:00:00,10893000.0,F0322,Reyes Builders & Trading Co.,11148626.99,104.6,2025-04-14 04:39:00,0
+ocds-synthetic-00236,O015,Mandaue District Engineering Office,2025-04-14 10:00:00,10893000.0,F0093,JMJ Engineering Services Corp.,11551024.84,108.4,2025-04-14 04:40:00,0
+ocds-synthetic-00916,O015,Mandaue District Engineering Office,2025-05-03 10:00:00,8051000.0,F0201,Mabuhay Builders & Trading Inc.,7960740.72,100.0,2025-05-03 04:47:00,1
+ocds-synthetic-00916,O015,Mandaue District Engineering Office,2025-05-03 10:00:00,8051000.0,F0322,Reyes Builders & Trading Co.,8383521.51,105.3,2025-05-03 04:49:00,0
+ocds-synthetic-00916,O015,Mandaue District Engineering Office,2025-05-03 10:00:00,8051000.0,F0093,JMJ ENGINEERING SERVICES CORP.,8489954.12,106.6,2025-05-03 04:47:00,0
+ocds-synthetic-00916,O015,Mandaue District Engineering Office,2025-05-03 10:00:00,8051000.0,F0296,Masagana Engineering Services Corp.,8546116.62,107.4,2025-05-03 04:50:00,0
+ocds-synthetic-02467,O039,Lapu-Lapu District Engineering Office,2025-05-13 10:00:00,15678000.0,F0093,JMJ Engineering Services Corporation,15558641.92,100.0,2025-05-13 02:03:00,1
+ocds-synthetic-02467,O039,Lapu-Lapu District Engineering Office,2025-05-13 10:00:00,15678000.0,F0202,DAA Infra Works Co.,16307651.43,104.8,2025-05-13 04:29:00,0
+ocds-synthetic-02467,O039,Lapu-Lapu District Engineering Office,2025-05-13 10:00:00,15678000.0,F0296,Masagana Engineering Services Corp.,17071540.1,109.7,2025-05-13 02:07:00,0
+ocds-synthetic-02467,O039,Lapu-Lapu District Engineering Office,2025-05-13 10:00:00,15678000.0,F0322,Reyes Builders & Trading Co.,17074686.17,109.7,2025-05-13 02:08:00,0
+ocds-synthetic-02643,O007,Cebu District Engineering Office,2025-05-26 10:00:00,27561000.0,F0296,Masagana Engineering Services Corp,27323754.91,100.0,2025-05-26 01:48:00,1
+ocds-synthetic-02643,O007,Cebu District Engineering Office,2025-05-26 10:00:00,27561000.0,F0201,Mabuhay Builders & Trading Inc.,28214962.36,103.3,2025-05-26 01:50:00,0
+ocds-synthetic-02643,O007,Cebu District Engineering Office,2025-05-26 10:00:00,27561000.0,F0322,Reyes Builders & Trading Co.,28338813.43,103.7,2025-05-26 01:45:00,0
+ocds-synthetic-02643,O007,Cebu District Engineering Office,2025-05-26 10:00:00,27561000.0,F0093,JMJ ENGINEERING SERVICES CORP.,29828663.93,109.2,2025-05-26 01:51:00,0
+ocds-synthetic-03602,O015,Mandaue District Engineering Office,2025-06-15 10:00:00,13673000.0,F0093,JMJ Engineering Services Corp.,13235428.81,100.0,2025-06-15 02:33:00,1
+ocds-synthetic-03602,O015,Mandaue District Engineering Office,2025-06-15 10:00:00,13673000.0,F0322,Reyes Builders & Trading Co.,13651172.35,103.1,2025-06-15 02:36:00,0
+ocds-synthetic-03602,O015,Mandaue District Engineering Office,2025-06-15 10:00:00,13673000.0,F0139,DOMINGO CONSTRUCTION INC.,14206108.49,107.3,2025-06-15 04:37:00,0
+ocds-synthetic-03602,O015,Mandaue District Engineering Office,2025-06-15 10:00:00,13673000.0,F0296,MASAGANA ENGINEERING SERVICES CORP.,14435233.72,109.1,2025-06-15 02:38:00,0
+ocds-synthetic-01482,O039,Lapu-Lapu District Engineering Office,2025-07-05 10:00:00,20320000.0,F0322,Reyes Builders & Trading Co.,20048873.51,100.0,2025-07-05 01:41:00,1
+ocds-synthetic-01482,O039,Lapu-Lapu District Engineering Office,2025-07-05 10:00:00,20320000.0,F0201,Mabuhay Builders & Trading Inc.,21143620.8,105.5,2025-07-05 01:46:00,0
+ocds-synthetic-01482,O039,Lapu-Lapu District Engineering Office,2025-07-05 10:00:00,20320000.0,F0093,JMJ Engineering Service sCorp.,21170686.0,105.6,2025-07-05 01:42:00,0
+ocds-synthetic-01482,O039,Lapu-Lapu District Engineering Office,2025-07-05 10:00:00,20320000.0,F0207,Evergreen Engineering Corp,21692369.36,108.2,2025-07-05 08:29:00,0
+ocds-synthetic-01482,O039,Lapu-Lapu District Engineering Office,2025-07-05 10:00:00,20320000.0,F0296,Masagana Engineering Services Corp.,21773055.65,108.6,2025-07-05 01:43:00,0
+ocds-synthetic-01544,O015,Mandaue District Engineering Office,2025-07-25 10:00:00,35458000.0,F0093,JMJ Engineering Services Corp.,34514427.75,100.0,2025-07-25 04:44:00,1
+ocds-synthetic-01544,O015,Mandaue District Engineering Office,2025-07-25 10:00:00,35458000.0,F0296,Masagana Engienering Services Corp.,35610850.82,103.2,2025-07-25 04:41:00,0
+ocds-synthetic-01544,O015,Mandaue District Engineering Office,2025-07-25 10:00:00,35458000.0,F0322,Reyes Builders & Trading Co.,36557529.42,105.9,2025-07-25 04:41:00,0
+ocds-synthetic-01544,O015,Mandaue District Engineering Office,2025-07-25 10:00:00,35458000.0,F0201,Mabuhay Builders & Trading Inc.,36859565.88,106.8,2025-07-25 04:39:00,0
+ocds-synthetic-00333,O007,Cebu District Engineering Office,2025-08-21 10:00:00,12143000.0,F0093,JMJ Engineering Services Corp.,12064133.7,100.0,2025-08-21 01:19:00,1
+ocds-synthetic-00333,O007,Cebu District Engineering Office,2025-08-21 10:00:00,12143000.0,F0201,Mabuhay Builders & Trading Inc,12856480.81,106.6,2025-08-21 01:26:00,0
+ocds-synthetic-00333,O007,Cebu District Engineering Office,2025-08-21 10:00:00,12143000.0,F0322,Reyes Builders & Trading Co.,12867704.64,106.7,2025-08-21 01:21:00,0
+ocds-synthetic-00333,O007,Cebu District Engineering Office,2025-08-21 10:00:00,12143000.0,F0296,Masagana Engineering Services Corp.,13097140.48,108.6,2025-08-21 01:25:00,0
+ocds-synthetic-01110,O007,Cebu District Engineering Office,2025-08-29 10:00:00,5912000.0,F0296,Masagana Engineerin gServices Corp.,5811016.43,100.0,2025-08-29 06:43:00,1
+ocds-synthetic-01110,O007,Cebu District Engineering Office,2025-08-29 10:00:00,5912000.0,F0322,Reyes Builders & Trading Co.,5992410.08,103.1,2025-08-29 06:38:00,0
+ocds-synthetic-01110,O007,Cebu District Engineering Office,2025-08-29 10:00:00,5912000.0,F0093,JMJ Engineering Services Corporation,5994636.77,103.2,2025-08-29 06:40:00,0
+ocds-synthetic-01110,O007,Cebu District Engineering Office,2025-08-29 10:00:00,5912000.0,F0201,Mabuhay Builders & Trading Inc.,6289087.8,108.2,2025-08-29 06:37:00,0
+ocds-synthetic-01267,O007,Cebu District Engineering Office,2025-09-16 10:00:00,11544000.0,F0093,JMJ Engineering Services Corporation,11361343.25,100.0,2025-09-16 01:04:00,1
+ocds-synthetic-01267,O007,Cebu District Engineering Office,2025-09-16 10:00:00,11544000.0,F0296,Masagana Engineering Servicse Corp.,11748239.62,103.4,2025-09-16 01:05:00,0
+ocds-synthetic-01267,O007,Cebu District Engineering Office,2025-09-16 10:00:00,11544000.0,F0268,United Construction Incorporated,11925686.04,105.0,2025-09-16 08:32:00,0
+ocds-synthetic-01267,O007,Cebu District Engineering Office,2025-09-16 10:00:00,11544000.0,F0322,Reyes Builders & Trading Co.,12166586.26,107.1,2025-09-16 01:05:00,0
+ocds-synthetic-01267,O007,Cebu District Engineering Office,2025-09-16 10:00:00,11544000.0,F0201,Mabuhay Builders & Trading Inc.,12320042.27,108.4,2025-09-16 01:03:00,0
+ocds-synthetic-01067,O007,Cebu District Engineering Office,2025-10-11 10:00:00,62284000.0,F0322,Reyes Builders and Trading Co.,61194788.3,100.0,2025-10-11 06:43:00,1
+ocds-synthetic-01067,O007,Cebu District Engineering Office,2025-10-11 10:00:00,62284000.0,F0306,Archipelago Builders Co.,63766487.69,104.2,2025-10-11 03:00:00,0
+ocds-synthetic-01067,O007,Cebu District Engineering Office,2025-10-11 10:00:00,62284000.0,F0093,JMJ Engineering Services oCrp.,65288334.11,106.7,2025-10-11 06:40:00,0
+ocds-synthetic-01067,O007,Cebu District Engineering Office,2025-10-11 10:00:00,62284000.0,F0296,Masagana Engineering Services Corp.,66860066.59,109.3,2025-10-11 06:38:00,0
+ocds-synthetic-01067,O007,Cebu District Engineering Office,2025-10-11 10:00:00,62284000.0,F0201,Mabuhay Builders & Trading Inc.,67076095.82,109.6,2025-10-11 06:42:00,0
+ocds-synthetic-01408,O007,Cebu District Engineering Office,2025-10-22 10:00:00,36062000.0,F0201,Mabuhay Builders & Trading Inc.,35667583.44,100.0,2025-10-22 07:23:00,1
+ocds-synthetic-01408,O007,Cebu District Engineering Office,2025-10-22 10:00:00,36062000.0,F0322,Reyes Builders & Trading Co.,36915342.61,103.5,2025-10-22 07:24:00,0
+ocds-synthetic-01408,O007,Cebu District Engineering Office,2025-10-22 10:00:00,36062000.0,F0093,JMJ Engineering Services Corp.,37233403.82,104.4,2025-10-22 07:24:00,0
+ocds-synthetic-01408,O007,Cebu District Engineering Office,2025-10-22 10:00:00,36062000.0,F0296,Masagana Engineering Services Corp.,37816610.07,106.0,2025-10-22 07:22:00,0
+ocds-synthetic-01408,O007,Cebu District Engineering Office,2025-10-22 10:00:00,36062000.0,F0313,Northstar Builders & Trading Enterprises,38242661.07,107.2,2025-10-22 04:57:00,0
+ocds-synthetic-03621,O039,Lapu-Lapu District Engineering Office,2025-11-09 10:00:00,59315000.0,F0322,Reyes Builders & Trading Co.,58794433.44,100.0,2025-11-09 03:01:00,1
+ocds-synthetic-03621,O039,Lapu-Lapu District Engineering Office,2025-11-09 10:00:00,59315000.0,F0296,Masagana Engineering Services Corp,62091519.13,105.6,2025-11-09 03:03:00,0
+ocds-synthetic-03621,O039,Lapu-Lapu District Engineering Office,2025-11-09 10:00:00,59315000.0,F0093,JMJ Engineering Services Corp,63292139.02,107.6,2025-11-09 02:57:00,0
+ocds-synthetic-03621,O039,Lapu-Lapu District Engineering Office,2025-11-09 10:00:00,59315000.0,F0201,Mabuhay Builders & Trading Inc.,63493905.77,108.0,2025-11-09 03:02:00,0
+ocds-synthetic-04795,O039,Lapu-Lapu District Engineering Office,2025-11-12 10:00:00,146702000.0,F0322,Reyes Builders & Trading Co.,145221093.47,100.0,2025-11-12 05:26:00,1
+ocds-synthetic-04795,O039,Lapu-Lapu District Engineering Office,2025-11-12 10:00:00,146702000.0,F0296,Masagana Engineering Services Corp.,151242640.92,104.1,2025-11-12 05:28:00,0
+ocds-synthetic-04795,O039,Lapu-Lapu District Engineering Office,2025-11-12 10:00:00,146702000.0,F0201,Mabuhay Builders & Trading Inc.,152380309.49,104.9,2025-11-12 05:31:00,0
+ocds-synthetic-04795,O039,Lapu-Lapu District Engineering Office,2025-11-12 10:00:00,146702000.0,F0207,Evergreen Engineering Corp,155934082.83,107.4,2025-11-12 03:18:00,0
+ocds-synthetic-04795,O039,Lapu-Lapu District Engineering Office,2025-11-12 10:00:00,146702000.0,F0093,JMJ Engineering Services Corp.,157132398.82,108.2,2025-11-12 05:32:00,0

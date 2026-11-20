@@ -1,0 +1,191 @@
+ocid,office_id,office_name,tender_close,estimated_value,firm_id,bidder_name,bid_amount,pct_of_winning_bid,submitted_at,is_winner
+ocds-synthetic-04137,O037,Daet District Engineering Office,2022-02-16 10:00:00,81749000.0,F0317,Reyes Engineering Services Corp,79479244.39,100.0,2022-02-16 00:56:00,1
+ocds-synthetic-04137,O037,Daet District Engineering Office,2022-02-16 10:00:00,81749000.0,F0361,Tan Builders Enterprises,85754252.04,107.9,2022-02-16 00:56:00,0
+ocds-synthetic-04137,O037,Daet District Engineering Office,2022-02-16 10:00:00,81749000.0,F0245,Flores Development Co.,86011104.3,108.2,2022-02-16 09:09:00,0
+ocds-synthetic-04137,O037,Daet District Engineering Office,2022-02-16 10:00:00,81749000.0,F0131,Torres Engineering Services Enterprises,86216360.68,108.5,2022-02-16 00:51:00,0
+ocds-synthetic-00434,O013,Naga District Engineering Office,2022-02-18 10:00:00,9579000.0,F0317,Reyes Engineering Services Corp,9301491.07,100.0,2022-02-18 00:48:00,1
+ocds-synthetic-00434,O013,Naga District Engineering Office,2022-02-18 10:00:00,9579000.0,F0361,Tan Builders Enterprises,10192897.36,109.6,2022-02-18 00:51:00,0
+ocds-synthetic-00434,O013,Naga District Engineering Office,2022-02-18 10:00:00,9579000.0,F0131,Torres Engineering Services Enterprises,10230475.28,110.0,2022-02-18 00:53:00,0
+ocds-synthetic-00240,O021,Sorsogon District Engineering Office,2022-02-19 10:00:00,20454000.0,F0317,Reyes Engineering Services Corporation,20294938.23,100.0,2022-02-19 02:00:00,1
+ocds-synthetic-00240,O021,Sorsogon District Engineering Office,2022-02-19 10:00:00,20454000.0,F0131,Torres Engineering Services Enterprises,22066397.95,108.7,2022-02-19 01:57:00,0
+ocds-synthetic-00240,O021,Sorsogon District Engineering Office,2022-02-19 10:00:00,20454000.0,F0361,Tan Builders Enterprises,22110525.55,108.9,2022-02-19 01:56:00,0
+ocds-synthetic-04339,O013,Naga District Engineering Office,2022-03-26 10:00:00,9744000.0,F0317,Reyes Engineering Services Corp.,9462877.14,100.0,2022-03-26 07:47:00,1
+ocds-synthetic-04339,O013,Naga District Engineering Office,2022-03-26 10:00:00,9744000.0,F0131,Torres Engineering Services Enterprises,9956081.12,105.2,2022-03-26 07:48:00,0
+ocds-synthetic-04339,O013,Naga District Engineering Office,2022-03-26 10:00:00,9744000.0,F0361,TAN BUILDERS ENTERPRISES,10025442.02,105.9,2022-03-26 07:46:00,0
+ocds-synthetic-03900,O037,Daet District Engineering Office,2022-05-16 10:00:00,3998000.0,F0317,Reyes Engineering Services Corp.,3934603.34,100.0,2022-05-16 04:05:00,1
+ocds-synthetic-03900,O037,Daet District Engineering Office,2022-05-16 10:00:00,3998000.0,F0014,BAG BUILDERS INC.,4072545.09,103.5,2022-05-16 07:01:00,0
+ocds-synthetic-03900,O037,Daet District Engineering Office,2022-05-16 10:00:00,3998000.0,F0131,Torres Engineering Services Enterprises,4144437.51,105.3,2022-05-16 04:05:00,0
+ocds-synthetic-03900,O037,Daet District Engineering Office,2022-05-16 10:00:00,3998000.0,F0361,Tan Builders Enterprises,4327481.4,110.0,2022-05-16 04:08:00,0
+ocds-synthetic-04213,O013,Naga District Engineering Office,2022-06-06 10:00:00,24757000.0,F0317,REYES ENGINEERING SERVICES CORP.,24261079.57,100.0,2022-06-06 02:51:00,1
+ocds-synthetic-04213,O013,Naga District Engineering Office,2022-06-06 10:00:00,24757000.0,F0131,Torres Engineering Services Enterprises,26259642.67,108.2,2022-06-06 02:56:00,0
+ocds-synthetic-04213,O013,Naga District Engineering Office,2022-06-06 10:00:00,24757000.0,F0203,Kabisig Infra Works Corp.,26478960.73,109.1,2022-06-06 08:45:00,0
+ocds-synthetic-04213,O013,Naga District Engineering Office,2022-06-06 10:00:00,24757000.0,F0361,Tan Builders Enterprises,26585188.75,109.6,2022-06-06 02:55:00,0
+ocds-synthetic-02472,O021,Sorsogon District Engineering Office,2022-07-11 10:00:00,6220000.0,F0317,Reyes Engineering Services Corp.,6021027.47,100.0,2022-07-11 05:51:00,1
+ocds-synthetic-02472,O021,Sorsogon District Engineering Office,2022-07-11 10:00:00,6220000.0,F0361,Tan Builders Enterprises,6386975.13,106.1,2022-07-11 05:52:00,0
+ocds-synthetic-02472,O021,Sorsogon District Engineering Office,2022-07-11 10:00:00,6220000.0,F0131,Torres Engineering Services Enterprises,6421045.79,106.6,2022-07-11 05:54:00,0
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0070,Rivera Construction Enterprises,23322592.14,100.0,2022-08-05 08:18:00,1
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0187,Archipelago Construction & Supply Incorporated,23383281.53,100.3,2022-08-05 06:06:00,0
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0317,Reyes Engineering Services Corp,23540925.3,100.9,2022-08-05 09:23:00,0
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0247,Dela Cruz Construction and Supply Co.,25268252.2,108.3,2022-08-05 03:44:00,0
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0215,GJL CONSTRUCTION CO.,26860537.89,115.2,2022-08-05 06:32:00,0
+ocds-synthetic-04341,O029,Iriga District Engineering Office,2022-08-05 10:00:00,26635000.0,F0361,Tan Builders Enterprises,27794766.27,119.2,2022-08-04 17:48:00,0
+ocds-synthetic-04210,O021,Sorsogon District Engineering Office,2022-09-01 10:00:00,7954000.0,F0317,Reyes Engineering Services Corp.,7793783.1,100.0,2022-09-01 03:02:00,1
+ocds-synthetic-04210,O021,Sorsogon District Engineering Office,2022-09-01 10:00:00,7954000.0,F0131,Torres Engineering Services Enterprises,8408407.13,107.9,2022-09-01 03:04:00,0
+ocds-synthetic-04210,O021,Sorsogon District Engineering Office,2022-09-01 10:00:00,7954000.0,F0361,Tan Builders Enterprises,8556262.25,109.8,2022-09-01 03:04:00,0
+ocds-synthetic-03777,O037,Daet District Engineering Office,2022-09-07 10:00:00,2903000.0,F0317,REYES ENGINEERING SERVICES CORP.,2842852.77,100.0,2022-09-07 06:37:00,1
+ocds-synthetic-03777,O037,Daet District Engineering Office,2022-09-07 10:00:00,2903000.0,F0375,EVERGREEN CONSTRUCTION INC.,2980116.06,104.8,2022-09-07 09:57:00,0
+ocds-synthetic-03777,O037,Daet District Engineering Office,2022-09-07 10:00:00,2903000.0,F0131,TORRES ENGINEERING SERVICES ENTERPRISES,3018971.08,106.2,2022-09-07 06:40:00,0
+ocds-synthetic-03777,O037,Daet District Engineering Office,2022-09-07 10:00:00,2903000.0,F0361,Tan Builders Enterpriess,3051446.99,107.3,2022-09-07 06:38:00,0
+ocds-synthetic-03637,O037,Daet District Engineering Office,2022-09-26 10:00:00,12928000.0,F0317,Reyes Engineering Services Corporation,12599605.55,100.0,2022-09-26 02:00:00,1
+ocds-synthetic-03637,O037,Daet District Engineering Office,2022-09-26 10:00:00,12928000.0,F0131,Torres Engineering Services Enterprises,13103615.27,104.0,2022-09-26 01:59:00,0
+ocds-synthetic-03637,O037,Daet District Engineering Office,2022-09-26 10:00:00,12928000.0,F0361,Tan Builders Enterprises,13221604.48,104.9,2022-09-26 01:56:00,0
+ocds-synthetic-03637,O037,Daet District Engineering Office,2022-09-26 10:00:00,12928000.0,F0209,Lacson Civil Works Inc.,13911804.12,110.4,2022-09-26 08:49:00,0
+ocds-synthetic-03419,O013,Naga District Engineering Office,2022-09-29 10:00:00,18141000.0,F0317,Reyes Engineering Services Corp.,17756158.53,100.0,2022-09-29 05:37:00,1
+ocds-synthetic-03419,O013,Naga District Engineering Office,2022-09-29 10:00:00,18141000.0,F0131,Torres Engineering Services Enterprises,18328263.62,103.2,2022-09-29 05:41:00,0
+ocds-synthetic-03419,O013,Naga District Engineering Office,2022-09-29 10:00:00,18141000.0,F0331,BKE Builders & Trading Enterprises,19034046.09,107.2,2022-09-29 06:03:00,0
+ocds-synthetic-03419,O013,Naga District Engineering Office,2022-09-29 10:00:00,18141000.0,F0361,Tan Builders Enterprises,19243562.74,108.4,2022-09-29 05:37:00,0
+ocds-synthetic-02073,O037,Daet District Engineering Office,2022-10-15 10:00:00,27400000.0,F0317,Reyes Engineering Services Corp,27144551.72,100.0,2022-10-15 00:38:00,1
+ocds-synthetic-02073,O037,Daet District Engineering Office,2022-10-15 10:00:00,27400000.0,F0061,Flores Engineering Corp.,27956015.15,103.0,2022-10-14 23:20:00,0
+ocds-synthetic-02073,O037,Daet District Engineering Office,2022-10-15 10:00:00,27400000.0,F0361,Tan Builders Enterprises,28427170.32,104.7,2022-10-15 00:35:00,0
+ocds-synthetic-02073,O037,Daet District Engineering Office,2022-10-15 10:00:00,27400000.0,F0131,Torres Engineering Services Enterprises,28578603.54,105.3,2022-10-15 00:35:00,0
+ocds-synthetic-04245,O013,Naga District Engineering Office,2022-11-17 10:00:00,24404000.0,F0317,Reyes Engineering Services Corp,24193638.16,100.0,2022-11-17 04:16:00,1
+ocds-synthetic-04245,O013,Naga District Engineering Office,2022-11-17 10:00:00,24404000.0,F0131,Torres Engineering Services Enterprises,25029374.11,103.5,2022-11-17 04:13:00,0
+ocds-synthetic-04245,O013,Naga District Engineering Office,2022-11-17 10:00:00,24404000.0,F0361,Tan Builders Enterprises,25505826.53,105.4,2022-11-17 04:12:00,0
+ocds-synthetic-04752,O021,Sorsogon District Engineering Office,2023-01-16 10:00:00,27408000.0,F0317,Reyes Engineering Services Corp.,26649643.06,100.0,2023-01-16 06:38:00,1
+ocds-synthetic-04752,O021,Sorsogon District Engineering Office,2023-01-16 10:00:00,27408000.0,F0131,Torres Engineering Services Enterprises,28457908.86,106.8,2023-01-16 06:32:00,0
+ocds-synthetic-04752,O021,Sorsogon District Engineering Office,2023-01-16 10:00:00,27408000.0,F0361,Tan Builders Enterprises,29139784.32,109.3,2023-01-16 06:38:00,0
+ocds-synthetic-04672,O013,Naga District Engineering Office,2023-02-14 10:00:00,11899000.0,F0317,Reyes Engineering Services Corp.,11646997.61,100.0,2023-02-14 07:54:00,1
+ocds-synthetic-04672,O013,Naga District Engineering Office,2023-02-14 10:00:00,11899000.0,F0131,Torres Engineering Services Enterprises,12343851.32,106.0,2023-02-14 07:55:00,0
+ocds-synthetic-04672,O013,Naga District Engineering Office,2023-02-14 10:00:00,11899000.0,F0361,TAN BUILDERS ENTERPRISES,12762324.59,109.6,2023-02-14 07:53:00,0
+ocds-synthetic-02960,O013,Naga District Engineering Office,2023-04-12 10:00:00,37653000.0,F0317,Reyes Engineering Services Corp.,36226455.2,100.0,2023-04-12 01:57:00,1
+ocds-synthetic-02960,O013,Naga District Engineering Office,2023-04-12 10:00:00,37653000.0,F0361,Tan Builders Enterprises,37692149.2,104.0,2023-04-12 01:56:00,0
+ocds-synthetic-02960,O013,Naga District Engineering Office,2023-04-12 10:00:00,37653000.0,F0131,Torres Engineering Services Enterprises,38249350.58,105.6,2023-04-12 01:56:00,0
+ocds-synthetic-04765,O037,Daet District Engineering Office,2023-06-09 10:00:00,13528000.0,F0317,Reyes Engineering Services Corp,13132277.3,100.0,2023-06-09 04:51:00,1
+ocds-synthetic-04765,O037,Daet District Engineering Office,2023-06-09 10:00:00,13528000.0,F0361,Tan Builders Enterprises,13886845.69,105.7,2023-06-09 04:56:00,0
+ocds-synthetic-04765,O037,Daet District Engineering Office,2023-06-09 10:00:00,13528000.0,F0131,Torres Engineering Services Enterprises,14269340.82,108.7,2023-06-09 04:54:00,0
+ocds-synthetic-00904,O021,Sorsogon District Engineering Office,2023-06-13 10:00:00,3759000.0,F0317,Reyes Engineering Services Corp.,3700360.81,100.0,2023-06-13 08:15:00,1
+ocds-synthetic-00904,O021,Sorsogon District Engineering Office,2023-06-13 10:00:00,3759000.0,F0361,Tan Builders Enterprises,3945970.35,106.6,2023-06-13 08:11:00,0
+ocds-synthetic-00904,O021,Sorsogon District Engineering Office,2023-06-13 10:00:00,3759000.0,F0131,Torres Engineering Services Enterprises,4043253.51,109.3,2023-06-13 08:14:00,0
+ocds-synthetic-02928,O037,Daet District Engineering Office,2023-06-28 10:00:00,15390000.0,F0317,Reyes Engineering Services Corp.,15034879.99,100.0,2023-06-28 04:44:00,1
+ocds-synthetic-02928,O037,Daet District Engineering Office,2023-06-28 10:00:00,15390000.0,F0361,Tan Builders Enterprises,15835732.91,105.3,2023-06-28 04:49:00,0
+ocds-synthetic-02928,O037,Daet District Engineering Office,2023-06-28 10:00:00,15390000.0,F0131,Torres Engineering Services Enterprises,15899835.86,105.8,2023-06-28 04:42:00,0
+ocds-synthetic-01470,O037,Daet District Engineering Office,2023-08-18 10:00:00,6865000.0,F0317,Reyes Engineering Services Corp.,6815409.9,100.0,2023-08-18 07:28:00,1
+ocds-synthetic-01470,O037,Daet District Engineering Office,2023-08-18 10:00:00,6865000.0,F0131,TORRES ENGINEERING SERVICES ENTERPRISES,7269957.19,106.7,2023-08-18 07:30:00,0
+ocds-synthetic-01470,O037,Daet District Engineering Office,2023-08-18 10:00:00,6865000.0,F0361,Tan Builders Enterprises,7334288.77,107.6,2023-08-18 07:25:00,0
+ocds-synthetic-00644,O021,Sorsogon District Engineering Office,2023-08-22 10:00:00,16624000.0,F0317,REYES ENGINEERING SERVICES CORP.,16221739.5,100.0,2023-08-22 03:13:00,1
+ocds-synthetic-00644,O021,Sorsogon District Engineering Office,2023-08-22 10:00:00,16624000.0,F0131,Torres Engienering Services Enterprises,17081565.66,105.3,2023-08-22 03:14:00,0
+ocds-synthetic-00644,O021,Sorsogon District Engineering Office,2023-08-22 10:00:00,16624000.0,F0361,Tan Builders Enterprises,17717878.24,109.2,2023-08-22 03:11:00,0
+ocds-synthetic-04040,O021,Sorsogon District Engineering Office,2023-09-18 10:00:00,13347000.0,F0317,REYES ENGINEERING SERVICES CORP.,13131290.94,100.0,2023-09-18 09:01:00,1
+ocds-synthetic-04040,O021,Sorsogon District Engineering Office,2023-09-18 10:00:00,13347000.0,F0165,Morales Civil Works Enterprises,13488686.26,102.7,2023-09-18 08:36:00,0
+ocds-synthetic-04040,O021,Sorsogon District Engineering Office,2023-09-18 10:00:00,13347000.0,F0361,Tan Builders Enterprises,13929991.0,106.1,2023-09-18 09:00:00,0
+ocds-synthetic-04040,O021,Sorsogon District Engineering Office,2023-09-18 10:00:00,13347000.0,F0131,Torres Engineering Services Enterprises,14266616.15,108.6,2023-09-18 09:00:00,0
+ocds-synthetic-02907,O021,Sorsogon District Engineering Office,2023-10-11 10:00:00,2030000.0,F0317,Reyes Engineering Services Corp.,1990614.35,100.0,2023-10-11 07:24:00,1
+ocds-synthetic-02907,O021,Sorsogon District Engineering Office,2023-10-11 10:00:00,2030000.0,F0131,Torres Engineering Services Enterprises,2096979.86,105.3,2023-10-11 07:24:00,0
+ocds-synthetic-02907,O021,Sorsogon District Engineering Office,2023-10-11 10:00:00,2030000.0,F0361,Tan Builders Enterprises,2114643.31,106.2,2023-10-11 07:27:00,0
+ocds-synthetic-03506,O013,Naga District Engineering Office,2023-10-25 10:00:00,74289000.0,F0317,Reyes Engineering Services Corp.,73182704.08,100.0,2023-10-25 02:27:00,1
+ocds-synthetic-03506,O013,Naga District Engineering Office,2023-10-25 10:00:00,74289000.0,F0131,Torres Engineering Services Enterprises,76815403.46,105.0,2023-10-25 02:31:00,0
+ocds-synthetic-03506,O013,Naga District Engineering Office,2023-10-25 10:00:00,74289000.0,F0361,Tan Builders Enterprises,77622822.34,106.1,2023-10-25 02:31:00,0
+ocds-synthetic-00978,O021,Sorsogon District Engineering Office,2023-11-03 10:00:00,23215000.0,F0317,Reyes Engineering Servcies Corp.,22835487.75,100.0,2023-11-03 05:22:00,1
+ocds-synthetic-00978,O021,Sorsogon District Engineering Office,2023-11-03 10:00:00,23215000.0,F0361,TAN BUILDERS ENTERPRISES,24830423.77,108.7,2023-11-03 05:26:00,0
+ocds-synthetic-00978,O021,Sorsogon District Engineering Office,2023-11-03 10:00:00,23215000.0,F0131,Torres Engineering Services Enterprises,25088502.1,109.9,2023-11-03 05:25:00,0
+ocds-synthetic-00095,O013,Naga District Engineering Office,2023-11-10 10:00:00,33240000.0,F0061,Flores Engineering Corp.,28974103.98,100.0,2023-11-10 03:02:00,1
+ocds-synthetic-00095,O013,Naga District Engineering Office,2023-11-10 10:00:00,33240000.0,F0317,REYES ENGINEERING SERVICES CORP.,32356450.04,111.7,2023-11-10 03:13:00,0
+ocds-synthetic-00095,O013,Naga District Engineering Office,2023-11-10 10:00:00,33240000.0,F0237,Mabuhay Civil Works Enterprises,32663531.13,112.7,2023-11-10 07:26:00,0
+ocds-synthetic-00095,O013,Naga District Engineering Office,2023-11-10 10:00:00,33240000.0,F0391,PACIFIC DEVELOPMENT CO.,33665650.2,116.2,2023-11-10 02:07:00,0
+ocds-synthetic-00095,O013,Naga District Engineering Office,2023-11-10 10:00:00,33240000.0,F0361,Tan Builders Enterprises,36869865.38,127.3,2023-11-10 09:17:00,0
+ocds-synthetic-00791,O013,Naga District Engineering Office,2023-12-24 10:00:00,6394000.0,F0317,Reyes Engineering Services Corp.,6355211.43,100.0,2023-12-24 05:19:00,1
+ocds-synthetic-00791,O013,Naga District Engineering Office,2023-12-24 10:00:00,6394000.0,F0237,Mabuhay Civil Works Enterprises,6476623.44,101.9,2023-12-23 21:59:00,0
+ocds-synthetic-00791,O013,Naga District Engineering Office,2023-12-24 10:00:00,6394000.0,F0131,Torres Engineering Services Enterprises,6633819.39,104.4,2023-12-24 05:22:00,0
+ocds-synthetic-00791,O013,Naga District Engineering Office,2023-12-24 10:00:00,6394000.0,F0361,Tan Builder sEnterprises,6665381.81,104.9,2023-12-24 05:24:00,0
+ocds-synthetic-01683,O013,Naga District Engineering Office,2024-01-23 10:00:00,63956000.0,F0317,Reyes Engineering Services Corp,61746085.77,100.0,2024-01-23 09:06:00,1
+ocds-synthetic-01683,O013,Naga District Engineering Office,2024-01-23 10:00:00,63956000.0,F0053,Reyes Civil Works Enterprises,65993122.16,106.9,2024-01-23 08:06:00,0
+ocds-synthetic-01683,O013,Naga District Engineering Office,2024-01-23 10:00:00,63956000.0,F0131,Torres Engineering Services Enterprises,66176619.49,107.2,2024-01-23 09:07:00,0
+ocds-synthetic-01683,O013,Naga District Engineering Office,2024-01-23 10:00:00,63956000.0,F0361,Tan Builders Enterprises,67346678.09,109.1,2024-01-23 09:05:00,0
+ocds-synthetic-00980,O013,Naga District Engineering Office,2024-01-26 10:00:00,6394000.0,F0317,Reyes Engineering Services Corp.,6279579.54,100.0,2024-01-26 08:54:00,1
+ocds-synthetic-00980,O013,Naga District Engineering Office,2024-01-26 10:00:00,6394000.0,F0131,Torres Engineering Services Enterprises,6477506.52,103.2,2024-01-26 08:48:00,0
+ocds-synthetic-00980,O013,Naga District Engineering Office,2024-01-26 10:00:00,6394000.0,F0332,Garcia Contractors Enterprises,6514428.4,103.7,2024-01-26 08:05:00,0
+ocds-synthetic-00980,O013,Naga District Engineering Office,2024-01-26 10:00:00,6394000.0,F0361,Tan Builders Enterprises,6620762.3,105.4,2024-01-26 08:53:00,0
+ocds-synthetic-03376,O021,Sorsogon District Engineering Office,2024-02-16 10:00:00,7539000.0,F0317,Reyes Engineering Services Corp.,7484180.97,100.0,2024-02-16 01:25:00,1
+ocds-synthetic-03376,O021,Sorsogon District Engineering Office,2024-02-16 10:00:00,7539000.0,F0131,Trores Engineering Services Enterprises,7969626.63,106.5,2024-02-16 01:28:00,0
+ocds-synthetic-03376,O021,Sorsogon District Engineering Office,2024-02-16 10:00:00,7539000.0,F0030,GOLDEN INFRA WORKS INC.,8035764.69,107.4,2024-02-16 09:42:00,0
+ocds-synthetic-03376,O021,Sorsogon District Engineering Office,2024-02-16 10:00:00,7539000.0,F0361,Tan Builders Enterprises,8125306.94,108.6,2024-02-16 01:28:00,0
+ocds-synthetic-04359,O013,Naga District Engineering Office,2024-02-22 10:00:00,11035000.0,F0317,Reyes Engineering Services Corporation,10662604.72,100.0,2024-02-22 07:49:00,1
+ocds-synthetic-04359,O013,Naga District Engineering Office,2024-02-22 10:00:00,11035000.0,F0361,Tan Builders Enterprises,11175372.63,104.8,2024-02-22 07:49:00,0
+ocds-synthetic-04359,O013,Naga District Engineering Office,2024-02-22 10:00:00,11035000.0,F0131,Torres Engineering Services Enterprises,11242753.19,105.4,2024-02-22 07:49:00,0
+ocds-synthetic-00955,O021,Sorsogon District Engineering Office,2024-03-19 10:00:00,12493000.0,F0317,Reyes Engineering Services Corp.,12295710.46,100.0,2024-03-19 00:08:00,1
+ocds-synthetic-00955,O021,Sorsogon District Engineering Office,2024-03-19 10:00:00,12493000.0,F0131,Torres Engineering Services Enterprises,12696722.64,103.3,2024-03-19 00:03:00,0
+ocds-synthetic-00955,O021,Sorsogon District Engineering Office,2024-03-19 10:00:00,12493000.0,F0361,Tan Builders Enterprises,13003779.82,105.8,2024-03-19 00:04:00,0
+ocds-synthetic-01754,O021,Sorsogon District Engineering Office,2024-04-05 10:00:00,13453000.0,F0317,Reyes Engineering Services Corp.,13032407.15,100.0,2024-04-05 01:36:00,1
+ocds-synthetic-01754,O021,Sorsogon District Engineering Office,2024-04-05 10:00:00,13453000.0,F0361,Tan Builders Enterprises,13458059.04,103.3,2024-04-05 01:32:00,0
+ocds-synthetic-01754,O021,Sorsogon District Engineering Office,2024-04-05 10:00:00,13453000.0,F0131,Torres Engineering Services Enterprises,13753029.82,105.5,2024-04-05 01:35:00,0
+ocds-synthetic-01754,O021,Sorsogon District Engineering Office,2024-04-05 10:00:00,13453000.0,F0165,MORALES CIVIL WORKS ENTERPRISES,14303162.27,109.8,2024-04-05 01:15:00,0
+ocds-synthetic-04829,O037,Daet District Engineering Office,2024-04-12 10:00:00,36767000.0,F0317,REYES ENGINEERING SERVICES CORP.,35709360.9,100.0,2024-04-12 05:16:00,1
+ocds-synthetic-04829,O037,Daet District Engineering Office,2024-04-12 10:00:00,36767000.0,F0361,Tan Builders Enterprises,37379006.39,104.7,2024-04-12 05:23:00,0
+ocds-synthetic-04829,O037,Daet District Engineering Office,2024-04-12 10:00:00,36767000.0,F0131,Torres Engineering Services Enterprises,38769917.89,108.6,2024-04-12 05:21:00,0
+ocds-synthetic-04829,O037,Daet District Engineering Office,2024-04-12 10:00:00,36767000.0,F0014,BAG Builders Inc,39665883.53,111.1,2024-04-12 04:18:00,0
+ocds-synthetic-03968,O037,Daet District Engineering Office,2024-07-06 10:00:00,12542000.0,F0317,Reyes Engineering Services Corp.,12223821.74,100.0,2024-07-06 08:46:00,1
+ocds-synthetic-03968,O037,Daet District Engineering Office,2024-07-06 10:00:00,12542000.0,F0131,Torres Engineering Services Enterprises,12741212.7,104.2,2024-07-06 08:45:00,0
+ocds-synthetic-03968,O037,Daet District Engineering Office,2024-07-06 10:00:00,12542000.0,F0361,Tan Builders Enterprises,12960851.29,106.0,2024-07-06 08:46:00,0
+ocds-synthetic-03968,O037,Daet District Engineering Office,2024-07-06 10:00:00,12542000.0,F0245,Flores Development Co.,13128459.37,107.4,2024-07-06 03:01:00,0
+ocds-synthetic-04030,O037,Daet District Engineering Office,2024-07-18 10:00:00,6004000.0,F0317,Reyes Engineering Services Corp,5822563.22,100.0,2024-07-18 04:45:00,1
+ocds-synthetic-04030,O037,Daet District Engineering Office,2024-07-18 10:00:00,6004000.0,F0327,SUMMIT CIVIL WORKS ENTERPRISES,6233955.9,107.1,2024-07-18 00:51:00,0
+ocds-synthetic-04030,O037,Daet District Engineering Office,2024-07-18 10:00:00,6004000.0,F0131,Torres Engineering Services Enterprises,6311089.28,108.4,2024-07-18 04:43:00,0
+ocds-synthetic-04030,O037,Daet District Engineering Office,2024-07-18 10:00:00,6004000.0,F0361,Tan Builders Enterprises,6346056.07,109.0,2024-07-18 04:44:00,0
+ocds-synthetic-02224,O037,Daet District Engineering Office,2024-08-07 10:00:00,84860000.0,F0317,Reyes Engineering Services Corp.,83606641.26,100.0,2024-08-07 05:17:00,1
+ocds-synthetic-02224,O037,Daet District Engineering Office,2024-08-07 10:00:00,84860000.0,F0361,Tan Builders Enterprises,89062054.61,106.5,2024-08-07 05:22:00,0
+ocds-synthetic-02224,O037,Daet District Engineering Office,2024-08-07 10:00:00,84860000.0,F0165,Morales Civil Works Enterprises,89225305.53,106.7,2024-08-07 04:32:00,0
+ocds-synthetic-02224,O037,Daet District Engineering Office,2024-08-07 10:00:00,84860000.0,F0131,Torres Engineering Services Enterprises,89748758.59,107.3,2024-08-07 05:16:00,0
+ocds-synthetic-00934,O037,Daet District Engineering Office,2024-08-11 10:00:00,50850000.0,F0317,REYES ENGINEERING SERVICES CORP.,49084974.38,100.0,2024-08-11 01:13:00,1
+ocds-synthetic-00934,O037,Daet District Engineering Office,2024-08-11 10:00:00,50850000.0,F0361,Tan Builders Enterprises,51068062.55,104.0,2024-08-11 01:20:00,0
+ocds-synthetic-00934,O037,Daet District Engineering Office,2024-08-11 10:00:00,50850000.0,F0131,Torres Engineering Services Enterprises,52024962.44,106.0,2024-08-11 01:17:00,0
+ocds-synthetic-03418,O013,Naga District Engineering Office,2024-09-01 10:00:00,20661000.0,F0317,Reyes Engineering Services Corp,20235849.35,100.0,2024-09-01 09:30:00,1
+ocds-synthetic-03418,O013,Naga District Engineering Office,2024-09-01 10:00:00,20661000.0,F0391,Pacific Development Co.,20913803.14,103.4,2024-09-01 07:57:00,0
+ocds-synthetic-03418,O013,Naga District Engineering Office,2024-09-01 10:00:00,20661000.0,F0131,Torres Engineering Services Enterprises,21211832.96,104.8,2024-09-01 09:31:00,0
+ocds-synthetic-03418,O013,Naga District Engineering Office,2024-09-01 10:00:00,20661000.0,F0361,Tan Builders Enterprises,22205291.24,109.7,2024-09-01 09:31:00,0
+ocds-synthetic-00925,O037,Daet District Engineering Office,2024-10-20 10:00:00,37482000.0,F0317,Reyes Engineering Services Corp.,37085714.36,100.0,2024-10-20 07:06:00,1
+ocds-synthetic-00925,O037,Daet District Engineering Office,2024-10-20 10:00:00,37482000.0,F0361,Tan Builders Enterprises,38882622.77,104.8,2024-10-20 07:06:00,0
+ocds-synthetic-00925,O037,Daet District Engineering Office,2024-10-20 10:00:00,37482000.0,F0131,Torres Engineering Services Enterprises,39113108.2,105.5,2024-10-20 07:08:00,0
+ocds-synthetic-00744,O021,Sorsogon District Engineering Office,2024-11-12 10:00:00,60459000.0,F0317,Reyes Engineering Services Corp.,58886844.42,100.0,2024-11-12 03:28:00,1
+ocds-synthetic-00744,O021,Sorsogon District Engineering Office,2024-11-12 10:00:00,60459000.0,F0361,Tan Builders Enteprrises,62233854.5,105.7,2024-11-12 03:29:00,0
+ocds-synthetic-00744,O021,Sorsogon District Engineering Office,2024-11-12 10:00:00,60459000.0,F0391,Pacific Development Co.,62243073.05,105.7,2024-11-12 07:53:00,0
+ocds-synthetic-00744,O021,Sorsogon District Engineering Office,2024-11-12 10:00:00,60459000.0,F0131,TORRES ENGINEERING SERVICES ENTERPRISES,63572581.66,108.0,2024-11-12 03:22:00,0
+ocds-synthetic-00115,O013,Naga District Engineering Office,2024-12-04 10:00:00,29375000.0,F0317,Reyes Engineering Services Corp.,28425063.16,100.0,2024-12-04 07:59:00,1
+ocds-synthetic-00115,O013,Naga District Engineering Office,2024-12-04 10:00:00,29375000.0,F0361,Tan Builders Enterprises,30390673.33,106.9,2024-12-04 08:00:00,0
+ocds-synthetic-00115,O013,Naga District Engineering Office,2024-12-04 10:00:00,29375000.0,F0131,Torres Engineering Services Enterprises,30902566.6,108.7,2024-12-04 07:57:00,0
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0060,LIWANAG ENGINEERING ENTERPRISES,27720048.03,100.0,2024-12-08 08:28:00,1
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0339,TEM BUILDERS ENTERPRISES,27937920.48,100.8,2024-12-08 09:26:00,0
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0098,KKL Engineering Services Inc,29662032.68,107.0,2024-12-08 09:41:00,0
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0317,Reyes Engineering Services Corporation,30230981.04,109.1,2024-12-08 09:30:00,0
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0030,Golden Infra Works Inc.,31039187.27,112.0,2024-12-08 06:36:00,0
+ocds-synthetic-04597,O021,Sorsogon District Engineering Office,2024-12-08 10:00:00,30725000.0,F0361,Tan Builders Enterprises,33857241.1,122.1,2024-12-07 22:38:00,0
+ocds-synthetic-01982,O013,Naga District Engineering Office,2024-12-30 10:00:00,4790000.0,F0317,Reyes Engineering Services Corp.,4601533.86,100.0,2024-12-30 02:12:00,1
+ocds-synthetic-01982,O013,Naga District Engineering Office,2024-12-30 10:00:00,4790000.0,F0361,Tan Builders Enterprises,4767492.37,103.6,2024-12-30 02:10:00,0
+ocds-synthetic-01982,O013,Naga District Engineering Office,2024-12-30 10:00:00,4790000.0,F0131,Torres Engineering Services Enterprises,4944866.66,107.5,2024-12-30 02:11:00,0
+ocds-synthetic-01778,O037,Daet District Engineering Office,2025-02-01 10:00:00,2630000.0,F0317,Reyes Engineering Sevrices Corp.,2540742.6,100.0,2025-02-01 04:30:00,1
+ocds-synthetic-01778,O037,Daet District Engineering Office,2025-02-01 10:00:00,2630000.0,F0361,Tan Builders Enterprises,2667729.84,105.0,2025-02-01 04:33:00,0
+ocds-synthetic-01778,O037,Daet District Engineering Office,2025-02-01 10:00:00,2630000.0,F0131,Torres Engineering Services Enterprises,2761516.39,108.7,2025-02-01 04:29:00,0
+ocds-synthetic-01639,O037,Daet District Engineering Office,2025-05-17 10:00:00,40134000.0,F0317,Reyes Engineering Services Corp.,39747248.52,100.0,2025-05-17 09:11:00,1
+ocds-synthetic-01639,O037,Daet District Engineering Office,2025-05-17 10:00:00,40134000.0,F0331,BKE Builders & Trading Enterprises,40200626.07,101.1,2025-05-17 00:09:00,0
+ocds-synthetic-01639,O037,Daet District Engineering Office,2025-05-17 10:00:00,40134000.0,F0361,Tan Builders Enterprises,42910858.51,108.0,2025-05-17 09:16:00,0
+ocds-synthetic-01639,O037,Daet District Engineering Office,2025-05-17 10:00:00,40134000.0,F0131,Torres Engineering Services Enterprises,43165284.73,108.6,2025-05-17 09:13:00,0
+ocds-synthetic-01609,O021,Sorsogon District Engineering Office,2025-07-27 10:00:00,15616000.0,F0317,Reyes Engineering Services Corp.,15509241.9,100.0,2025-07-27 03:49:00,1
+ocds-synthetic-01609,O021,Sorsogon District Engineering Office,2025-07-27 10:00:00,15616000.0,F0361,Tan Builders Enterprises,15976661.92,103.0,2025-07-27 03:48:00,0
+ocds-synthetic-01609,O021,Sorsogon District Engineering Office,2025-07-27 10:00:00,15616000.0,F0131,Torres Engineernig Services Enterprises,16294132.83,105.1,2025-07-27 03:49:00,0
+ocds-synthetic-02152,O013,Naga District Engineering Office,2025-08-05 10:00:00,6006000.0,F0317,Reyes Engineering Services Corp.,5824076.68,100.0,2025-08-05 08:44:00,1
+ocds-synthetic-02152,O013,Naga District Engineering Office,2025-08-05 10:00:00,6006000.0,F0131,Torres Engineering Services Enterprises,6223432.77,106.9,2025-08-05 08:43:00,0
+ocds-synthetic-02152,O013,Naga District Engineering Office,2025-08-05 10:00:00,6006000.0,F0361,TAN BUILDERS ENTERPRISES,6351428.31,109.1,2025-08-05 08:42:00,0
+ocds-synthetic-02152,O013,Naga District Engineering Office,2025-08-05 10:00:00,6006000.0,F0201,Mabuhay Builders & Trading Inc.,6366772.1,109.3,2025-08-05 03:16:00,0
+ocds-synthetic-00155,O037,Daet District Engineering Office,2025-09-11 10:00:00,2233000.0,F0317,Reyes Engineering Services Corp,2204281.23,100.0,2025-09-11 04:36:00,1
+ocds-synthetic-00155,O037,Daet District Engineering Office,2025-09-11 10:00:00,2233000.0,F0287,LACSON BUILDERS INC.,2241026.14,101.7,2025-09-11 00:26:00,0
+ocds-synthetic-00155,O037,Daet District Engineering Office,2025-09-11 10:00:00,2233000.0,F0361,TAN BUILDERS ENTERPRISES,2320414.59,105.3,2025-09-11 04:42:00,0
+ocds-synthetic-00155,O037,Daet District Engineering Office,2025-09-11 10:00:00,2233000.0,F0131,Torres Engineering Services Enterprises,2324120.65,105.4,2025-09-11 04:40:00,0
+ocds-synthetic-02306,O037,Daet District Engineering Office,2025-11-06 10:00:00,5279000.0,F0317,Reyes Engineering Services Corp,5105524.88,100.0,2025-11-06 05:21:00,1
+ocds-synthetic-02306,O037,Daet District Engineering Office,2025-11-06 10:00:00,5279000.0,F0361,Tan Builders Enterprises,5419294.23,106.1,2025-11-06 05:14:00,0
+ocds-synthetic-02306,O037,Daet District Engineering Office,2025-11-06 10:00:00,5279000.0,F0131,Torres Engineering Services Enterprises,5492224.97,107.6,2025-11-06 05:16:00,0
+ocds-synthetic-00355,O013,Naga District Engineering Office,2025-11-07 10:00:00,9342000.0,F0317,REYES ENGINEERING SERVICES CORP.,9036636.19,100.0,2025-11-07 02:19:00,1
+ocds-synthetic-00355,O013,Naga District Engineering Office,2025-11-07 10:00:00,9342000.0,F0131,Torres Engineering Services Enterprises,9507039.79,105.2,2025-11-07 02:21:00,0
+ocds-synthetic-00355,O013,Naga District Engineering Office,2025-11-07 10:00:00,9342000.0,F0361,Tan Builders Enterprises,9831831.17,108.8,2025-11-07 02:18:00,0
+ocds-synthetic-00355,O013,Naga District Engineering Office,2025-11-07 10:00:00,9342000.0,F0203,Kabisig Infra Works Corp.,9944899.04,110.1,2025-11-07 01:48:00,0
+ocds-synthetic-01167,O037,Daet District Engineering Office,2025-11-22 10:00:00,16299000.0,F0317,Reyes Engineering Services Corporation,16126268.43,100.0,2025-11-22 08:07:00,1
+ocds-synthetic-01167,O037,Daet District Engineering Office,2025-11-22 10:00:00,16299000.0,F0131,Torres Engineering Services Enterprises,17212888.01,106.7,2025-11-22 08:06:00,0
+ocds-synthetic-01167,O037,Daet District Engineering Office,2025-11-22 10:00:00,16299000.0,F0361,Tan Builders Enterprises,17244703.66,106.9,2025-11-22 08:08:00,0

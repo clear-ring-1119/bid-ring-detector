@@ -1,0 +1,16 @@
+ring_id,firm_id,ring_size,ring_max_score,firm_name
+C01,F0093,4,0.854,JMJ Engineering Services Corp.
+C01,F0201,4,0.854,Mabuhay Builders & Trading Inc.
+C01,F0296,4,0.854,Masagana Engineering Services Corp.
+C01,F0322,4,0.854,Reyes Builders & Trading Co.
+C02,F0131,3,0.837,Torres Engineering Services Enterprises
+C02,F0317,3,0.837,Reyes Engineering Services Corp.
+C02,F0361,3,0.837,Tan Builders Enterprises
+C03,F0072,5,0.676,Fernandez Engineering Services Co.
+C03,F0081,5,0.676,Silangan Engineering Corp.
+C03,F0143,5,0.676,Pag-asa Contractors Co.
+C03,F0214,5,0.676,Ocampo Builders Corp.
+C03,F0302,5,0.676,MCA Engineering Co.
+C04,F0188,3,0.654,Valdez Engineering Services Corp.
+C04,F0189,3,0.654,Tagumpay Builders & Trading Corp.
+C04,F0194,3,0.654,Prime Builders & Trading Inc.

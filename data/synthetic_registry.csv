@@ -1,0 +1,401 @@
+firm_id,registered_name,region,address,directors
+F0001,SED Development Inc.,CAR,"693 Osmeña Blvd., Baguio",Marites A. Reyes; Juan D. Gonzales; Fernando L. Reyes
+F0002,Chua Engineering Services Enterprises,Region IV-A,"460 Magsaysay Ave., Lucena",Wilfredo R. Aquino
+F0003,United Development Co.,CAR,"95 National Highway, Baguio",Teresita L. Tan; Maria P. Aguilar
+F0004,ERM Builders & Trading Inc.,CAR,"47 Quezon Blvd., Tabuk",Rosario S. Mendoza
+F0005,Ocampo Builders & Trading Inc.,Region VI,"364 Quezon Blvd., Kalibo",Liza M. Ocampo; Gloria M. Aquino; Cristina P. Dela Cruz
+F0006,Evergreen Engineering Services Inc.,Region VI,"864 Rizal St., Roxas",Ricardo G. Lim
+F0007,Navarro Builders & Trading Inc.,Region XI,"406 Del Pilar St., Tagum",Ramon D. Tan; Josefina L. Valdez
+F0008,Santos Engineering Enterprises,CAR,"774 Rizal St., Baguio",Ernesto C. Valdez
+F0009,Evergreen Contractors Co.,NCR,"697 Mabini Ave., Taguig",Wilfredo M. Domingo; Ana E. Valdez
+F0010,Mabuhay Construction & Supply Inc.,CAR,"892 Luna St., Bangued",Eduardo C. Salazar; Wilfredo C. Santos; Gloria F. Fernandez
+F0011,Apex Construction & Supply Inc.,NCR,"247 Magsaysay Ave., Quezon City",Josefina H. Ocampo
+F0012,Ramos Engineering Enterprises,Region III,"272 Osmeña Blvd., Cabanatuan",Eduardo T. Castillo; Arnel E. Lacson
+F0013,Tan Engineering Services Enterprises,CAR,"254 Quezon Blvd., Baguio",Jose L. Gonzales; Romeo D. Santos
+F0014,BAG Builders Inc.,Region V,"686 Del Pilar St., Naga",Ramon P. Rivera; Rosario R. Rivera; Marites D. Mendoza
+F0015,Cruz Infra Works Enterprises,NCR,"690 Mabini Ave., Quezon City",Josefina F. Mendoza; Rosario D. Castillo
+F0016,Masagana Construction & Supply Enterprises,Region IV-A,"896 Mabini Ave., Antipolo",Ana A. Santos; Juan T. Dela Cruz; Lourdes G. Fernandez
+F0017,Rivera Construction Inc.,Region VII,"3 National Highway, Tagbilaran",Carmela G. Fernandez; Ramon D. Uy
+F0018,Pag-asa Engineering Services Corp.,Region VI,"59 Rizal St., Bacolod",Fernando T. Aquino; Maria J. Garcia
+F0019,Bagong Lahi Development Enterprises,CAR,"965 Magsaysay Ave., La Trinidad",Gloria A. Garcia; Marites M. Chua; Antonio D. Chua
+F0020,REK Builders & Trading Corp.,NCR,"470 Magsaysay Ave., Taguig",Juan J. Flores
+F0021,Masagana Builders Inc.,Region VI,"292 Bonifacio St., San Jose",Arnel E. Santos; Liza S. Sy; Liza B. Villanueva
+F0022,LCE Construction & Supply Inc.,Region VI,"209 Luna St., Bacolod",Antonio T. Bautista; Juan M. Valdez
+F0023,TCR Construction & Supply Inc.,Region XI,"565 National Highway, Panabo",Ana B. Ramos
+F0024,Mercado Engineering Services Inc.,Region VII,"131 Rizal St., Tagbilaran",Maria T. Pascual; Eduardo M. Dela Cruz
+F0025,Triple Infra Works Inc.,Region IV-A,"886 Bonifacio St., Batangas",Jose C. Domingo; Marites R. Dela Cruz
+F0026,Lacson Infra Works Corp.,Region XI,"228 Quezon Blvd., Mati",Carmela S. Gonzales; Rosario A. Castillo
+F0027,Northstar Construction & Supply Co.,Region VII,"696 Osmeña Blvd., Tagbilaran",Ana T. Tan
+F0028,MJG Builders & Trading Enterprises,CAR,"395 Magsaysay Ave., La Trinidad",Maria P. Valdez; Jose J. Castillo
+F0029,Bagong Lahi Builders & Trading Co.,CAR,"738 Luna St., Bangued",Liza G. Chua; Rogelio P. Uy
+F0030,Golden Infra Works Inc.,Region V,"416 Osmeña Blvd., Legazpi",Carmela D. Valdez; Romeo L. Chua
+F0031,Bautista Engineering Services Enterprises,Region III,"675 Mabini Ave., Malolos",Liza M. Domingo; Juan S. Dela Cruz; Liza E. Gonzales
+F0032,DKM Builders Enterprises,Region VII,"908 Magsaysay Ave., Mandaue",Arnel G. Fernandez; Rogelio D. Ramos; Ernesto P. Santos
+F0033,Rivera Builders Enterprises,Region IV-A,"181 Osmeña Blvd., Antipolo",Cristina D. Torres
+F0034,Soriano Engineering Services Co.,Region XI,"628 Osmeña Blvd., Mati",Danilo T. Aquino; Josefina S. Rivera; Danilo E. Dela Cruz
+F0035,Northstar Engineering Services Enterprises,Region IV-A,"282 Del Pilar St., Calamba",Carmela D. Lim; Ricardo F. Garcia; Ramon C. Gonzales
+F0036,Kabisig Builders Enterprises,Region VII,"339 Osmeña Blvd., Dumaguete",Maria D. Soriano; Rogelio T. Reyes
+F0037,Salazar Contractors Corp.,Region VI,"306 National Highway, San Jose",Josefina P. Gonzales; Imelda D. Lim; Marites H. Reyes
+F0038,Lim Infra Works Inc.,Region XI,"942 Bonifacio St., Panabo",Jose T. Lacson; Romeo L. Reyes; Juan M. Valdez
+F0039,EJG Development Enterprises,Region VI,"346 National Highway, Kalibo",Antonio S. Garcia; Imelda A. Bautista
+F0040,BTR Construction Corp.,Region IV-A,"205 Rizal St., Imus",Rosario C. Rivera
+F0041,Navarro Contractors Co.,Region VI,"172 Magsaysay Ave., Bacolod",Arnel B. Aquino; Carmela B. Reyes; Carmela L. Manalo
+F0042,MSR Development Corp.,Region V,"871 Magsaysay Ave., Legazpi",Maria F. Valdez; Liza F. Ocampo; Fernando M. Domingo
+F0043,Reyes Builders Enterprises,Region VI,"651 Del Pilar St., Roxas",Lourdes P. Lim; Gloria R. Rivera
+F0044,Valdez Construction & Supply Co.,Region IV-A,"851 Mabini Ave., Lucena",Rosario R. Aguilar; Romeo L. Manalo
+F0045,Mendoza Engineering Enterprises,Region IV-A,"364 Luna St., Lucena",Gloria P. Lim; Cristina A. Castillo
+F0046,Domingo Engineering Services Inc.,Region XI,"662 Del Pilar St., Mati",Juan E. Gonzales
+F0047,Island Civil Works Co.,Region XI,"567 Osmeña Blvd., Digos",Josefina J. Domingo; Teresita P. Aguilar
+F0048,SDG Builders Inc.,Region IV-A,"222 Del Pilar St., Lucena",Romeo R. Uy; Ana S. Castillo; Carmela D. Salazar
+F0049,Mabuhay Engineering Co.,NCR,"998 Rizal St., Taguig",Arnel C. Fernandez; Ana S. Santos
+F0050,Garcia Builders & Trading Inc.,NCR,"259 Del Pilar St., Quezon City",Rogelio H. Ocampo
+F0051,CTM Construction & Supply Corp.,Region IV-A,"122 Osmeña Blvd., Antipolo",Gloria R. Gonzales; Wilfredo J. Manalo; Danilo T. Mercado
+F0052,Castillo Construction & Supply Corp.,CAR,"971 Quezon Blvd., La Trinidad",Liza B. Aquino; Rosario C. Ocampo
+F0053,Reyes Civil Works Enterprises,Region V,"34 Quezon Blvd., Sorsogon",Carmela P. Aguilar; Juan M. Gonzales; Antonio R. Castillo
+F0054,CEC Builders Corp.,Region III,"812 Luna St., Cabanatuan",Romeo T. Uy; Danilo B. Aguilar; Arnel E. Lacson
+F0055,Torres Contractors Corp.,NCR,"911 National Highway, Makati",Antonio A. Garcia; Rosario M. Reyes; Wilfredo M. Lim
+F0056,Salazar Contractors Enterprises,Region V,"186 Magsaysay Ave., Iriga",Imelda B. Rivera; Teresita G. Domingo; Ricardo M. Mendoza
+F0057,United Contractors Co.,Region VII,"834 Osmeña Blvd., Cebu",Juan F. Tan; Ricardo B. Lacson
+F0058,Valdez Engineering Services Enterprises,Region VII,"56 Quezon Blvd., Lapu-Lapu",Gloria R. Fernandez; Ernesto H. Bautista
+F0059,EKS Contractors Corp.,NCR,"997 Magsaysay Ave., Pasig",Lourdes E. Santos; Cristina G. Garcia; Rosario S. Torres
+F0060,Liwanag Engineering Enterprises,Region V,"522 Luna St., Iriga",Imelda D. Aguilar; Cristina C. Manalo
+F0061,Flores Engineering Corp.,Region V,"792 National Highway, Sorsogon",Antonio S. Santos; Carmela P. Sy; Romeo L. Fernandez
+F0062,Bautista Builders & Trading Co.,Region VII,"467 Burgos St., Mandaue",Rosario L. Manalo; Rosario S. Soriano; Maria F. Rivera
+F0063,Soriano Engineering Enterprises,NCR,"130 Osmeña Blvd., Taguig",Ana S. Mercado; Ana J. Aguilar
+F0064,Kabisig Engineering Corp.,Region XI,"801 Luna St., Digos",Arnel G. Garcia; Ricardo S. Manalo; Ricardo M. Fernandez
+F0065,Tagumpay Development Co.,Region IV-A,"765 Mabini Ave., Antipolo",Wilfredo M. Mendoza
+F0066,Sy Construction Corp.,Region VI,"816 Rizal St., Kalibo",Teresita G. Ramos; Rosario J. Soriano
+F0067,CBM Infra Works Inc.,Region XI,"935 Magsaysay Ave., Tagum",Danilo M. Tan
+F0068,TKE Engineering Services Inc.,CAR,"453 Burgos St., Bangued",Ernesto G. Tan; Danilo S. Sy
+F0069,Evergreen Builders Inc.,Region VII,"586 Burgos St., Lapu-Lapu",Arnel E. Reyes; Liza G. Lim
+F0070,Rivera Construction Enterprises,Region V,"795 Quezon Blvd., Daet",Rosario M. Castillo; Gloria E. Villanueva
+F0071,Morales Construction Co.,Region XI,"35 Magsaysay Ave., Digos",Ramon B. Uy; Ricardo P. Soriano; Lourdes D. Villanueva
+F0072,Fernandez Engineering Services Co.,Region III,"264 Del Pilar St., Malolos",Ricardo R. Torres; Danilo B. Ramos; Wilfredo D. Lacson
+F0073,Soriano Builders Enterprises,NCR,"271 Osmeña Blvd., Quezon City",Teresita M. Tan; Romeo G. Salazar
+F0074,Archipelago Civil Works Co.,Region IV-A,"664 Mabini Ave., Antipolo",Carmela M. Soriano; Ana C. Cruz; Maria E. Fernandez
+F0075,Island Engineering Enterprises,Region XI,"380 Osmeña Blvd., Mati",Josefina P. Ramos; Marites M. Mendoza; Imelda L. Soriano
+F0076,GDK Contractors Inc.,Region VI,"102 Burgos St., Bacolod",Teresita A. Lacson; Antonio D. Torres; Danilo B. Flores
+F0077,Flores Construction Co.,Region IV-A,"129 Magsaysay Ave., Batangas",Wilfredo J. Flores
+F0078,Valdez Builders & Trading Inc.,NCR,"284 Bonifacio St., Pasig",Antonio R. Navarro; Ana M. Reyes; Ramon A. Pascual
+F0079,Island Construction Inc.,Region V,"54 Bonifacio St., Iriga",Ana P. Ocampo; Imelda H. Salazar; Fernando L. Mendoza
+F0080,Archipelago Construction Co.,Region XI,"659 Rizal St., Davao",Rogelio G. Mendoza; Imelda P. Mercado
+F0081,Silangan Engineering Corp.,Region III,"282 Magsaysay Ave., Cabanatuan",Arnel F. Manalo; Gloria J. Uy; Danilo J. Valdez
+F0082,RRT Engineering Services Inc.,Region VII,"463 Quezon Blvd., Dumaguete",Danilo G. Soriano; Josefina B. Chua
+F0083,Lim Engineering Enterprises,CAR,"94 Mabini Ave., Baguio",Ana P. Salazar; Ramon J. Bautista
+F0084,Aquino Builders Enterprises,Region VI,"895 National Highway, Iloilo",Gloria E. Pascual; Ana L. Morales
+F0085,Lim Builders Co.,Region VI,"118 Luna St., Bacolod",Marites S. Reyes
+F0086,Lim Construction & Supply Corp.,Region III,"280 Luna St., Malolos",Jose C. Ramos; Romeo M. Lacson
+F0087,Pascual Construction Corp.,Region IV-A,"386 National Highway, Antipolo",Lourdes F. Sy; Josefina F. Garcia
+F0088,MAR Builders Co.,Region XI,"678 National Highway, Mati",Danilo G. Lim; Eduardo R. Morales; Ana F. Valdez
+F0089,Uy Contractors Co.,NCR,"226 National Highway, Taguig",Jose D. Sy
+F0090,EEG Builders Corp.,Region XI,"765 National Highway, Tagum",Rogelio J. Gonzales
+F0091,Mercado Builders & Trading Corp.,Region VII,"883 Rizal St., Dumaguete",Danilo T. Ocampo
+F0092,Navarro Infra Works Enterprises,Region V,"118 National Highway, Legazpi",Lourdes R. Aguilar; Arnel T. Salazar
+F0093,JMJ Engineering Services Corp.,Region VII,"892 Luna St., Tagbilaran",Ricardo D. Torres; Ricardo R. Aquino
+F0094,LDT Builders & Trading Co.,Region III,"242 Mabini Ave., Angeles",Eduardo C. Ramos; Wilfredo R. Ocampo
+F0095,Manalo Contractors Enterprises,Region VI,"885 Burgos St., Roxas",Juan H. Mercado; Ernesto E. Lim
+F0096,Triple Construction & Supply Enterprises,Region XI,"39 Rizal St., Digos",Juan M. Garcia; Gloria L. Morales
+F0097,Castillo Construction Enterprises,Region IV-A,"330 Magsaysay Ave., Antipolo",Ramon A. Mercado; Ana R. Domingo; Arnel B. Morales
+F0098,KKL Engineering Services Inc.,Region VI,"382 Luna St., San Jose",Wilfredo F. Bautista; Ernesto M. Domingo
+F0099,Kalayaan Infra Works Co.,Region V,"742 Magsaysay Ave., Naga",Juan L. Ramos; Teresita E. Lacson
+F0100,Chua Construction & Supply Enterprises,Region VI,"833 Bonifacio St., Bacolod",Ernesto M. Valdez
+F0101,Bayanihan Engineering Inc.,Region VI,"971 Del Pilar St., Roxas",Ramon C. Ocampo
+F0102,TLS Engineering Services Corp.,Region VI,"898 Magsaysay Ave., Roxas",Rogelio C. Aquino; Lourdes S. Aquino; Josefina H. Cruz
+F0103,Salazar Contractors Inc.,Region IV-A,"317 Del Pilar St., Batangas",Liza L. Mercado; Danilo R. Uy
+F0104,Torres Engineering Inc.,Region III,"894 Luna St., San Fernando",Imelda S. Salazar; Cristina T. Mendoza; Arnel S. Torres
+F0105,KLC Infra Works Corp.,Region IV-A,"837 Del Pilar St., Lucena",Marites A. Lacson
+F0106,Island Builders Co.,Region IV-A,"29 Burgos St., Calamba",Ernesto F. Ramos; Ramon A. Uy; Imelda P. Villanueva
+F0107,Garcia Construction Corp.,NCR,"263 Quezon Blvd., Pasig",Josefina L. Valdez; Ana R. Uy; Rosario E. Torres
+F0108,KML Construction Inc.,Region III,"299 National Highway, San Fernando",Teresita D. Soriano; Lourdes M. Garcia; Fernando F. Ocampo
+F0109,Ramos Engineering Services Corp.,Region VII,"895 Del Pilar St., Cebu",Rogelio F. Tan; Josefina A. Pascual; Juan F. Dela Cruz
+F0110,MST Builders & Trading Inc.,NCR,"361 Osmeña Blvd., Makati",Lourdes S. Aguilar; Arnel H. Navarro; Ramon B. Aguilar
+F0111,DAG Construction & Supply Enterprises,Region XI,"260 Rizal St., Tagum",Teresita S. Bautista; Ernesto F. Lim
+F0112,Apex Infra Works Enterprises,Region VII,"348 Bonifacio St., Dumaguete",Imelda F. Lim; Juan P. Valdez; Juan G. Navarro
+F0113,GRE Construction & Supply Enterprises,Region VII,"171 Del Pilar St., Tagbilaran",Maria P. Pascual; Gloria G. Lim
+F0114,Lacson Builders Enterprises,Region VI,"526 Bonifacio St., Iloilo",Gloria M. Mercado
+F0115,RGG Infra Works Corp.,Region III,"696 Del Pilar St., Malolos",Danilo R. Ocampo; Romeo C. Salazar
+F0116,Tan Builders Corp.,Region III,"512 Osmeña Blvd., Tarlac",Ana E. Tan; Arnel H. Flores; Gloria E. Fernandez
+F0117,Masagana Contractors Inc.,Region XI,"90 Burgos St., Digos",Juan J. Uy; Carmela S. Aquino; Arnel P. Navarro
+F0118,DTC Development Enterprises,NCR,"370 Osmeña Blvd., Taguig",Danilo R. Villanueva; Gloria T. Garcia
+F0119,Santos Contractors Enterprises,Region VII,"844 Magsaysay Ave., Cebu",Ricardo M. Ocampo
+F0120,Uy Engineering Inc.,Region III,"444 Osmeña Blvd., San Fernando",Fernando C. Sy
+F0121,Prime Development Co.,Region V,"867 Mabini Ave., Sorsogon",Ernesto J. Lim
+F0122,Metro Builders Inc.,Region III,"176 Magsaysay Ave., Cabanatuan",Romeo A. Reyes; Juan A. Tan
+F0123,Manalo Civil Works Corp.,Region XI,"911 Osmeña Blvd., Digos",Carmela H. Dela Cruz; Liza G. Sy; Danilo B. Bautista
+F0124,Reyes Development Co.,Region III,"321 Burgos St., Malolos",Ramon R. Salazar; Fernando J. Mendoza
+F0125,KDC Builders Corp.,Region V,"969 National Highway, Daet",Rosario S. Aquino; Ricardo T. Chua
+F0126,Pinoy Engineering Services Enterprises,Region XI,"901 Luna St., Mati",Juan G. Morales
+F0127,GAA Construction & Supply Enterprises,Region XI,"293 Osmeña Blvd., Davao",Marites C. Tan
+F0128,Salazar Construction Enterprises,NCR,"584 Osmeña Blvd., Pasig",Cristina E. Ocampo; Rogelio J. Mercado
+F0129,Northstar Civil Works Corp.,Region III,"999 Mabini Ave., Tarlac",Ricardo J. Salazar; Wilfredo C. Castillo
+F0130,Santos Construction Corp.,Region III,"731 Burgos St., Tarlac",Danilo C. Morales; Ramon F. Chua; Lourdes G. Sy
+F0131,Torres Engineering Services Enterprises,Region V,"487 Rizal St., Sorsogon",Liza B. Soriano; Romeo E. Reyes
+F0132,Sunrise Civil Works Inc.,NCR,"598 Del Pilar St., Pasig",Ernesto P. Manalo; Ramon S. Dela Cruz; Maria L. Torres
+F0133,Bautista Engineering Enterprises,Region IV-A,"421 Osmeña Blvd., Imus",Josefina P. Bautista; Arnel C. Flores
+F0134,Lim Infra Works Co.,Region III,"471 Osmeña Blvd., Malolos",Teresita M. Tan; Gloria H. Castillo; Rosario E. Sy
+F0135,Metro Development Enterprises,Region VI,"492 Burgos St., Bacolod",Antonio E. Torres; Romeo M. Manalo; Rogelio S. Pascual
+F0136,AES Builders Co.,Region XI,"672 Luna St., Mati",Eduardo S. Lim
+F0137,Sy Builders Inc.,Region IV-A,"52 Osmeña Blvd., Batangas",Rosario A. Mendoza; Marites F. Rivera; Ana M. Villanueva
+F0138,Aquino Engineering Enterprises,Region XI,"489 Quezon Blvd., Digos",Carmela M. Bautista; Wilfredo B. Gonzales
+F0139,Domingo Construction Inc.,Region VII,"904 Bonifacio St., Cebu",Imelda C. Uy; Maria A. Sy
+F0140,Kalayaan Builders & Trading Co.,Region XI,"657 Osmeña Blvd., Panabo",Ramon S. Morales; Danilo E. Castillo
+F0141,KRE Engineering Corp.,Region VI,"810 Luna St., Bacolod",Wilfredo D. Navarro; Gloria S. Lacson; Marites J. Chua
+F0142,CKG Development Corp.,Region V,"393 Quezon Blvd., Iriga",Ricardo E. Santos; Antonio M. Salazar
+F0143,Pag-asa Contractors Co.,Region III,"416 Osmeña Blvd., Malolos",Ana M. Uy; Teresita L. Gonzales; Rosario C. Rivera
+F0144,Pascual Builders & Trading Enterprises,Region XI,"776 Osmeña Blvd., Tagum",Liza R. Garcia
+F0145,Villanueva Builders Corp.,NCR,"849 Osmeña Blvd., Taguig",Romeo J. Ramos
+F0146,Aguilar Builders Inc.,Region XI,"94 Osmeña Blvd., Mati",Danilo C. Morales
+F0147,KRT Construction & Supply Corp.,Region VII,"261 Rizal St., Mandaue",Juan A. Valdez; Teresita P. Ocampo; Cristina A. Ocampo
+F0148,JCT Engineering Enterprises,Region VI,"913 National Highway, San Jose",Rogelio B. Villanueva; Ernesto S. Pascual
+F0149,Ramos Engineering Inc.,NCR,"775 Rizal St., Makati",Liza P. Valdez; Cristina G. Gonzales
+F0150,DST Builders Corp.,Region VII,"630 Rizal St., Mandaue",Juan B. Cruz
+F0151,Uy Construction Inc.,NCR,"412 Del Pilar St., Pasig",Eduardo R. Bautista; Ramon J. Uy; Rosario S. Chua
+F0152,Manalo Builders & Trading Inc.,Region V,"898 Bonifacio St., Daet",Marites E. Lim
+F0153,Castillo Engineering Enterprises,Region XI,"49 Burgos St., Mati",Ricardo P. Soriano; Marites C. Sy; Rogelio C. Rivera
+F0154,Archipelago Engineering Enterprises,NCR,"576 National Highway, Caloocan",Fernando C. Manalo; Rosario E. Flores; Ricardo M. Garcia
+F0155,Aguilar Engineering Services Inc.,NCR,"275 National Highway, Taguig",Maria S. Ocampo; Eduardo R. Flores; Imelda D. Domingo
+F0156,DSB Contractors Inc.,Region IV-A,"407 Quezon Blvd., Imus",Wilfredo E. Manalo; Danilo J. Pascual
+F0157,Apex Contractors Enterprises,CAR,"823 Del Pilar St., Tabuk",Teresita F. Soriano
+F0158,CAE Engineering Services Enterprises,Region V,"157 Quezon Blvd., Sorsogon",Rogelio L. Dela Cruz
+F0159,Tan Builders & Trading Co.,Region XI,"990 Del Pilar St., Mati",Josefina R. Pascual
+F0160,Domingo Engineering Corp.,NCR,"860 Mabini Ave., Quezon City",Marites C. Gonzales
+F0161,LKG Construction Enterprises,Region XI,"17 Rizal St., Panabo",Marites A. Reyes; Fernando P. Lim; Cristina E. Reyes
+F0162,Sy Engineering Corp.,CAR,"537 Bonifacio St., La Trinidad",Gloria J. Tan
+F0163,Northstar Builders Co.,Region VII,"471 Magsaysay Ave., Mandaue",Rosario E. Garcia; Ernesto S. Cruz; Juan G. Manalo
+F0164,ASC Builders Enterprises,Region VII,"661 Burgos St., Lapu-Lapu",Fernando T. Cruz
+F0165,Morales Civil Works Enterprises,Region V,"48 Mabini Ave., Sorsogon",Romeo M. Cruz; Lourdes T. Chua; Jose D. Ramos
+F0166,Chua Builders Co.,Region III,"578 Quezon Blvd., Cabanatuan",Liza T. Domingo; Rogelio R. Villanueva
+F0167,Sy Engineering Services Co.,NCR,"101 National Highway, Pasig",Ricardo L. Lacson
+F0168,ETK Contractors Inc.,Region VI,"567 National Highway, San Jose",Liza L. Manalo
+F0169,Gonzales Development Corp.,CAR,"275 Bonifacio St., Bontoc",Ernesto C. Manalo; Ricardo F. Mendoza; Juan A. Sy
+F0170,Salazar Engineering Corp.,Region III,"442 Del Pilar St., Cabanatuan",Fernando G. Mendoza; Jose B. Pascual; Cristina B. Chua
+F0171,Mabuhay Infra Works Corp.,Region IV-A,"586 Osmeña Blvd., Batangas",Rogelio C. Villanueva; Antonio E. Lim; Imelda C. Ocampo
+F0172,Northstar Contractors Corp.,Region VI,"258 Quezon Blvd., San Jose",Gloria D. Aguilar; Ana C. Sy; Jose G. Domingo
+F0173,Evergreen Builders & Trading Enterprises,Region VI,"441 Magsaysay Ave., Roxas",Ricardo L. Castillo; Imelda F. Navarro
+F0174,Prime Contractors Inc.,Region VI,"386 Luna St., San Jose",Ana T. Castillo; Romeo J. Navarro
+F0175,SKS Development Enterprises,Region V,"852 Mabini Ave., Iriga",Imelda C. Sy; Rosario E. Ramos; Arnel G. Manalo
+F0176,Flores Infra Works Enterprises,NCR,"810 Burgos St., Taguig",Ernesto T. Garcia; Ana R. Dela Cruz; Liza M. Pascual
+F0177,RRR Infra Works Co.,Region VII,"109 Rizal St., Cebu",Rosario J. Gonzales; Danilo F. Lacson
+F0178,Uy Engineering Services Inc.,Region VI,"26 Del Pilar St., Iloilo",Marites T. Garcia; Ana S. Ramos
+F0179,United Development Enterprises,Region VI,"488 Mabini Ave., San Jose",Arnel H. Chua; Juan E. Cruz; Arnel B. Reyes
+F0180,TCS Development Inc.,Region III,"339 Osmeña Blvd., Tarlac",Rosario R. Lacson; Ernesto C. Navarro
+F0181,Cruz Civil Works Inc.,Region XI,"607 National Highway, Mati",Arnel D. Flores
+F0182,Chua Builders Corp.,Region III,"375 Burgos St., Angeles",Ana E. Fernandez; Fernando M. Chua
+F0183,Gonzales Builders Co.,Region VI,"866 Del Pilar St., Bacolod",Liza P. Sy
+F0184,CGB Development Co.,CAR,"188 Burgos St., La Trinidad",Rogelio G. Villanueva; Romeo G. Valdez; Lourdes H. Navarro
+F0185,Mendoza Engineering Co.,Region XI,"635 Rizal St., Digos",Imelda C. Castillo
+F0186,Aquino Contractors Enterprises,Region XI,"426 Del Pilar St., Mati",Juan L. Reyes
+F0187,Archipelago Construction & Supply Inc.,Region V,"173 Del Pilar St., Daet",Wilfredo R. Fernandez; Cristina J. Torres; Romeo B. Lim
+F0188,Valdez Engineering Services Corp.,Region XI,"463 Magsaysay Ave., Digos",Cristina M. Uy; Josefina S. Dela Cruz
+F0189,Tagumpay Builders & Trading Corp.,Region XI,"463 Magsaysay Ave., Digos",Cristina M. Uy; Josefina L. Pascual
+F0190,Gonzales Engineering Inc.,Region IV-A,"834 Quezon Blvd., Calamba",Teresita J. Lim; Gloria J. Aquino; Ricardo P. Uy
+F0191,Northstar Engineering Services Corp.,Region III,"986 National Highway, San Fernando",Ernesto C. Villanueva; Rosario C. Chua
+F0192,Salazar Infra Works Enterprises,Region III,"592 Luna St., Tarlac",Danilo B. Garcia; Rogelio J. Lim
+F0193,Fernandez Contractors Co.,NCR,"890 Mabini Ave., Caloocan",Liza P. Pascual; Juan R. Lacson; Eduardo G. Flores
+F0194,Prime Builders & Trading Inc.,Region XI,"808 Burgos St., Davao",Cristina M. Uy; Ana M. Aguilar
+F0195,KAJ Development Inc.,Region V,"163 Luna St., Legazpi",Teresita E. Garcia; Teresita M. Aquino; Maria G. Sy
+F0196,RBS Builders Corp.,Region IV-A,"489 Mabini Ave., Batangas",Rosario J. Mercado; Jose A. Domingo; Ana S. Valdez
+F0197,JBS Builders Corp.,Region VI,"377 Luna St., Roxas",Wilfredo S. Villanueva; Ernesto M. Ramos
+F0198,RCK Builders & Trading Inc.,Region III,"942 National Highway, Cabanatuan",Danilo S. Flores; Juan T. Mendoza; Ramon R. Torres
+F0199,Evergreen Infra Works Co.,Region III,"254 Luna St., San Fernando",Cristina L. Uy
+F0200,RED Engineering Services Inc.,Region VII,"303 Rizal St., Mandaue",Rogelio B. Dela Cruz; Imelda M. Ocampo
+F0201,Mabuhay Builders & Trading Inc.,Region VII,"882 Magsaysay Ave., Dumaguete",Ricardo D. Torres; Cristina M. Navarro
+F0202,DAA Infra Works Co.,Region VII,"434 National Highway, Cebu",Cristina J. Ramos; Antonio B. Sy; Juan J. Flores
+F0203,Kabisig Infra Works Corp.,Region V,"716 National Highway, Naga",Rosario B. Valdez
+F0204,Gonzales Construction & Supply Inc.,CAR,"13 Bonifacio St., Baguio",Imelda F. Tan
+F0205,Masagana Construction & Supply Corp.,NCR,"344 National Highway, Makati",Juan E. Ocampo; Imelda H. Morales; Teresita A. Fernandez
+F0206,Pinoy Construction & Supply Corp.,CAR,"234 Osmeña Blvd., Baguio",Jose D. Cruz
+F0207,Evergreen Engineering Corp.,Region VII,"230 Burgos St., Mandaue",Josefina F. Lim; Juan L. Salazar
+F0208,Soriano Construction Enterprises,CAR,"899 Del Pilar St., Tabuk",Ricardo B. Aguilar; Jose F. Castillo
+F0209,Lacson Civil Works Inc.,Region XI,"378 Magsaysay Ave., Mati",Josefina T. Dela Cruz
+F0210,LGR Construction Co.,NCR,"778 National Highway, Makati",Eduardo J. Dela Cruz
+F0211,Pag-asa Engineering Co.,CAR,"45 Quezon Blvd., Bangued",Arnel T. Salazar; Danilo P. Garcia
+F0212,JBM Civil Works Corp.,Region VII,"679 Bonifacio St., Mandaue",Antonio S. Chua; Rogelio P. Chua
+F0213,DCT Civil Works Corp.,Region III,"109 Bonifacio St., Tarlac",Ricardo G. Torres; Cristina F. Flores
+F0214,Ocampo Builders Corp.,Region III,"827 Luna St., Cabanatuan",Eduardo S. Chua
+F0215,GJL Construction Co.,Region V,"840 Bonifacio St., Legazpi",Danilo J. Dela Cruz; Ana H. Mendoza
+F0216,ATD Engineering Inc.,Region VII,"382 Mabini Ave., Lapu-Lapu",Antonio T. Ocampo; Jose B. Castillo; Ernesto H. Villanueva
+F0217,Aguilar Builders & Trading Corp.,NCR,"965 Del Pilar St., Quezon City",Romeo G. Lacson
+F0218,Evergreen Engineering Co.,Region IV-A,"931 Bonifacio St., Lucena",Danilo T. Ramos; Maria L. Dela Cruz
+F0219,Mendoza Engineering Services Enterprises,NCR,"90 Luna St., Caloocan",Marites D. Dela Cruz
+F0220,Lacson Contractors Enterprises,Region VI,"935 Magsaysay Ave., Bacolod",Rogelio E. Navarro; Jose F. Gonzales
+F0221,Villanueva Civil Works Inc.,Region III,"103 Quezon Blvd., Angeles",Cristina S. Bautista; Wilfredo D. Manalo
+F0222,Mercado Engineering Inc.,Region IV-A,"607 Burgos St., Lucena",Jose P. Pascual; Romeo L. Ramos; Romeo D. Fernandez
+F0223,Bituin Builders Corp.,Region IV-A,"617 Quezon Blvd., Calamba",Imelda A. Domingo; Gloria D. Villanueva; Ricardo P. Navarro
+F0224,Aguilar Construction Corp.,Region III,"601 Bonifacio St., San Fernando",Teresita B. Salazar; Arnel M. Lacson; Romeo B. Domingo
+F0225,Masagana Infra Works Enterprises,Region VI,"179 Osmeña Blvd., Bacolod",Rosario M. Navarro; Rogelio E. Uy
+F0226,SMJ Civil Works Corp.,Region III,"617 Burgos St., Cabanatuan",Ernesto L. Mendoza
+F0227,Kabisig Builders Inc.,Region VI,"328 Bonifacio St., Iloilo",Liza M. Domingo; Danilo A. Tan; Eduardo D. Ocampo
+F0228,AAJ Contractors Enterprises,Region III,"906 National Highway, Tarlac",Teresita J. Manalo; Ana S. Rivera
+F0229,Navarro Development Inc.,Region XI,"76 Rizal St., Digos",Ricardo E. Mendoza
+F0230,Pinoy Engineering Corp.,CAR,"347 Magsaysay Ave., Bangued",Arnel A. Valdez; Ernesto C. Valdez
+F0231,Kalayaan Development Enterprises,Region V,"677 Luna St., Sorsogon",Ana A. Lacson
+F0232,Mercado Construction Co.,NCR,"438 Mabini Ave., Makati",Ernesto L. Rivera; Eduardo B. Reyes; Eduardo C. Uy
+F0233,Garcia Construction & Supply Enterprises,Region XI,"501 Luna St., Davao",Cristina G. Navarro; Teresita T. Manalo; Teresita C. Mercado
+F0234,Bautista Development Co.,NCR,"155 Mabini Ave., Quezon City",Teresita R. Soriano; Wilfredo L. Gonzales; Cristina A. Manalo
+F0235,Reyes Contractors Inc.,Region XI,"307 Mabini Ave., Mati",Maria J. Ramos; Ana R. Mercado; Lourdes C. Flores
+F0236,BRJ Development Inc.,Region V,"328 Mabini Ave., Legazpi",Cristina G. Chua; Antonio J. Aguilar
+F0237,Mabuhay Civil Works Enterprises,CAR,"425 Bonifacio St., La Trinidad",Romeo L. Mendoza; Ana L. Mendoza; Carmela S. Pascual
+F0238,Sunrise Contractors Enterprises,NCR,"177 Luna St., Caloocan",Gloria L. Lacson
+F0239,Fernandez Development Corp.,Region XI,"943 Luna St., Digos",Ricardo S. Sy
+F0240,Mercado Builders Inc.,Region III,"308 Del Pilar St., Malolos",Josefina G. Garcia; Eduardo H. Flores
+F0241,Reyes Engineering Services Co.,NCR,"528 Bonifacio St., Quezon City",Arnel J. Lacson; Ramon R. Reyes
+F0242,Fernandez Construction Inc.,NCR,"468 Rizal St., Makati",Eduardo E. Salazar; Danilo J. Lacson; Ernesto T. Torres
+F0243,Island Civil Works Enterprises,Region III,"984 Del Pilar St., Cabanatuan",Teresita F. Aquino; Antonio P. Garcia; Carmela A. Manalo
+F0244,Aguilar Development Inc.,Region IV-A,"694 Quezon Blvd., Lucena",Marites J. Reyes; Wilfredo R. Santos; Imelda T. Villanueva
+F0245,Flores Development Co.,Region V,"730 Luna St., Iriga",Teresita H. Tan; Eduardo H. Sy
+F0246,Valdez Civil Works Corp.,NCR,"524 Burgos St., Taguig",Gloria L. Uy; Carmela M. Mendoza; Imelda B. Domingo
+F0247,Dela Cruz Construction & Supply Co.,Region V,"193 Bonifacio St., Daet",Maria R. Lacson
+F0248,ARK Construction & Supply Co.,Region VII,"415 National Highway, Cebu",Arnel L. Castillo; Ricardo P. Gonzales; Liza J. Rivera
+F0249,Lim Construction & Supply Inc.,Region III,"301 Mabini Ave., Tarlac",Josefina E. Navarro
+F0250,Morales Builders Inc.,Region VI,"229 Luna St., San Jose",Teresita E. Uy; Danilo S. Torres
+F0251,Rivera Civil Works Corp.,Region XI,"911 Quezon Blvd., Panabo",Liza G. Sy
+F0252,Rivera Engineering Inc.,Region VI,"420 Magsaysay Ave., San Jose",Ricardo S. Navarro
+F0253,KED Engineering Inc.,Region XI,"805 Mabini Ave., Tagum",Marites M. Valdez; Rogelio G. Rivera; Rogelio A. Cruz
+F0254,Domingo Construction Co.,Region IV-A,"19 Rizal St., Batangas",Arnel T. Pascual
+F0255,Kalayaan Civil Works Co.,Region III,"67 Rizal St., Malolos",Danilo P. Domingo; Marites T. Villanueva
+F0256,Morales Development Inc.,Region VII,"20 Quezon Blvd., Mandaue",Ramon D. Reyes; Romeo J. Aquino; Ana F. Cruz
+F0257,Dela Cruz Engineering Services Corp.,NCR,"678 Mabini Ave., Quezon City",Arnel B. Soriano
+F0258,Liwanag Contractors Inc.,Region IV-A,"712 Rizal St., Lucena",Liza B. Lim; Gloria L. Villanueva
+F0259,SMB Construction & Supply Corp.,CAR,"510 Quezon Blvd., Bangued",Wilfredo E. Castillo
+F0260,Reyes Construction Enterprises,Region IV-A,"705 Del Pilar St., Lucena",Jose A. Garcia
+F0261,Mercado Contractors Inc.,CAR,"799 Osmeña Blvd., Baguio",Josefina B. Tan; Ernesto D. Aguilar; Carmela E. Aguilar
+F0262,AEG Builders & Trading Enterprises,CAR,"98 Rizal St., Baguio",Liza M. Aquino
+F0263,Morales Civil Works Co.,CAR,"382 Burgos St., La Trinidad",Rogelio G. Aguilar
+F0264,Evergreen Contractors Enterprises,Region III,"116 Bonifacio St., San Fernando",Ana G. Rivera
+F0265,Uy Civil Works Enterprises,Region VI,"627 Rizal St., Roxas",Imelda B. Soriano; Danilo A. Ocampo
+F0266,RLT Civil Works Inc.,Region VI,"532 Osmeña Blvd., Bacolod",Marites M. Dela Cruz
+F0267,Mercado Civil Works Corp.,NCR,"659 Bonifacio St., Taguig",Imelda S. Aquino; Juan R. Fernandez
+F0268,United Construction Inc.,Region VII,"413 Quezon Blvd., Cebu",Danilo R. Mercado; Juan S. Fernandez
+F0269,Liwanag Construction Corp.,Region VII,"423 Rizal St., Lapu-Lapu",Jose S. Garcia; Gloria L. Sy; Fernando J. Flores
+F0270,Ocampo Builders & Trading Corp.,Region IV-A,"865 Del Pilar St., Lucena",Wilfredo L. Rivera; Arnel M. Salazar; Arnel H. Torres
+F0271,GGR Construction & Supply Co.,CAR,"47 Bonifacio St., Bontoc",Arnel P. Soriano
+F0272,BJD Contractors Inc.,Region VI,"111 National Highway, Iloilo",Liza L. Torres; Wilfredo T. Mercado; Danilo M. Morales
+F0273,SAL Infra Works Enterprises,Region III,"709 Magsaysay Ave., Angeles",Ramon B. Manalo; Liza L. Chua; Fernando T. Manalo
+F0274,Santos Construction & Supply Enterprises,Region III,"142 National Highway, Cabanatuan",Josefina J. Sy; Arnel J. Chua; Arnel P. Flores
+F0275,Gonzales Builders & Trading Inc.,Region III,"516 Osmeña Blvd., Malolos",Ana R. Pascual; Cristina H. Soriano; Liza P. Uy
+F0276,Cruz Engineering Services Corp.,NCR,"391 Bonifacio St., Quezon City",Maria D. Lim; Wilfredo R. Aquino; Carmela M. Tan
+F0277,Pag-asa Construction & Supply Inc.,NCR,"368 Del Pilar St., Quezon City",Liza P. Gonzales; Josefina M. Manalo; Rosario J. Uy
+F0278,Pag-asa Infra Works Enterprises,Region VI,"990 Osmeña Blvd., Iloilo",Josefina E. Castillo
+F0279,Manalo Contractors Inc.,Region VI,"774 Magsaysay Ave., Bacolod",Gloria D. Castillo; Carmela H. Navarro; Liza B. Navarro
+F0280,Pascual Infra Works Corp.,Region VII,"286 Osmeña Blvd., Tagbilaran",Lourdes L. Tan
+F0281,Ocampo Engineering Corp.,Region III,"951 Burgos St., Cabanatuan",Wilfredo T. Sy
+F0282,Navarro Builders Co.,Region IV-A,"980 Bonifacio St., Imus",Fernando C. Soriano
+F0283,DDR Builders & Trading Co.,Region VI,"301 Quezon Blvd., Bacolod",Imelda J. Santos; Ana M. Pascual; Danilo D. Dela Cruz
+F0284,Uy Infra Works Corp.,Region VII,"263 Osmeña Blvd., Tagbilaran",Fernando S. Salazar
+F0285,Torres Construction Co.,Region IV-A,"329 Osmeña Blvd., Calamba",Lourdes R. Santos
+F0286,Pacific Development Enterprises,CAR,"211 Osmeña Blvd., Bontoc",Juan P. Ramos; Jose H. Domingo; Maria B. Ocampo
+F0287,Lacson Builders Inc.,Region V,"418 National Highway, Iriga",Rogelio G. Chua; Jose G. Torres; Cristina A. Ocampo
+F0288,BGL Builders Co.,Region V,"622 Mabini Ave., Sorsogon",Rogelio G. Reyes; Imelda C. Gonzales
+F0289,Santos Engineering Services Co.,Region III,"306 Burgos St., San Fernando",Cristina C. Torres; Maria A. Lacson; Cristina J. Garcia
+F0290,Pascual Builders & Trading Inc.,Region VII,"928 Osmeña Blvd., Mandaue",Lourdes D. Tan
+F0291,Bituin Civil Works Corp.,Region XI,"661 Osmeña Blvd., Davao",Liza B. Tan; Ana D. Fernandez
+F0292,RDB Construction & Supply Corp.,Region IV-A,"326 Del Pilar St., Antipolo",Gloria M. Sy; Arnel L. Ramos
+F0293,Apex Infra Works Inc.,NCR,"321 Quezon Blvd., Pasig",Josefina M. Valdez; Antonio S. Salazar; Ramon M. Domingo
+F0294,Ocampo Construction & Supply Enterprises,CAR,"180 Magsaysay Ave., Baguio",Ramon T. Castillo; Antonio P. Ocampo
+F0295,LRA Civil Works Enterprises,Region IV-A,"929 Rizal St., Imus",Cristina T. Rivera; Ernesto R. Ramos
+F0296,Masagana Engineering Services Corp.,Region VII,"373 Osmeña Blvd., Cebu",Ricardo D. Torres; Rosario S. Aquino
+F0297,Navarro Engineering Enterprises,Region VI,"42 Quezon Blvd., San Jose",Juan E. Salazar
+F0298,TGJ Contractors Enterprises,NCR,"41 Burgos St., Quezon City",Fernando M. Lim; Josefina E. Navarro; Rogelio M. Manalo
+F0299,Tan Builders Co.,Region VII,"997 Quezon Blvd., Lapu-Lapu",Teresita S. Pascual; Imelda R. Rivera
+F0300,Mabuhay Engineering Enterprises,Region III,"236 Mabini Ave., Cabanatuan",Antonio D. Ramos; Lourdes C. Salazar; Gloria P. Torres
+F0301,Uy Development Inc.,Region VII,"23 Quezon Blvd., Cebu",Romeo L. Aquino
+F0302,MCA Engineering Co.,Region III,"530 National Highway, Cabanatuan",Ernesto A. Uy; Juan D. Mercado; Gloria H. Rivera
+F0303,Domingo Contractors Corp.,Region IV-A,"388 National Highway, Batangas",Jose D. Morales
+F0304,BCK Civil Works Corp.,CAR,"96 Del Pilar St., La Trinidad",Cristina S. Santos; Wilfredo M. Valdez; Fernando G. Salazar
+F0305,Sy Development Enterprises,Region VII,"359 Magsaysay Ave., Lapu-Lapu",Marites C. Tan
+F0306,Archipelago Builders Co.,Region VII,"264 Quezon Blvd., Cebu",Josefina R. Santos; Romeo J. Torres; Fernando A. Manalo
+F0307,Sy Infra Works Co.,CAR,"159 National Highway, Bangued",Antonio S. Valdez; Romeo F. Lim
+F0308,Santos Infra Works Enterprises,Region III,"380 Osmeña Blvd., Cabanatuan",Antonio E. Pascual; Wilfredo P. Lacson
+F0309,Bautista Engineering Corp.,Region IV-A,"521 National Highway, Lucena",Gloria P. Bautista; Lourdes G. Santos; Juan S. Ramos
+F0310,Flores Builders Co.,Region IV-A,"380 Mabini Ave., Imus",Josefina G. Lacson
+F0311,Villanueva Civil Works Corp.,Region III,"656 Del Pilar St., Tarlac",Eduardo S. Uy
+F0312,Lacson Engineering Services Inc.,Region III,"691 Rizal St., Malolos",Ernesto A. Aquino
+F0313,Northstar Builders & Trading Enterprises,Region VII,"601 Quezon Blvd., Lapu-Lapu",Josefina P. Ocampo
+F0314,Aquino Engineering Services Co.,Region VI,"987 Luna St., Roxas",Eduardo H. Lacson; Romeo A. Tan; Lourdes G. Morales
+F0315,Bagong Lahi Builders & Trading Corp.,Region V,"898 Osmeña Blvd., Daet",Arnel H. Manalo; Romeo H. Dela Cruz
+F0316,Manalo Contractors Corp.,Region XI,"120 Luna St., Davao",Ernesto R. Gonzales; Liza P. Gonzales
+F0317,Reyes Engineering Services Corp.,Region V,"920 Luna St., Daet",Liza P. Domingo; Juan J. Navarro
+F0318,MEC Development Enterprises,Region IV-A,"241 Quezon Blvd., Lucena",Rosario D. Dela Cruz
+F0319,BBB Contractors Corp.,NCR,"869 Del Pilar St., Makati",Ricardo H. Lim; Imelda C. Morales; Antonio G. Gonzales
+F0320,TJK Engineering Services Corp.,Region VI,"404 Bonifacio St., San Jose",Arnel J. Aguilar
+F0321,DJM Builders Co.,Region VI,"628 Luna St., Roxas",Antonio D. Lim; Imelda L. Domingo; Teresita C. Fernandez
+F0322,Reyes Builders & Trading Co.,Region VII,"287 Del Pilar St., Mandaue",Ricardo D. Torres; Ramon L. Gonzales
+F0323,SCK Construction Inc.,Region VII,"512 Bonifacio St., Lapu-Lapu",Josefina F. Fernandez; Carmela E. Bautista; Rogelio B. Aquino
+F0324,Valdez Builders Enterprises,Region VI,"267 Burgos St., Kalibo",Cristina T. Tan; Teresita A. Soriano; Ana F. Castillo
+F0325,Tan Engineering Co.,Region VI,"333 Osmeña Blvd., San Jose",Danilo T. Garcia; Rogelio L. Uy; Danilo M. Ramos
+F0326,Dela Cruz Builders & Trading Enterprises,Region VII,"870 Mabini Ave., Cebu",Ricardo D. Chua
+F0327,Summit Civil Works Enterprises,Region V,"909 Del Pilar St., Sorsogon",Romeo J. Mercado; Marites C. Navarro; Jose C. Dela Cruz
+F0328,Pascual Builders Inc.,Region III,"407 Mabini Ave., San Fernando",Imelda J. Bautista
+F0329,Santos Builders Corp.,Region V,"633 Bonifacio St., Legazpi",Rogelio E. Gonzales; Rosario P. Uy; Danilo M. Villanueva
+F0330,ARG Builders & Trading Enterprises,Region XI,"999 Osmeña Blvd., Digos",Danilo C. Navarro; Romeo L. Aguilar; Ernesto P. Valdez
+F0331,BKE Builders & Trading Enterprises,Region V,"160 Luna St., Legazpi",Fernando S. Villanueva
+F0332,Garcia Contractors Enterprises,Region V,"10 National Highway, Sorsogon",Rosario R. Santos; Cristina F. Castillo; Marites T. Valdez
+F0333,Pinoy Infra Works Enterprises,Region IV-A,"270 Mabini Ave., Antipolo",Rosario J. Lim; Carmela M. Lim; Marites D. Ocampo
+F0334,KMK Construction & Supply Enterprises,Region IV-A,"329 Rizal St., Batangas",Cristina A. Navarro
+F0335,Summit Contractors Corp.,Region IV-A,"93 Bonifacio St., Calamba",Eduardo F. Soriano; Carmela R. Fernandez
+F0336,Ocampo Construction Co.,CAR,"864 Bonifacio St., Baguio",Wilfredo G. Ocampo; Cristina H. Navarro
+F0337,Mercado Infra Works Corp.,CAR,"998 Quezon Blvd., Bontoc",Rosario P. Cruz; Eduardo H. Mendoza
+F0338,Pacific Construction & Supply Co.,Region III,"645 Rizal St., Cabanatuan",Ana E. Rivera; Ernesto E. Castillo; Teresita T. Bautista
+F0339,TEM Builders Enterprises,Region IV-A,"10 Rizal St., Imus",Imelda P. Ramos; Teresita R. Garcia; Rosario C. Fernandez
+F0340,Gonzales Construction Corp.,Region VI,"661 Bonifacio St., Bacolod",Ramon H. Gonzales
+F0341,Aquino Builders & Trading Enterprises,Region IV-A,"22 National Highway, Lucena",Ramon E. Cruz; Imelda P. Mercado; Cristina E. Fernandez
+F0342,Bituin Builders & Trading Enterprises,Region V,"889 Magsaysay Ave., Daet",Juan J. Ramos
+F0343,Valdez Builders & Trading Enterprises,NCR,"795 Osmeña Blvd., Caloocan",Lourdes T. Reyes; Gloria S. Salazar; Wilfredo L. Dela Cruz
+F0344,Bagong Lahi Engineering Services Enterprises,Region IV-A,"537 Del Pilar St., Imus",Gloria E. Chua
+F0345,LRB Construction Inc.,Region III,"895 Rizal St., Angeles",Imelda D. Mendoza
+F0346,Tan Contractors Co.,NCR,"376 Quezon Blvd., Taguig",Juan A. Flores; Ernesto H. Garcia; Danilo R. Bautista
+F0347,Pascual Infra Works Co.,NCR,"844 Magsaysay Ave., Makati",Maria P. Ocampo; Carmela B. Flores; Fernando B. Mendoza
+F0348,Ramos Development Inc.,Region III,"572 Osmeña Blvd., Tarlac",Ana R. Pascual; Liza H. Valdez; Ana C. Navarro
+F0349,Torres Engineering Enterprises,Region VI,"925 Burgos St., Bacolod",Teresita G. Valdez; Josefina F. Dela Cruz
+F0350,Pacific Engineering Services Co.,Region VI,"985 Del Pilar St., San Jose",Jose P. Cruz; Carmela L. Reyes
+F0351,Fernandez Construction & Supply Inc.,Region IV-A,"877 Burgos St., Calamba",Antonio T. Morales; Cristina L. Ramos; Ana A. Aguilar
+F0352,Masagana Civil Works Inc.,Region IV-A,"263 Luna St., Calamba",Rogelio L. Flores; Josefina B. Chua; Imelda C. Fernandez
+F0353,Sy Builders Co.,NCR,"749 Magsaysay Ave., Caloocan",Wilfredo A. Domingo
+F0354,Valdez Builders Inc.,NCR,"650 National Highway, Quezon City",Fernando A. Chua; Cristina L. Ramos
+F0355,ARS Infra Works Enterprises,CAR,"228 National Highway, Tabuk",Ramon C. Domingo; Juan H. Bautista
+F0356,LJT Engineering Inc.,Region XI,"573 Quezon Blvd., Mati",Ernesto L. Castillo; Cristina L. Dela Cruz
+F0357,Northstar Builders & Trading Corp.,CAR,"688 National Highway, Bontoc",Teresita D. Chua; Teresita L. Reyes
+F0358,Pinoy Civil Works Enterprises,Region III,"452 Rizal St., Angeles",Liza F. Ramos
+F0359,SAD Civil Works Inc.,Region V,"15 Burgos St., Legazpi",Danilo H. Reyes; Ricardo D. Flores
+F0360,Villanueva Engineering Services Enterprises,Region III,"712 Rizal St., Tarlac",Liza J. Cruz; Antonio C. Bautista; Carmela D. Lim
+F0361,Tan Builders Enterprises,Region V,"920 Luna St., Daet",Carmela S. Manalo
+F0362,Evergreen Builders Co.,Region XI,"888 Magsaysay Ave., Panabo",Lourdes D. Morales
+F0363,Aquino Construction Corp.,Region IV-A,"945 Osmeña Blvd., Lucena",Imelda G. Aquino; Jose F. Pascual
+F0364,LET Construction Co.,Region VII,"912 Rizal St., Lapu-Lapu",Rosario C. Domingo; Rogelio M. Villanueva
+F0365,Evergreen Civil Works Inc.,Region VII,"247 Magsaysay Ave., Mandaue",Carmela T. Domingo; Danilo J. Villanueva
+F0366,Masagana Development Inc.,Region V,"706 Osmeña Blvd., Naga",Wilfredo C. Aquino; Ricardo B. Torres
+F0367,Fernandez Infra Works Co.,Region XI,"764 Luna St., Tagum",Ana C. Navarro
+F0368,Gonzales Civil Works Inc.,Region IV-A,"237 Rizal St., Lucena",Arnel R. Rivera
+F0369,Aguilar Builders & Trading Inc.,Region VII,"504 Del Pilar St., Mandaue",Eduardo D. Cruz
+F0370,Mabuhay Infra Works Inc.,Region IV-A,"776 Quezon Blvd., Calamba",Danilo S. Fernandez
+F0371,Rivera Development Enterprises,Region VII,"795 Rizal St., Lapu-Lapu",Rogelio P. Chua; Rogelio L. Cruz; Fernando B. Mercado
+F0372,DLL Infra Works Corp.,Region VII,"529 Rizal St., Mandaue",Danilo G. Sy; Wilfredo S. Uy
+F0373,Cruz Construction Inc.,Region XI,"850 Del Pilar St., Davao",Fernando B. Navarro; Wilfredo L. Villanueva; Rogelio G. Chua
+F0374,Bituin Development Enterprises,CAR,"257 Burgos St., La Trinidad",Josefina B. Garcia; Ana P. Mercado; Ernesto F. Garcia
+F0375,Evergreen Construction Inc.,Region VI,"580 Bonifacio St., Roxas",Lourdes R. Bautista
+F0376,Metro Contractors Co.,Region III,"121 Bonifacio St., Angeles",Gloria R. Tan
+F0377,Mendoza Engineering Services Corp.,Region XI,"244 Quezon Blvd., Panabo",Imelda H. Soriano; Danilo B. Santos; Rosario T. Lim
+F0378,Aquino Development Corp.,Region III,"152 Rizal St., Malolos",Ramon S. Cruz
+F0379,CCR Construction & Supply Inc.,Region XI,"768 Magsaysay Ave., Digos",Juan R. Sy
+F0380,Morales Builders Enterprises,CAR,"300 Del Pilar St., La Trinidad",Arnel S. Lim
+F0381,Reyes Development Corp.,CAR,"586 Osmeña Blvd., Baguio",Josefina P. Uy; Marites L. Chua
+F0382,Gonzales Engineering Services Enterprises,Region XI,"828 Bonifacio St., Panabo",Arnel E. Castillo
+F0383,Bayanihan Builders Inc.,Region VII,"424 Rizal St., Tagbilaran",Cristina R. Flores; Jose M. Castillo
+F0384,Sunrise Construction & Supply Co.,Region VI,"786 Rizal St., Iloilo",Ricardo F. Lacson; Josefina L. Reyes; Lourdes D. Domingo
+F0385,Uy Contractors Corp.,Region III,"494 Bonifacio St., Tarlac",Ricardo H. Soriano; Josefina A. Sy; Romeo P. Chua
+F0386,RGT Builders & Trading Corp.,Region III,"288 Rizal St., Malolos",Ernesto J. Aquino; Romeo L. Manalo
+F0387,Liwanag Construction & Supply Co.,NCR,"279 National Highway, Quezon City",Rosario F. Mercado; Carmela D. Sy
+F0388,Apex Development Corp.,Region XI,"519 Rizal St., Mati",Ramon D. Domingo; Imelda P. Sy; Wilfredo F. Ramos
+F0389,Kalayaan Engineering Services Inc.,Region IV-A,"742 Rizal St., Antipolo",Arnel S. Torres; Jose E. Cruz
+F0390,Flores Builders & Trading Enterprises,NCR,"106 Osmeña Blvd., Makati",Romeo R. Sy
+F0391,Pacific Development Co.,Region V,"546 Burgos St., Iriga",Ana E. Ramos; Lourdes E. Torres; Jose L. Morales
+F0392,Ramos Builders & Trading Co.,Region III,"966 Luna St., Cabanatuan",Lourdes B. Sy
+F0393,Bayanihan Construction Corp.,Region VII,"56 Mabini Ave., Dumaguete",Lourdes P. Mercado; Gloria F. Sy
+F0394,Golden Engineering Services Corp.,Region XI,"582 Bonifacio St., Davao",Danilo B. Aguilar; Carmela M. Aguilar; Imelda D. Gonzales
+F0395,Morales Builders & Trading Enterprises,Region III,"717 Burgos St., Malolos",Imelda A. Ocampo; Imelda B. Pascual
+F0396,TGM Civil Works Inc.,CAR,"416 Mabini Ave., Tabuk",Ernesto B. Sy; Cristina H. Lacson; Romeo G. Dela Cruz
+F0397,KJB Builders & Trading Inc.,Region VII,"804 National Highway, Lapu-Lapu",Cristina P. Dela Cruz; Lourdes M. Ocampo
+F0398,Chua Contractors Corp.,Region XI,"334 Osmeña Blvd., Davao",Lourdes E. Lacson; Juan L. Mendoza
+F0399,Flores Infra Works Co.,Region XI,"661 Rizal St., Davao",Ramon T. Santos
+F0400,LEJ Civil Works Enterprises,Region IV-A,"211 Burgos St., Lucena",Liza E. Valdez; Arnel T. Pascual; Juan L. Santos

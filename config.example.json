@@ -1,0 +1,14 @@
+{
+  "fuzzy_threshold": 0.90,
+  "min_cobids": 8,
+  "overlap_prior": 8,
+  "core_share": 0.5,
+  "cover_max_win_rate": 0.05,
+  "timing_window_minutes": 10,
+  "recurrent_alpha": 0.01,
+  "w_overlap": 0.30,
+  "w_behaviour": 0.30,
+  "w_timing": 0.20,
+  "w_registry": 0.20,
+  "flag_threshold": 0.50
+}
